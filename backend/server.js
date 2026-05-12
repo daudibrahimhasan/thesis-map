@@ -40,6 +40,10 @@ app.use((err, _req, res, _next) => {
 });
 
 const port = Number(process.env.PORT || 4000);
-app.listen(port, () => {
-  console.log(`ThesisMatch backend listening on port ${port}`);
-});
+if (process.env.NODE_ENV !== "production" && !process.env.VERCEL) {
+  app.listen(port, () => {
+    console.log(`ThesisMatch backend listening on port ${port}`);
+  });
+}
+
+module.exports = app;

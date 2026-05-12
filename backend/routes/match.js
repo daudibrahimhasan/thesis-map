@@ -1,7 +1,7 @@
 const express = require("express");
 const { createEnvelope } = require("../utils/response");
 const { rateLimit } = require("../middleware/rateLimit");
-const { listFaculty, buildMatchCandidates } = require("../services/faculty-service");
+const { listFaculty, buildMatchCandidates } = require("../services/index");
 const { tokenizeText, normalizeWhitespace } = require("../utils/text");
 
 const router = express.Router();
@@ -9,7 +9,7 @@ const router = express.Router();
 router.post(
   "/",
   rateLimit({ windowMs: 60 * 60 * 1000, max: 20 }),
-  (req, res) => {
+  async (req, res) => {
     const { thesis_idea, skills = [], department, degree_type } = req.body || {};
 
     if (!normalizeWhitespace(thesis_idea)) {
@@ -27,7 +27,8 @@ router.post(
       return res.status(400).json(createEnvelope(false, null, "No usable keywords found in thesis_idea or skills"));
     }
 
-    const results = listFaculty()
+    const allFaculty = await listFaculty();
+    const results = allFaculty
       .filter((faculty) => {
         if (!degree_type) return true;
         return faculty.degree_types.map((item) => item.toLowerCase()).includes(String(degree_type).toLowerCase());

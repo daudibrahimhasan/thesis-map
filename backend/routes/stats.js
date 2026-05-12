@@ -1,11 +1,11 @@
 const express = require("express");
 const { createEnvelope } = require("../utils/response");
-const { listFaculty } = require("../services/faculty-service");
+const { listFaculty } = require("../services/index");
 
 const router = express.Router();
 
-router.get("/", (_req, res) => {
-  const faculty = listFaculty();
+router.get("/", async (_req, res) => {
+  const faculty = await listFaculty();
   const departments = new Set(faculty.map((member) => member.department));
   const lastUpdated = faculty
     .map((member) => member.last_updated)

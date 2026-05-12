@@ -143,3 +143,71 @@ curl -X POST http://localhost:4000/api/admin/faculty \
 - `/api/match` and `/api/email/draft` are rate-limited to 20 requests per IP per hour.
 - CORS is restricted to the comma-separated origins in `CORS_ORIGINS`.
 - JSON array fields are stored as text in SQLite for easier near-term delivery, while keeping the schema straightforward to migrate later.
+
+## Vercel and Supabase Integration
+
+This project is configured to optionally deploy to **Vercel** and use **Supabase** (PostgreSQL) instead of local SQLite. This is particularly useful because Vercel's serverless environment does not support persistent local SQLite databases.
+
+### Deploying to Vercel
+
+1. Import the project into Vercel from your Git repository.
+2. The root `vercel.json` file is already configured to deploy the Vite frontend and the Express backend simultaneously as a single Vercel project.
+3. Make sure the Framework Preset is set to "Other" or "Vite".
+4. Add the necessary Environment Variables (see below).
+
+### Using Supabase
+
+To switch the data source from the local SQLite database to Supabase, you must set the following environment variables in your Vercel project settings (or in your local `.env` file):
+
+- `SUPABASE_URL`: The URL of your Supabase project (e.g., `https://your-project.supabase.co`).
+- `SUPABASE_ANON_KEY`: The anon public key for your Supabase project.
+
+Once these environment variables are set, the backend will automatically use the `supabase-service.js` and connect to your Supabase PostgreSQL database instead of using `node:sqlite`.
+
+#### Supabase Database Schema Setup
+
+You will need to run the following SQL queries in your Supabase SQL Editor to match the expected schema:
+
+```sql
+CREATE TABLE faculty (
+  id SERIAL PRIMARY KEY,
+  name TEXT NOT NULL,
+  email TEXT NOT NULL UNIQUE,
+  department TEXT NOT NULL,
+  designation TEXT,
+  bio TEXT,
+  available_slots INTEGER NOT NULL DEFAULT 0,
+  last_updated TIMESTAMP NOT NULL
+);
+
+CREATE TABLE faculty_degree_types (
+  faculty_id INTEGER REFERENCES faculty(id) ON DELETE CASCADE,
+  degree_type TEXT NOT NULL,
+  PRIMARY KEY (faculty_id, degree_type)
+);
+
+CREATE TABLE research_fields (
+  id SERIAL PRIMARY KEY,
+  name TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE faculty_research_fields (
+  faculty_id INTEGER REFERENCES faculty(id) ON DELETE CASCADE,
+  field_id INTEGER REFERENCES research_fields(id) ON DELETE CASCADE,
+  PRIMARY KEY (faculty_id, field_id)
+);
+
+CREATE TABLE faculty_papers (
+  id SERIAL PRIMARY KEY,
+  faculty_id INTEGER REFERENCES faculty(id) ON DELETE CASCADE,
+  title TEXT NOT NULL,
+  year INTEGER,
+  url TEXT
+);
+
+CREATE TABLE faculty_cosupervisors (
+  faculty_id INTEGER REFERENCES faculty(id) ON DELETE CASCADE,
+  cosupervisor_id INTEGER REFERENCES faculty(id) ON DELETE CASCADE,
+  PRIMARY KEY (faculty_id, cosupervisor_id)
+);
+```

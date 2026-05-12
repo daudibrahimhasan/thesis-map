@@ -1,7 +1,7 @@
 const express = require("express");
 const { createEnvelope } = require("../utils/response");
 const { rateLimit } = require("../middleware/rateLimit");
-const { getFacultyById } = require("../services/faculty-service");
+const { getFacultyById } = require("../services/index");
 const { normalizeWhitespace } = require("../utils/text");
 
 const router = express.Router();
@@ -15,7 +15,7 @@ const signOffs = {
 router.post(
   "/draft",
   rateLimit({ windowMs: 60 * 60 * 1000, max: 20 }),
-  (req, res) => {
+  async (req, res) => {
     const {
       student_name,
       student_id,
@@ -30,7 +30,7 @@ router.post(
       return res.status(400).json(createEnvelope(false, null, "Missing required fields for email draft"));
     }
 
-    const faculty = getFacultyById(faculty_id);
+    const faculty = await getFacultyById(faculty_id);
     if (!faculty) {
       return res.status(404).json(createEnvelope(false, null, "Faculty not found"));
     }

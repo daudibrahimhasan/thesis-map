@@ -5,12 +5,12 @@ const {
   getFacultyById,
   filterFaculty,
   resolveCosupervisors,
-} = require("../services/faculty-service");
+} = require("../services/index");
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
-  const faculty = listFaculty();
+router.get("/", async (req, res) => {
+  const faculty = await listFaculty();
   const result = filterFaculty(faculty, req.query);
 
   res.json(
@@ -24,8 +24,8 @@ router.get("/", (req, res) => {
   );
 });
 
-router.get("/:id", (req, res) => {
-  const faculty = getFacultyById(req.params.id);
+router.get("/:id", async (req, res) => {
+  const faculty = await getFacultyById(req.params.id);
   if (!faculty) {
     return res.status(404).json(createEnvelope(false, null, "Faculty not found"));
   }
@@ -33,7 +33,7 @@ router.get("/:id", (req, res) => {
   return res.json(
     createEnvelope(true, {
       ...faculty,
-      cosupervisors: resolveCosupervisors(faculty),
+      cosupervisors: await resolveCosupervisors(faculty),
     })
   );
 });
