@@ -1,0 +1,133 @@
+.bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.sky {
+  background:
+    radial-gradient(circle at 20% 15%, rgba(255, 255, 255, 0.9), transparent 24%),
+    radial-gradient(circle at 80% 10%, rgba(186, 230, 253, 0.85), transparent 28%),
+    linear-gradient(180deg, #DFF6FF 0%, #F8FCFF 55%, #EEF8FF 100%);
+}
+
+.sunlight {
+  background:
+    radial-gradient(circle at 18% 14%, rgba(255, 255, 255, 0.62), transparent 18%),
+    radial-gradient(circle at 82% 12%, rgba(125, 211, 252, 0.22), transparent 24%),
+    linear-gradient(180deg, #DFF6FF 0%, #F8FCFF 55%, #EEF8FF 100%);
+}
+
+.cloud {
+  position: absolute;
+  border-radius: 999px;
+  background: var(--cloud);
+  filter: blur(8px);
+  opacity: 0.24;
+  animation: floatCloud 48s linear infinite;
+}
+
+.cloud1 {
+  width: 180px;
+  height: 48px;
+  top: 12%;
+  left: -22%;
+  animation-duration: 58s;
+}
+
+.cloud2 {
+  width: 136px;
+  height: 36px;
+  top: 38%;
+  left: -16%;
+  animation-duration: 44s;
+  animation-delay: -12s;
+}
+
+.cloud3 {
+  width: 220px;
+  height: 58px;
+  top: 72%;
+  left: -28%;
+  animation-duration: 68s;
+  animation-delay: -26s;
+}
+
+.cloud4 {
+  width: 118px;
+  height: 34px;
+  top: 26%;
+  left: -12%;
+  animation-duration: 52s;
+  animation-delay: -8s;
+}
+
+@keyframes floatCloud {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(100vw);
+  }
+}
+
+.sunDot1,
+.sunDot2,
+.sunDot3 {
+  position: absolute;
+  border-radius: 50%;
+  animation: breathe 16s ease-in-out infinite;
+}
+
+.sunDot1 {
+  width: 340px;
+  height: 340px;
+  top: -120px;
+  right: -84px;
+  background: radial-gradient(circle, rgba(125, 211, 252, 0.2) 0%, transparent 72%);
+}
+
+.sunDot2 {
+  width: 420px;
+  height: 420px;
+  bottom: -190px;
+  left: -130px;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.28) 0%, transparent 72%);
+  animation-delay: -5s;
+}
+
+.sunDot3 {
+  width: 240px;
+  height: 240px;
+  top: 50%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, rgba(56, 189, 248, 0.14) 0%, transparent 72%);
+  animation-delay: -10s;
+}
+
+@keyframes breathe {
+  0%,
+  100% {
+    opacity: 0.55;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.92;
+    transform: scale(1.06);
+  }
+}
+
+.noise {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.012;
+  mix-blend-mode: soft-light;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}

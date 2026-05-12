@@ -1,0 +1,7 @@
+/* ── HomePage ── */
+
+.page {
+  position: relative;
+  margin-top: var(--nav-height);
+  z-index: 1;
+}

@@ -1,0 +1,228 @@
+Name,Email,Position,Research Interests
+"Mahbubul Alam Majumdar, PhD [MAM]",majumdar@bracu.ac.bd,Professor,N/A
+Dr. Sadia Hamid Kazi [SKZ],skazi@bracu.ac.bd,Associate Professor & Chairperson,
+Dr. Mohammad Kaykobad [KYK],kaykobad@bracu.ac.bd,Professor,
+Dr. Chowdhury Mofizur Rahman [CMR],rahman.mofizur@bracu.ac.bd,Professor,
+"Matin Saad Abdullah, PhD [MSA]",mabdullah@bracu.ac.bd,Professor,N/A
+Dr. Md. Khalilur Rahman [KHR],khalilur@bracu.ac.bd,Professor,
+Dr. Md. Golam Rabiul Alam [GRA],rabiul.alam@bracu.ac.bd,Professor,"Data Science & Big-data Analytics; Machine Learning, Deep Learning, and Reinforcement Learning; Health informatics, Edge computing, and Medical Image Processing; Affective Computing, Mental Health, and Well-being"
+Dr. Md Sadek Ferdous [SDF],sadek.ferdous@bracu.ac.bd,Professor,Self-sovereign Identity (SSI); Blockchain; Security and Privacy; Identity Management; Trust Management
+Dr. Amitabha Chakrabarty [ACH],amitabha@bracu.ac.bd,Professor,Application of TinyML; Abnormal behaviour detection; Application of ML in Agriculture; Application of U-net architecture in Medical domain; Various Aspects of Software Defined Networking (SDN); Application of Internet of Behaviour (IoB); Application of Machine Leraning in network bandwidth Slicing; Movement Detection in Indoor Positioning Systems of Production Halls; Augmented Intelligence of Things for Vehicle Road Cooperation Systems; Enhancing the Performance of Machine Learning Algorithm in Classifying IoT BotNet Attacks; Role Of Generative AI In Cybersecurity; Some of the Recent Publications
+Dr. Farida Chowdhury [FDC],farida.chowdhury@bracu.ac.bd,Professor,
+Dr. Swakkhar Shatabda [SWK],swakkhar.shatabda@bracu.ac.bd,Professor,Medical report generation and diagnosis using Multimodal data and LLM; Real-Time Recognition System for Shrimp Characteristics; Nucleic Acid Binding Sites in Proteins; Disease Diagnosis using radiogenomics data; Combat Fake News and Media Content; SnoRNA-disease Associations; Human Robot Interaction; Information retrieval from tables in financial documents; Remote Sensing of the Environment for Agriculture; Artificial intelligence agents for biology
+Md. Shafiul Alam [SAS],ext.shafiul.shuvo@bracu.ac.bd,Professor,N/A
+Abu Mohammad Khan [AMK],abu.khan@bracu.ac.bd,Associate Professor,N/A
+Dr. Muhammad Nur Yanhaona [MNY],nur.yanhaona@bracu.ac.bd,Associate Professor,
+Dr. Taiabul Haque [TLQ],taiabul.haque@bracu.ac.bd,Associate Professor,
+Dr. Md. Ashraful Alam [ASA],ashraful.alam@bracu.ac.bd,Associate Professor,Computer Vision; Image Processing; Machine Learning and Deep Learning; CUDA Deep Neural Network (cuDNN); Vision-Language Models (VLMs); Medical Image and Data Analytics; 3D Vision; Machine Vision; Advanced Color Vision for Self-driving Cars & Industrial Solutions; Virtual and Augmented Reality
+Dr. Muhammad Iqbal Hossain [MIH],iqbal.hossain@bracu.ac.bd,Associate Professor,Mutation Testing of Deep Learning Model; Integrity and authentication in the metaverse; AI-Enhanced Security Analytics; Cryptographic Protocols for Secure Multi-Party Computation
+Dr. Farig Yousuf Sadeque [FYS],farig.sadeque@bracu.ac.bd,Associate Professor,
+Dr. Md. Sakir Hossain [MSAH],sakir.hossain@bracu.ac.bd,Associate Professor,"Cybersecurity; Wireless Networks (Data-driven transmitter and receiver design); Biomedical Signal Processing (EEG, ECG, Medical image processing); Applied Machine Learning"
+Dr. Aniqua Nusrat Zereen [AQZ],aniqua@bracu.ac.bd,Assistant Professor,Blind Assistive Systems; Eldercare Systems
+Mr. Annajiat Alim Rasel [AAR],annajiat@bracu.ac.bd,Senior Lecturer,"Applications of Natural Language Processing (NLP); Applications of Data Science (DS) and Pattern Recognition (PR); Applications of Parallel, Distributed, and High-Performance Computing (HPC); Applications of Computer Modeling & Simulation (M&S); Cybersecurity and Ethical Hacking; Vision (Computer Vision and Machine Vision); eLearning, ICT for Development (ICT4D), Education (ICT4ED); Software Testing, Engineering and Architecture; Natural Language Driven User Experience (NLUX) and HCI; AI for Health and Life Science; AI based accessibility for people with disabilities, specially blindness"
+Md. Akhtaruzaman Adnan [AKTD],akhtaruzzaman.adnan@bracu.ac.bd,Senior Lecturer,N/A
+Mr. Moin Mostakim [MMM],mostakim@bracu.ac.bd,Senior Lecturer,Develop a large language model capable of generating Bangla Government papers; Investigate the use of transformers in generating Dockers or Docker-compose yaml which could be used in CI/CD; Building automated testing tools for inspecting the vulnerabilities of a website using a neural network
+Md. Saiful Islam [MSI],md.saiful.islam@bracu.ac.bd,Senior Lecturer,
+Md. Tawhid Anwar [TAW],tawhid.anwar@bracu.ac.bd,Senior Lecturer,Artificial Intelligence; Financial Market Analysis; Machine Learning
+Md. Imran Bin Azad [IBA],imran.azad@bracu.ac.bd,Senior Lecturer,
+Mr. Rubayat Ahmed Khan [RAK],rubayat.ahmed@bracu.ac.bd,Senior Lecturer,
+Ms. Mehnaz Seraj [SRJ],seraj.mehnaz@bracu.ac.bd,Senior Lecturer,
+Sowmitra Das [SDAS],sowmitra.das@bracu.ac.bd,Senior Lecturer,N/A
+Najeefa Nikhat Choudhury [NNC],najeefa.chy@bracu.ac.bd,Senior Lecturer,
+Mahrin Tasfe [MAHR],mahrin.tasfe@bracu.ac.bd,Senior Lecturer,
+Mr. Md. Tanzim Reza [TRZ],tanzim.reza@bracu.ac.bd,Senior Lecturer,
+Ms. Tasnim Ferdous [TNMF],tasnim.ferdous@bracu.ac.bd,Senior Lecturer,
+Dewan Ziaul Karim [DZK],ziaul.karim@bracu.ac.bd,Senior Lecturer,Computer Vision; Image Processing; Machine Learning
+Arif Shakil [ARF],arif.shakil@bracu.ac.bd,Senior Lecturer,Prediction of traffic status in near future
+Mr. Syed Zamil Hasan Shoumo [ZHS],shoumo.hasan@bracu.ac.bd,Senior Lecturer,
+Mr. Rafeed Rahman [RRH],rahman.rafeed@bracu.ac.bd,Senior Lecturer,
+Md. Saiful Bari Siddiqui [SDQ],saiful.bari@bracu.ac.bd,Senior Lecturer,"3D MRI Segmentation for Brain Tumor Detection; Pancreas Segmentation in CT Images for Cancer Detection; Breast Cancer Detection from Mammography, Histopathology, & Ultrasound Images; Epilepsy/Seizure Detection from EEG Signals; Predicting Antibiotic Resistance in Bacterial Strains from Genomic Data; Probiotic Discovery and Functional Prediction from Bacterial Genomes; Predicting Viral Host Range from Genomic Sequences; Disease Classification and Progression Prediction Using Multi-Omics Data Integration with Deep Learning"
+Niaz Ashraf Khan [NZRF],niaz.ashraf@bracu.ac.bd,Senior Lecturer,
+Mr. Md. Aquib Azmain [AQU],aquib.azmain@bracu.ac.bd,Senior Lecturer,Automated Repair of Asymmetric Web Pages during Resolution of Mobile Friendly Problems; Impact of label noise and efficacy of noise filters in software defect prediction; On the Evolutionary Properties of Fix Inducing Changes; A machine learning-based inference and analysis of crop production based on climate parameters in Bangladesh
+Md. Sabbir Ahmed [SBB],sabbir.ahmed@bracu.ac.bd,Senior Lecturer,"An Explainable Machine Learning System for Accurate and Reliable Detection of Crop Pests and Diseases; Enhancing Real-time Video Classification Accuracy using Deep Learning and Improved Preprocessing Techniques; Exploring the Application of Generative Adversarial Networks (GANs) in Medical Imaging: Enhancing Medical Diagnosis Accuracy through Deep Learning; Human-Centric Explainable AI Framework for Enhanced Diagnostic Accuracy in Healthcare; Utilizing Computer Vision for Detecting Human Behavior, Emotions, and Cognitive Responses: An Application in Enhancing Student Engagement; Augmented Reality Navigation for the Visually Impaired; Preserving Digital Integrity: Advancements in DeepFake Detection"
+Shoaib Ahmed Dipu [DPU],shoaib.ahmed@bracu.ac.bd,Lecturer,
+Samiur Rahman [SMUR],rahman.samiur@bracu.ac.bd,Lecturer,
+Ahmed Mahir Ruhan [ADU],ahmed.ruhan@bracu.ac.bd,Lecturer,Machine Learning Applications; Deep Learning; HCI; Computer Vision; Natural Language Processing
+Bijoy Ahmed Saiem [BIJS],bijoy.saiem@bracu.ac.bd,Lecturer,Human-Computer Interaction (HCI); LLM/MLLM Privacy and Security; System Security; Natural Language Processing (NLP)
+Afroza Akther [AFA],afroza.akther@bracu.ac.bd,Lecturer,
+Souvik Ghosh [SVKG],souvik.ghosh@bracu.ac.bd,Lecturer,N/A
+Md Nafiu Rahman [NAFR],nafiu.rahman@bracu.ac.bd,Lecturer,Error
+Nazmus Sakib Touhid [NAST],nazmus.touhid@bracu.ac.bd,Lecturer,Error
+Ittehad Saleh Chowdhury [ITTS],ittehad.chowdhury@bracu.ac.bd,Lecturer,
+Md. Asif Haider [AHF],asif.haider@bracu.ac.bd,Lecturer,Software Engineering and Security; Large Language Models; Human Factors in Computing; Natural Language Processing; AI for Healthcare and Social Good
+Soumya Swagata Biswas [SOSB],soumya.swagata@bracu.ac.bd,Lecturer,N/A
+Md. Ahasanul Alam [AHU],ahasanul.alam@bracu.ac.bd,Lecturer,
+Md Abu Ibrahim ( Iqra ) [AIB],abu.ibrahim@bracu.ac.bd,Lecturer,Deep Learning; Image Processing; Computer Vision; XAI; Signal Processing
+Mr. Abid Jahan Apon [AJA],abid.jahan@bracu.ac.bd,Lecturer,
+Arnob Saha Ankon [ASAK],arnob.ankon@bracu.ac.bd,Lecturer,N/A
+Akib Anjum [AKJ],anjum.akib@bracu.ac.bd,Lecturer,N/A
+Mr. Abdullah Al Nakib [ANK],abdullah.alnakib@bracu.ac.bd,Lecturer,Efficient deep learning model for skin disease classification; Cybersecurity vulnerability detection using LLM; Leveraging LLMs for Automated Document Classification and Information Extraction; An Explainable AI Approach with Lightweight CNNs for Synthetic Image Detection; Efficient deep learning model for waste classification and segmentation; Financial document analysis and data extraction using LLM
+Anika Priodorshinee Mrittika [APM],anika.mrittika@bracu.ac.bd,Lecturer,Human-Computer Interaction [HCI]; Information and Communication Technologies for Development [ICT4D]
+Aniqa Tabassum [AQT],aniqa.tabassum@bracu.ac.bd,Lecturer,
+Ayman Rasheed [ARD],ayman.rasheed@bracu.ac.bd,Lecturer,
+Atanu Roy [ART],atanu.roy@bracu.ac.bd,Lecturer,
+Mohammed Ashfaqul Haque [AFQ],ashfaqul.haque@bracu.ac.bd,Lecturer,Machine Learning; Deep Learning; Artificial Intelligence
+Ateya Ahmed Subarna [ATY],ateya.ahmed@bracu.ac.bd,Lecturer,
+Faria Binta Awal [FBAW],faria.awal@bracu.ac.bd,Lecturer,Bioinformatics; Computational Biology; Computer Vision; Machine Learning; Spatial Transcriptomics; 
+Avinandan Banerjee [AVB],avinandan@bracu.ac.bd,Lecturer,Expert Systems; Machine Learning Applications; Digital Image Processing; Convolutional Neural Networks; Graph Theory/Graph Drawing; Advanced Algorithms
+Ariyan Hossain [AYO],ariyan.hossain@bracu.ac.bd,Lecturer,"Trustworthy and Fairness in AI, ML, and NLP; Interpretability in AI, ML, and NLP; Robustness and Security in AI, ML, and NLP; Multilingual AI, ML, and NLP; Chatbots and Retrieval-Augmented Generation (RAG); Resource-Efficient AI, ML, and NLP; AI, ML, and NLP for Low-Resource Languages; Multimodal AI, ML, and NLP"
+Mohammad Badrul Hossain [BDH],badrul.hossain@bracu.ac.bd,Lecturer,Blockchain; Cryptography; Distributed Systems; Distributed Operating Systems; File Systems
+Mr. Dibyo Fabian Dofadar [DFD],fabian.dofadar@bracu.ac.bd,Lecturer,Artificial Intelligence; Machine Learning; Deep Learning
+Muhammad Ehsanul Kader [EHD],ehsanul.kader@bracu.ac.bd,Lecturer,N/A
+Ehtashamul Haque [EHQ],ehtashamul.haque@bracu.ac.bd,Lecturer,AI on biomedical signals and images; Explainable AI
+Farden Ehsan Khan [FEK],farden.khan@bracu.ac.bd,Lecturer,N/A
+Md. Fatin Ishraq Faruqui [FFR],md.fatin@bracu.ac.bd,Lecturer,
+Md. Fakhruddin Gazzali [FGZ],fakhruddin.gazzali@bracu.ac.bd,Lecturer,Large Language Model (LLM) Based Software Engineering Development; Qualitative Analysis of AI-assisted Code Generation Tools; Empirical Software Engineering; Automated Code Analysis and Error Detection Tools
+Fatiha Ishrar Chowdhury [FIC],fatiha.ishrar@bracu.ac.bd,Lecturer,
+Fardin Zubair Nafis [FZN],fardin.zubair@bracu.ac.bd,Lecturer,
+Mr. Sheikh Araf Noshin [HFN],araf.noshin@bracu.ac.bd,Lecturer,N/A
+Tanhiat Fatema Afnan [TNF],tanhiat.fatema@bracu.ac.bd,Lecturer,
+Lara Khanom [LRK],lara.khanom@bracu.ac.bd,Lecturer,N/A
+Majisha Jahan Disha [MAJI],majisha.jahan@bracu.ac.bd,Lecturer,
+Mir Hamidul Hussain [HMH],hamidul.hussain@bracu.ac.bd,Lecturer,N/A
+Ipshita Bonhi Upoma [IBU],ipshita.upoma@bracu.ac.bd,Lecturer,Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference.; Quantum-Aware Image Encoding and Adversarial Perturbation
+Utsha Kumar Roy [UTKR],utsha.roy@bracu.ac.bd,Lecturer,N/A
+Abdullah Nayem Wasi Emran [ANWE],abdullah.nayem@bracu.ac.bd,Lecturer,Bioinformatics; Machine Learning & AI for Healthcare; Data Mining; Optimization
+Ahmad Farhan Shahriar Chowdhury [FARS],farhan.shahriar@bracu.ac.bd,Lecturer,
+Md. Rifat Rahman [RFR],rifat.rahman@bracu.ac.bd,Lecturer,N/A
+Md. Zulkar Naim [ZLNM],zulkar.naim@bracu.ac.bd,Lecturer,
+Tanveer Rahman [TVRR],tanveer.rahman@bracu.ac.bd,Lecturer,N/A
+Md. Khaliduzzaman Khan Samrat [KKS],md.khaliduzzaman@bracu.ac.bd,Lecturer,Machine Learning; Data Science
+Kaniz Fatema Supti [KFP],kaniz.supti@bracu.ac.bd,Lecturer,N/A
+Kabbya Kantam Patwary [KKP],kabbya.kantam@bracu.ac.bd,Lecturer,N/A
+Ms. Khondoker Nazia Iqbal [KNI],nazia.iqbal@bracu.ac.bd,Lecturer,
+Kazi Kamruzzaman Rabbi [KZMN],kazi.kamruzzaman@bracu.ac.bd,Lecturer,
+Labib Hasan Khan [LBBH],labib.hasan@bracu.ac.bd,Lecturer,Machine Learning & Deep Learning; HCI; Natural Language Processing (NLP); Bias in AI / ML; Computational Social Science or Social Computing; Computer Vision
+Marshia Nujhat [MAU],marshia.nujhat@bracu.ac.bd,Lecturer,
+Sabiha Hasan Mim [MBM],sabiha.mim@bracu.ac.bd,Lecturer,N/A
+Mohammad Fahim [MDF],mohammad.fahim@bracu.ac.bd,Lecturer,
+Mehedi Hasan Emo [MHDE],mehedi.emo@bracu.ac.bd,Lecturer,
+Anindita Labonno [ALB],anindita.labonno@bracu.ac.bd,Lecturer,
+Mushfique Nasir Probor [MNP],mushfique.nasir@bracu.ac.bd,Lecturer,
+Mohammad Nuwaisir Rahman [MNW],nuwaisir.rahman@bracu.ac.bd,Lecturer,
+Md. Moynul Asik Moni [MOM],moynul.moni@bracu.ac.bd,Lecturer,
+Mr. Md. Shamim Mia [MSMA],shamim.mia@bracu.ac.bd,Lecturer,
+Mr. Md. Tanvir Arafat [MTT],tanvir.arafat@bracu.ac.bd,Lecturer,N/A
+A B M Muntasir Rahman [MUNR],abm.muntasir@bracu.ac.bd,Lecturer,
+Sumonta Nandy Amit [NAN],sumonta.amit@bracu.ac.bd,Lecturer,N/A
+NIRJHOR DATTA [NDT],nirjhor.datta@bracu.ac.bd,Lecturer,
+Nafis Karim [NFK],nafis.karim@bracu.ac.bd,Lecturer,N/A
+Niloy Farhan [NLH],niloy.farhan@bracu.ac.bd,Lecturer,Natural Language Processing; Computer Vision; Machine Learning; Deep Learning
+Noshin Nawal [NNL],noshin.nawal@bracu.ac.bd,Lecturer,N/A
+Ms. Narzu Tarannum [NTR],narzu.tarannum@bracu.ac.bd,Lecturer,
+Nazmul Islam [NZU],nazmul.islam1@bracu.ac.bd,Lecturer,
+Partha Bhoumik [PBK],partha.bhoumik@bracu.ac.bd,Lecturer,
+Mr. Purbayan Das [PDS],purbayan.das@bracu.ac.bd,Lecturer,Nanophotonics; Plasmonics; Flat Optics; Matematerials and Non-linear Optics; Integrated Photonics
+Prithu Mahmud [PMD],prithu.mahmud@bracu.ac.bd,Lecturer,N/A
+Prothito Shovon Majumder [PSMD],prothito.shovon@bracu.ac.bd,Lecturer,
+Quazi Ashikur Rahman [QUZA],quazi.ashikur@bracu.ac.bd,Lecturer,Artificial Intelligence; Machine Learning; Image Processing
+Md. Rasel Mia [RAS],rasel.mia@bracu.ac.bd,Lecturer,N/A
+Mr. Rakin Bin Rabbani [RBR],rakin.rabbani@bracu.ac.bd,Lecturer,Machine Learning; Internet of Things; Image Processing; Federated Learning; Knowledge Distillation
+Redowanul Akbar [RDW],redowanul.akbar@bracu.ac.bd,Lecturer,
+Imran Zahid [RHD],imran.zahid@bracu.ac.bd,Lecturer,Data Mining; Data Science; Machine Learning
+Mohammad Rakibul Hasan Mahin [RKBM],mohammad.rakibul@bracu.ac.bd,Lecturer,
+Rafid Ahnaf [RFF],rafid.ahnaf@bracu.ac.bd,Lecturer,
+Raisul Kabir News [RKN],raisul.kabir@bracu.ac.bd,Lecturer,N/A
+Rafiad Sadat Shahir [RSS],rafiad.shahir@bracu.ac.bd,Lecturer,Spiking Neural Network (SNN); Quantum Neural Network (QNN)
+Rifa Tasfiya [RFTS],rifa.tasfiya@bracu.ac.bd,Lecturer,
+Sadif Ahmed [SADA],sadif.ahmed@bracu.ac.bd,Lecturer,
+Saadat Rafid Ahmed [SADF],saadat.ahmed@bracu.ac.bd,Lecturer,Computational Linguistics; Natural Language Processing (NLP); Large Language Model (LLM); Low-resource Language (Bangla); Machine Learning; Artificial Intelligence; Computational Social Science; Retrieval-augmented generation (RAG)
+Sk. Sabit Bin Mosaddek [SBDK],sabit.mosaddek@bracu.ac.bd,Lecturer,N/A
+Farhan Faruk [FFU],farhan.faruk@bracu.ac.bd,Lecturer,
+Shadmin Sultana [SDL],shadmin.sultana@bracu.ac.bd,Lecturer,N/A
+Md Sabbir Hossain [SBHN],sabbir.hossain@bracu.ac.bd,Lecturer,
+Mr. Shadman Shahriar [SDS],shadman.shahriar@bracu.ac.bd,Lecturer,N/A
+Shomen Kundu [SDU],shomen.kundu@bracu.ac.bd,Lecturer,N/A
+Asif Shahriar [SHAH],asif.shahriar@bracu.ac.bd,Lecturer,N/A
+K. M. Shadman Wadith [SHDM],shadman.wadith@bracu.ac.bd,Lecturer,Reinforcement Learning; Multi Modal System; Multi Agent System; Natural Language Processing(NLP); Machine Learning; Artificial Intelligence
+Mr. Shahriar Rahman Rana [SHRR],shahriar.rahman@bracu.ac.bd,Lecturer,Machine Learning; Deep Learning; Human-Centered Computing; AI in Medical or Health Sector; AI4SE
+Sahib Kowsar [SHBK],sahib.kowsar@bracu.ac.bd,Lecturer,
+Mr. Shakir Rouf [SRU],shakir.rouf@bracu.ac.bd,Lecturer,N/A
+Sukarna Sarker [SUE],sukarna.sarkar@bracu.ac.bd,Lecturer,
+Md. Sultanul Arifin [SULT],sultanul.arifin@bracu.ac.bd,Lecturer,N/A
+Swattic Ghose [SWG],swattic.ghose@bracu.ac.bd,Lecturer,
+Showvik Biswas [SWV],showvik.biswas@bracu.ac.bd,Lecturer,
+Mr. Md. Shazid Bin Mahbub [SZD],shazid.mahbub@bracu.ac.bd,Lecturer,N/A
+Sabrina Zaman Ishita [SZI],sz.ishita@bracu.ac.bd,Lecturer,N/A
+Sazzadul Islam [SZZ],sazzadul.islam@bracu.ac.bd,Lecturer,
+Tasnim Ahsan Prome [TAP],tasnim.ahsan@bracu.ac.bd,Lecturer,Machine Learning; Deep Learning; Image Processing
+Tarvir Anjum Aditto [TAV],tarvir.anjum@bracu.ac.bd,Lecturer,Applications of ML/DL in healthcare; Biomedical Signal Processing; Medical Imaging; Computer Vision; Applications of ML/DL in electronics
+Mohammad Tahsin Alam [THL],tahsin.alam@bracu.ac.bd,Lecturer,
+Mr. Tamkin Mahmud Tan [TMD],tamkin.mahmud@bracu.ac.bd,Lecturer,
+Tanvir Muntakim Tonoy [TMY],tanvir.muntakim@bracu.ac.bd,Lecturer,
+Mr. Mirza Md. Tanjim Shorif Mugdho [TSM],mirza.mugdho@bracu.ac.bd,Lecturer,N/A
+Towshik Anam Taj [TWK],towshik.taj@bracu.ac.bd,Lecturer,
+Umme Jannat Taposhi [UJT],jannat.taposhi@bracu.ac.bd,Lecturer,
+Tasneem Mazhar [TSE],tasneem.mazhar@bracu.ac.bd,Lecturer,N/A
+Tasnim Sobhan Upoma [UPM],tasnim.upoma@bracu.ac.bd,Lecturer,N/A
+Utsab Saha [UTS],utsab.saha@bracu.ac.bd,Lecturer,"Biomedical signal processing; Differential privacy; Computer Vision; Machine learning, and deep learning in healthcare; Image Processing"
+Mr. Zaber Mohammad [ZMD],zaber.mohammad@bracu.ac.bd,Lecturer,
+Yasmin Nadia [YND],yasmin.nadia@bracu.ac.bd,Lecturer,
+Zayed Humayun [ZYH],zayed.humayun@bracu.ac.bd,Lecturer,
+Ihzaz Abrar Sadik [ZAZ],ihzaz.sadik@bracu.ac.bd,Lecturer,
+Mirza Abdullah Al Noman [MAO],mirza.abdullah@bracu.ac.bd,Lecturer,Machine Learning; Natural Language Processing
+Md. Muhtasim Mahmud [MTSM],muhtasim.mahmud@bracu.ac.bd,Lecturer,N/A
+Ahmed Mayeesha Reza Agomoni [MZG],ahmed.mayeesha@bracu.ac.bd,Lecturer,
+Pollock Nag [PLN],pollock.nag@bracu.ac.bd,Lecturer,
+Sanjida Tasnim [STNM],sanjida.tasnim@bracu.ac.bd,Lecturer,
+Sumaiya [SMYA],sumaiya@bracu.ac.bd,Lecturer,N/A
+Namirul Islam [NLAM],namirul.islam@bracu.ac.bd,Lecturer,N/A
+Anika Ahmed [ANKH],anika.ahmed@bracu.ac.bd,Lecturer,
+Nafisa Khan Youkee [CNKY],ext.nafisa.youkee@bracu.ac.bd,Adjunct Lecturer,N/A
+Adiba Amreen Alam [CADM],ext.adiba.amreen@bracu.ac.bd,Adjunct Lecturer,N/A
+Mahadi Ibne Bakar [CMIB],ext.mahadi.ibnebakar@bracu.ac.bd,Adjunct Lecturer,N/A
+Aniqa Ibnat Jisa [CAIJ],ext.aniqa.jisa@bracu.ac.bd,Adjunct Lecturer,N/A
+Eshtiak Alam Shihab [CEAS],ext.eshtiak.shihab@bracu.ac.bd,Adjunct Lecturer,N/A
+Anika Afrin [AAF],ext.anika.afrin@bracu.ac.bd,Adjunct Lecturer,
+Ayesha Siddika [ADD],ext.ayesha.siddika@bracu.ac.bd,Adjunct Lecturer,N/A
+Shahriar Hasan Mickey [MKY],ext.shahriar.mickey@bracu.ac.bd,Adjunct Lecturer,N/A
+Md. Anonto Shuvo [ANV],ext.anonto.shuvo@bracu.ac.bd,Adjunct Lecturer,
+M. Shafiul Alam [FUL],ext.shafiul.alam@bracu.ac.bd,Adjunct Lecturer,N/A
+Md. Mahadi Hasan [HAS],ext.md.mahadi@bracu.ac.bd,Adjunct Lecturer,N/A
+Zobayer Hasan [CZBH],ext.zobayer.hasan@bracu.ac.bd,Adjunct Lecturer,N/A
+Adiba Tahsin [CABT],ext.adiba.tahsin@bracu.ac.bd,Adjunct Lecturer,N/A
+Kushol Roy Pritom [KRP],ext.kushol.pritom@bracu.ac.bd,Adjunct Lecturer,N/A
+Moinul Haque [CMHQ],ext.moinul.haque@bracu.ac.bd,Adjunct Lecturer,
+Kaji Sajjad Hossain [KSJ],ext.sajjad.hossain@bracu.ac.bd,Adjunct Lecturer,
+Nafis Chowdhury [CNFH],ext.nafis.chowdhury@bracu.ac.bd,Adjunct Lecturer,
+Sadman Sharif [CSDM],ext.sadman.sharif@bracu.ac.bd,Adjunct Lecturer,
+Mondrita Biswas [CMNB],ext.mondrita.biswas@bracu.ac.bd,Adjunct Lecturer,N/A
+MD Ajmain Mahtab [CAJM],ext.ajmain.mahtab@bracu.ac.bd,Adjunct Lecturer,
+Zabir Ramiz [CZRZ],ext.zabir.ramiz@bracu.ac.bd,Adjunct Lecturer,N/A
+Tawhidur Rahman Khan [CTRK],ext.tawhidur.khan@bracu.ac.bd,Adjunct Lecturer,N/A
+Ayon Roy [CAYR],ext.ayon.roy@bracu.ac.bd,Adjunct Lecturer,
+Mr. Monzur Murshed Muhammad [MOZR],ext.monzur.murshed@bracu.ac.bd,Senior Adjunct Lecturer,N/A
+Mohammad Sayeem Sadat Hossain [MSDH],ext.mohammad.sayeem@bracu.ac.bd,Adjunct Lecturer,"Machine Learning, Deep Learning, and Reinforcement Learning; Blockchain based security systems, IoT; Point Cloud classification"
+Md. Imtiaj Hossain [MTJ],ext.imtiaj.hossain@bracu.ac.bd,Adjunct Lecturer,N/A
+Fairuz Tassnim Prapty [CFTP],ext.fairuz.prapty@bracu.ac.bd,Adjunct Lecturer,N/A
+Fardeen Bin Ibrahim [CFBB],ext.fardeen.ibrahim@bracu.ac.bd,Adjunct Lecturer,
+Nafiz Imtiaz Rafin [NFF],ext.nafiz.rafin@bracu.ac.bd,Adjunct Lecturer,N/A
+Noshin Tabassum [NTB],ext.noshin.tabassum@bracu.ac.bd,Adjunct Lecturer,N/A
+Sara Jerin Prithila [CSJP],ext.sara.prithila@bracu.ac.bd,Adjunct Lecturer,N/A
+MD Rifat Alam Pomil [PML],ext.rifat.pomil@bracu.ac.bd,Adjunct Lecturer,N/A
+Farah Binta Haque [CFBH],ext.farah.haque@bracu.ac.bd,Adjunct Lecturer,Machine Learning; Deep Learning; Signal Processing; Natural Language processing
+Ahnaf Tahmid [CAHT],ext.ahnaf.tahmid@bracu.ac.bd,Adjunct Lecturer,N/A
+Shafin Islam Ohin [CSFO],ext.shafin.ohin@bracu.ac.bd,Adjunct Lecturer,N/A
+Masuk Ridwan Saumo [MRSO],ext.masuk.saumo@bracu.ac.bd,Adjunct Lecturer,
+Mr. Sifat Tanvir [STV],ext.sifat.tanvir@bracu.ac.bd,Adjunct Lecturer,
+Tasnia Juha [TJH],ext.tasnia.juha@bracu.ac.bd,Adjunct Lecturer,
+Sk. Atik Tajwar Sihan [TJW],ext.atik.tajwar@bracu.ac.bd,Adjunct Lecturer,N/A
+Umaiya Ahmed Maisha [UMS],ext.umaiya.maisha@bracu.ac.bd,Adjunct Lecturer,N/A
+Ms. Intesur Ahmed [ISR],intesur.ahmed@bracu.ac.bd,Research Assistant,N/A
+Md Ishmam Tasin [IST],ishmam.tasin@bracu.ac.bd,Research Assistant,
+Md. Rezuwan Hassan [MRH],rezuwan.hassan@bracu.ac.bd,Research Assistant,N/A
+Rawhatur Rabbi [RBB],rawhatur.rabbi@bracu.ac.bd,Research Assistant,N/A
+Md. Fahmid-Ul-Alam Juboraj [RFAJ],fahmid.juboraj@bracu.ac.bd,Research Assistant,N/A
+Md. Yeasin Ali [YAI],yeasin.ali@bracu.ac.bd,Research Assistant,N/A
+Mr. Sarwar Jahan Shajib [DCO],sarwar.jahan@bracu.ac.bd,Department Coordination Officer,N/A
+Md Ashadullah-All-Galib [LTO],ashadullah.galib@bracu.ac.bd,Lab Technical Officer,N/A
+Nasimul Islam [LTO],nasimul.islam@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Md. Nur Alam Miah [LTO],nur.alam@bracu.ac.bd,Lab Technical Officer,N/A
+Md. Hosnain [LTO],md.hosnain@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Md Saiful Islam [LTO],saiful.islam@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Abdul Azim [LTO],abdul.azim@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Md. Miraz Hossain [LTO],miraz.hossain@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Mithun Kumar Sarker [LTO],mithun.kumar@bracu.ac.bd,Lab Technical Officer,N/A
+Md. Nahidul Islam [LTO],nahidul.islam@bracu.ac.bd,Lab Technical Officer,N/A
+Mr. Sourov Kumar Majumdar [LTO],sourov.kumar@bracu.ac.bd,Lab Technical Officer,N/A
+Md Jasim Uddin [LTO],mdjasim.uddin@bracu.ac.bd,Lab Technical Officer,N/A

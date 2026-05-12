@@ -1,0 +1,36 @@
+/* ── TagPill — Semantic Color Coding ── */
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  width: auto;
+  padding: 4px 10px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: transform var(--duration-fast) var(--spring);
+  /* Default: primary/indigo */
+  background: #EEF1E7;
+  color: #4F5B34;
+  border: 1px solid #DDE5CF;
+}
+
+.pill:hover {
+  transform: translateY(-1px);
+}
+
+.pillSmall {
+  composes: pill;
+  font-size: 0.65rem;
+  padding: 2px 7px;
+}
+
+.overflow {
+  composes: pill;
+  background: var(--surface-subtle);
+  color: var(--text-muted);
+  border-color: var(--border);
+}

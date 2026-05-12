@@ -1,0 +1,74 @@
+/* ── DotNav — Production ── */
+
+.wrapper {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  z-index: 10;
+  padding-left: 4px;
+}
+
+.wrapper::before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 7px;
+  width: 1px;
+  background: linear-gradient(to bottom, transparent, var(--border), transparent);
+  z-index: -1;
+}
+
+.dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--text-faint);
+  cursor: pointer;
+  transition: transform 250ms var(--spring),
+              background var(--duration-fast) ease,
+              border-color var(--duration-fast) ease,
+              box-shadow var(--duration-fast) ease;
+  position: relative;
+  opacity: 0.8;
+}
+
+.dot:hover,
+.dotActive {
+  transform: scale(1.6);
+  background: var(--primary);
+  border-color: var(--primary);
+  box-shadow: 0 0 12px rgba(79, 70, 229, 0.4);
+  opacity: 1;
+}
+
+.dotLabel {
+  position: absolute;
+  left: 22px;
+  top: 50%;
+  transform: translateY(-50%) translateX(-4px);
+  font-size: 0.78rem;
+  font-weight: 500;
+  font-family: var(--font-display);
+  color: var(--text);
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity var(--duration-fast) ease, transform var(--duration-normal) var(--ease-out);
+  pointer-events: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 4px 12px;
+  box-shadow: var(--shadow-md);
+}
+
+.dot:hover .dotLabel,
+.dotActive .dotLabel {
+  opacity: 1;
+  transform: translateY(-50%) translateX(0);
+}

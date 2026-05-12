@@ -1,0 +1,142 @@
+/* ── FacultyDrawer — Academic Premium ── */
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.2);
+  z-index: 999;
+  backdrop-filter: blur(2px);
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: var(--drawer-width, 480px);
+  height: 100%;
+  background: #ffffff;
+  border-left: 1px solid var(--border);
+  z-index: 1000;
+  box-shadow: -10px 0 30px rgba(15, 23, 42, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+/* ── Header ── */
+.header {
+  padding: var(--sp-10) var(--sp-6) var(--sp-5);
+  border-bottom: 1px solid var(--border-light);
+  position: relative;
+}
+
+.closeBtn {
+  position: absolute;
+  top: var(--sp-4);
+  right: var(--sp-4);
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gold);
+  border-radius: var(--radius-sm);
+  transition: all var(--duration-fast) ease;
+}
+
+.closeBtn:hover {
+  background: var(--primary-light);
+  color: var(--primary);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  margin-bottom: var(--sp-1);
+  padding-right: var(--sp-12);
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.designation {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.department {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold);
+}
+
+/* ── Body ── */
+.body {
+  padding: var(--sp-6);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-8);
+  flex: 1;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sectionTitle {
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gold);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.bio {
+  font-size: 0.96rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+/* ── Research areas ── */
+.areaList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* ── Draft email button ── */
+.draftBtn {
+  margin-top: auto;
+  margin-bottom: var(--sp-6);
+  padding: 14px 0;
+  width: 100%;
+  text-align: center;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: white;
+  background: var(--primary);
+  border-radius: var(--radius-md);
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(30, 3, 152, 0.2);
+}
+
+.draftBtn:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 600px) {
+  .drawer {
+    width: 100%;
+    border-left: none;
+  }
+}
