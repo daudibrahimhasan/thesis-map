@@ -1,5 +1,5 @@
 const { db } = require("../db");
-const { parseFacultyRow, parseFacultyRows } = require("../utils/faculty");
+const { parseFacultyRow } = require("../utils/faculty");
 const { normalizeWhitespace, tokenizeText } = require("../utils/text");
 
 const selectFacultyBaseById = db.prepare("SELECT * FROM faculty WHERE id = ?");
@@ -52,7 +52,7 @@ function hydrateFacultyRow(row) {
 }
 
 function listFaculty() {
-  return parseFacultyRows(selectAllFacultyBase.all().map(hydrateFacultyRow));
+  return selectAllFacultyBase.all().map(hydrateFacultyRow);
 }
 
 function getFacultyById(id) {

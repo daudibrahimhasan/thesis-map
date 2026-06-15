@@ -5,14 +5,14 @@ const { initializeDatabase } = require("./db");
 const { createEnvelope } = require("./utils/response");
 const { corsMiddleware } = require("./middleware/cors");
 
+initializeDatabase();
+
 const facultyRoutes = require("./routes/faculty");
 const fieldsRoutes = require("./routes/fields");
 const matchRoutes = require("./routes/match");
 const emailRoutes = require("./routes/email");
 const statsRoutes = require("./routes/stats");
 const adminRoutes = require("./routes/admin");
-
-initializeDatabase();
 
 const app = express();
 
@@ -36,7 +36,11 @@ app.use((req, res) => {
 
 app.use((err, _req, res, _next) => {
   const status = err.statusCode || 500;
-  res.status(status).json(createEnvelope(false, null, err.message || "Internal server error"));
+  if (status >= 500) console.error(err);
+  const message = process.env.NODE_ENV === "production"
+    ? "Internal server error"
+    : (err.message || "Internal server error");
+  res.status(status).json(createEnvelope(false, null, message));
 });
 
 const port = Number(process.env.PORT || 4000);

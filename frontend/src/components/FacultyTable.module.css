@@ -69,8 +69,8 @@
 }
 
 .table tbody tr:hover {
-  background: rgba(255, 255, 255, 0.72);
-  box-shadow: inset 0 0 0 1px rgba(15, 23, 42, 0.07);
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: inset 4px 0 0 var(--primary), inset 0 0 0 1px rgba(15, 23, 42, 0.05);
 }
 
 .facultyColumn {
@@ -78,12 +78,21 @@
 }
 
 .initialsColumn {
-  width: 5%;
+  width: 9%;
+  text-align: center;
 }
 
 .researchColumn {
-  width: 45%;
+  width: 41%;
   overflow: hidden;
+}
+
+.researchChips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  min-width: 0;
+  width: 100%;
 }
 
 .availabilityColumn {
@@ -105,7 +114,7 @@
 .avatar {
   width: 38px;
   height: 38px;
-  border-radius: 12px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;

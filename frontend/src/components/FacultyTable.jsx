@@ -71,13 +71,15 @@ export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSort
               </td>
 
               <td className={styles.researchColumn}>
-                <div className={styles.researchText}>
-                  {faculty.researchAreas.length > 0 ? (
-                    faculty.researchAreas.join(', ')
-                  ) : (
-                    <span className={styles.placeholder}>No topics listed</span>
-                  )}
-                </div>
+                {faculty.researchAreas.length > 0 ? (
+                  <div className={styles.researchChips}>
+                    {faculty.researchAreas.map(area => (
+                      <TagPill key={area} label={area} small />
+                    ))}
+                  </div>
+                ) : (
+                  <span className={styles.placeholder}>No topics listed</span>
+                )}
               </td>
 
               <td className={styles.availabilityColumn}>

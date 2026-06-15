@@ -7,8 +7,10 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
-    "seed": "node seed.js"
+    "seed": "node seed.js",
+    "test": "node --test"
   },
+  "devDependencies": {},
   "dependencies": {
     "@supabase/supabase-js": "^2.105.4",
     "dotenv": "^16.4.7",

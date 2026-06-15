@@ -1,3 +1,4 @@
+const crypto = require("crypto");
 const { createEnvelope } = require("../utils/response");
 
 function adminAuth(req, res, next) {
@@ -8,7 +9,8 @@ function adminAuth(req, res, next) {
     return res.status(500).json(createEnvelope(false, null, "ADMIN_API_KEY is not configured"));
   }
 
-  if (!providedKey || providedKey !== expectedKey) {
+  if (!providedKey || providedKey.length !== expectedKey.length ||
+      !crypto.timingSafeEqual(Buffer.from(providedKey), Buffer.from(expectedKey))) {
     return res.status(401).json(createEnvelope(false, null, "Invalid API key"));
   }
 

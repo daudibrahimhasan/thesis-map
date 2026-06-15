@@ -11,6 +11,7 @@ router.post(
   rateLimit({ windowMs: 60 * 60 * 1000, max: 20 }),
   async (req, res) => {
     const { thesis_idea, skills = [], department, degree_type } = req.body || {};
+    const safeSkills = Array.isArray(skills) ? skills : [];
 
     if (!normalizeWhitespace(thesis_idea)) {
       return res.status(400).json(createEnvelope(false, null, "thesis_idea is required"));
@@ -19,7 +20,7 @@ router.post(
     const studentKeywords = Array.from(
       new Set([
         ...tokenizeText(thesis_idea),
-        ...skills.flatMap((skill) => tokenizeText(skill)),
+        ...safeSkills.flatMap((skill) => tokenizeText(skill)),
       ])
     );
 

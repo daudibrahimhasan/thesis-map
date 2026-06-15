@@ -28,7 +28,10 @@ function getTableColumns(tableName) {
   if (!tableExists(tableName)) {
     return [];
   }
-
+  const ALLOWED_TABLES = ["faculty"];
+  if (!ALLOWED_TABLES.includes(tableName)) {
+    throw new Error(`Unknown table: ${tableName}`);
+  }
   return db.prepare(`PRAGMA table_info(${tableName})`).all().map((column) => column.name);
 }
 

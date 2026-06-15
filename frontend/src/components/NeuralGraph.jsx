@@ -315,11 +315,6 @@ export default function NeuralGraph({ onHoverField }) {
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
         
-        // Add a subtle white outline to make text readable if it overflows
-        ctx.lineWidth = 3;
-        ctx.strokeStyle = `rgba(255, 255, 255, ${opacity * 0.7})`;
-        ctx.strokeText(n.label, n.x, drawY);
-
         ctx.fillStyle = '#0F172A';
         ctx.fillText(n.label, n.x, drawY);
 

@@ -43,6 +43,21 @@
   min-width: 0;
 }
 
+.logo span {
+  font-family: 'Epilogue', var(--font-sans);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #4338CA;
+}
+
+.wordmarkAccent {
+  background: linear-gradient(135deg, #38BDF8, #0EA5E9);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
 .logoIcon {
   width: 32px;
   height: 32px;

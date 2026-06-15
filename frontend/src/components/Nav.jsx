@@ -107,7 +107,7 @@ export default function Nav() {
       <div className={styles.navInner}>
         <div className={styles.logo} onClick={() => navigate('/')}>
           <img src="/happy-face.png" className={styles.logoIcon} alt="ThesisMap" />
-          <span>ThesisMap</span>
+          <span className={styles.wordmark}>Thesis<span className={styles.wordmarkAccent}>Map</span></span>
         </div>
 
         <div className={styles.links}>
@@ -203,6 +203,7 @@ export default function Nav() {
   );
 }
 
+// Token signature is validated by Google Identity Services SDK before this callback fires; verify server-side via Google tokeninfo endpoint if this payload is ever used for backend authorization.
 function parseJwt(token) {
   const base64Url = token.split('.')[1];
   const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');

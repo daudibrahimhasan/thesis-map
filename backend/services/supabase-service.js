@@ -45,8 +45,8 @@ async function listFaculty() {
     `)
     .order('name');
     
-  if (error) throw error;
-  
+  if (error) throw new Error(`Database operation failed`);
+
   return parseFacultyRows(data.map(hydrateSupabaseFaculty));
 }
 
@@ -66,7 +66,7 @@ async function getFacultyById(id) {
     
   if (error) {
     if (error.code === 'PGRST116') return null; // Not found
-    throw error;
+    throw new Error(`Database operation failed`);
   }
   
   return hydrateSupabaseFaculty(data);
@@ -97,7 +97,7 @@ async function upsertFacultyRecord(record) {
     await supabase.from('faculty').update(facultyData).eq('id', facultyId);
   } else {
     const { data: inserted, error: insertError } = await supabase.from('faculty').insert(facultyData).select().single();
-    if (insertError) throw insertError;
+    if (insertError) throw new Error(`Database operation failed`);
     facultyId = inserted.id;
   }
 
@@ -233,5 +233,4 @@ module.exports = {
   resolveCosupervisors,
   filterFaculty,
   buildMatchCandidates,
-  supabase
 };
