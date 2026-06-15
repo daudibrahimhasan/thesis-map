@@ -1,0 +1,5223 @@
+[
+  {
+    "id": 1,
+    "name": "A B M Muntasir Rahman",
+    "email": "abm.muntasir@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/212/a_b_m_muntasir_rahman",
+    "websites": [
+      "https://muntasirrb.github.io"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4L95, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MUNR"
+  },
+  {
+    "id": 2,
+    "name": "Abdullah Nayem Wasi Emran",
+    "email": "abdullah.nayem@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Bioinformatics; Machine Learning & AI for Healthcare; Data Mining; Optimization.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Healthcare & Bio"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/438/abdullah_nayem_wasi_emran",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N146, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ANWE"
+  },
+  {
+    "id": 3,
+    "name": "Abu Mohammad Khan",
+    "email": "abu.khan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/73/abu_mohammad_khan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G26, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "AMK"
+  },
+  {
+    "id": 4,
+    "name": "Adiba Amreen Alam",
+    "email": "ext.adiba.amreen@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/500/adiba_amreen_alam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CADM"
+  },
+  {
+    "id": 5,
+    "name": "Adiba Tahsin",
+    "email": "ext.adiba.tahsin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/449/adiba_tahsin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CABT"
+  },
+  {
+    "id": 6,
+    "name": "Afroza Akther",
+    "email": "afroza.akther@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/238/afroza_akther",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K79, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AFA"
+  },
+  {
+    "id": 7,
+    "name": "Ahmad Farhan Shahriar Chowdhury",
+    "email": "farhan.shahriar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/462/ahmad_farhan_shahriar_chowdhury",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N145, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FARS"
+  },
+  {
+    "id": 8,
+    "name": "Ahmed Mahir Ruhan",
+    "email": "ahmed.ruhan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning Applications; Deep Learning; HCI; Computer Vision; Natural Language Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "HCI & Accessibility"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/168/ahmed_mahir_ruhan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L93, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ADU"
+  },
+  {
+    "id": 9,
+    "name": "Ahmed Mayeesha Reza Agomoni",
+    "email": "ahmed.mayeesha@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/235/ahmed_mayeesha_reza_agomoni",
+    "websites": [
+      "https://www.linkedin.com/in/ahmed-mayeesha-reza-agomoni/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4L87, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MZG"
+  },
+  {
+    "id": 10,
+    "name": "Ahnaf Tahmid",
+    "email": "ext.ahnaf.tahmid@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/479/ahnaf_tahmid",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CAHT"
+  },
+  {
+    "id": 11,
+    "name": "Akib Anjum",
+    "email": "anjum.akib@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/261/akib_anjum",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N161, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "AKJ"
+  },
+  {
+    "id": 12,
+    "name": "Anika Afrin",
+    "email": "ext.anika.afrin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/239/anika_afrin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AAF"
+  },
+  {
+    "id": 13,
+    "name": "Anika Ahmed",
+    "email": "anika.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/415/anika_ahmed",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K72, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ANKH"
+  },
+  {
+    "id": 14,
+    "name": "Anika Priodorshinee Mrittika",
+    "email": "anika.mrittika@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Human-Computer Interaction [HCI]; Information and Communication Technologies for Development [ICT4D].",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "HCI & Accessibility"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/286/anika_priodorshinee_mrittika",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K81, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "APM"
+  },
+  {
+    "id": 15,
+    "name": "Anindita Labonno",
+    "email": "anindita.labonno@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/228/anindita_labonno",
+    "websites": [
+      "https://www.linkedin.com/in/aninditalabonno/ https://www.researchgate.net/profile/Anindita-Labonno"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4L88, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ALB"
+  },
+  {
+    "id": 16,
+    "name": "Aniqa Ibnat Jisa",
+    "email": "ext.aniqa.jisa@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/505/aniqa_ibnat_jisa",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CAIJ"
+  },
+  {
+    "id": 17,
+    "name": "Aniqa Tabassum",
+    "email": "aniqa.tabassum@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/349/aniqa_tabassum",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N150, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AQT"
+  },
+  {
+    "id": 18,
+    "name": "Arif Shakil",
+    "email": "arif.shakil@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Prediction of traffic status in near future.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [
+      {
+        "title": "Prediction of traffic status in near future",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/21/arif_shakil",
+    "websites": [
+      "https://www.google.com"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G03, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ARF"
+  },
+  {
+    "id": 19,
+    "name": "Ariyan Hossain",
+    "email": "ariyan.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Trustworthy and Fairness in AI, ML, and NLP; Interpretability in AI, ML, and NLP; Robustness and Security in AI, ML, and NLP; Multilingual AI, ML, and NLP; Chatbots and Retrieval-Augmented Generation (RAG); Resource-Efficient AI, ML, and NLP; AI, ML, and NLP for Low-Resource Languages; Multimodal AI, ML, and NLP.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP",
+      "Cybersecurity",
+      "Explainable AI"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/305/ariyan_hossain",
+    "websites": [
+      "https://ariyanhossain2208.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N153, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AYO"
+  },
+  {
+    "id": 20,
+    "name": "Arnob Saha Ankon",
+    "email": "arnob.ankon@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/498/arnob_saha_ankon",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M102, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "ASAK"
+  },
+  {
+    "id": 21,
+    "name": "Asif Shahriar",
+    "email": "asif.shahriar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/346/asif_shahriar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M124, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SHAH"
+  },
+  {
+    "id": 22,
+    "name": "Atanu Roy",
+    "email": "atanu.roy@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/222/atanu_roy",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M126, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ART"
+  },
+  {
+    "id": 23,
+    "name": "Ateya Ahmed Subarna",
+    "email": "ateya.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/270/ateya_ahmed_subarna",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K77, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ATY"
+  },
+  {
+    "id": 24,
+    "name": "Avinandan Banerjee",
+    "email": "avinandan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Expert Systems; Machine Learning Applications; Digital Image Processing; Convolutional Neural Networks; Graph Theory/Graph Drawing; Advanced Algorithms.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/107/avinandan_banerjee",
+    "websites": [
+      "https://www.linkedin.com/in/banerjee-avinandan/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M118, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AVB"
+  },
+  {
+    "id": 25,
+    "name": "Ayesha Siddika",
+    "email": "ext.ayesha.siddika@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/279/ayesha_siddika",
+    "websites": [
+      "https://www.linkedin.com/in/ms-ayesha-siddika-tonny/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "ADD"
+  },
+  {
+    "id": 26,
+    "name": "Ayman Rasheed",
+    "email": "ayman.rasheed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/120/ayman_rasheed",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M129, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ARD"
+  },
+  {
+    "id": 27,
+    "name": "Ayon Roy",
+    "email": "ext.ayon.roy@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/436/ayon_roy",
+    "websites": [
+      "https://ay-on-roy.github.io/Portfolio/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CAYR"
+  },
+  {
+    "id": 28,
+    "name": "Bijoy Ahmed Saiem",
+    "email": "bijoy.saiem@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Human-Computer Interaction (HCI); LLM/MLLM Privacy and Security; System Security; Natural Language Processing (NLP).",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP",
+      "Cybersecurity",
+      "HCI & Accessibility"
+    ],
+    "recentPapers": [
+      {
+        "title": "Understanding User Perceptions and Gender-Based Preferences in Ride-Sharing Platforms: A Comparative Study of Uber, Pathao, and inDrive in Bangladesh",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/440/bijoy_ahmed_saiem",
+    "websites": [
+      "https://sites.google.com/view/bijoysaeem"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M130, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "BIJS"
+  },
+  {
+    "id": 29,
+    "name": "Dewan Ziaul Karim",
+    "email": "ziaul.karim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Computer Vision; Image Processing; Machine Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Computer Vision"
+    ],
+    "recentPapers": [
+      {
+        "title": "Deep Learning based Medical Image Segmentation and Classification",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Bangla Sign Language Detection using Deep Learning Techniques",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Leveraging Deep Learning and Object Detection Techniques to Produce Feasible Search and Rescue Process Solutions after Natural Calamities in Bangladesh",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Leaf Disease Detection using Convolution Neural Network and Other Deep learning Techniques",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Natural Language Processing - Usage and Scope in Modern Day Data",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/63/dewan_ziaul_karim",
+    "websites": [
+      "https://dewanziaulkarim.pages.dev/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G05, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "DZK"
+  },
+  {
+    "id": 30,
+    "name": "Dr. Amitabha Chakrabarty",
+    "email": "amitabha@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Research interests: Application of TinyML; Abnormal behaviour detection; Application of ML in Agriculture; Application of U-net architecture in Medical domain; Various Aspects of Software Defined Networking (SDN); Application of Internet of Behaviour (IoB); Application of Machine Leraning in network bandwidth Slicing; Movement Detection in Indoor Positioning Systems of Production Halls; Augmented Intelligence of Things for Vehicle Road Cooperation Systems; Enhancing the Performance of Machine Learning Algorithm in Classifying IoT BotNet Attacks; Role Of Generative AI In Cybersecurity; Some of the Recent Publications.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Cybersecurity",
+      "Networking & IoT"
+    ],
+    "recentPapers": [
+      {
+        "title": "Application of TinyML",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Abnormal behaviour detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Application of ML in Agriculture",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Application of U-net architecture in Medical domain",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Various Aspects of Software Defined Networking (SDN)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Application of Internet of Behaviour (IoB)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Application of Machine Leraning in network bandwidth Slicing",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Movement Detection in Indoor Positioning Systems of Production Halls",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Augmented Intelligence of Things for Vehicle Road Cooperation Systems",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Enhancing the Performance of Machine Learning Algorithm in Classifying IoT BotNet Attacks",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Role Of Generative AI In Cybersecurity",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Some of the Recent Publications",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/69/dr_amitabha_chakrabarty",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/amitabha-chakrabarty-phd"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G25, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ACH"
+  },
+  {
+    "id": 31,
+    "name": "Dr. Aniqua Nusrat Zereen",
+    "email": "aniqua@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Assistant Professor",
+    "bio": "Research interests: Blind Assistive Systems; Eldercare Systems.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/125/dr_aniqua_nusrat_zereen",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G16, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AQZ"
+  },
+  {
+    "id": 32,
+    "name": "Dr. Chowdhury Mofizur Rahman",
+    "email": "rahman.mofizur@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/151/dr_chowdhury_mofizur_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G18, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CMR"
+  },
+  {
+    "id": 33,
+    "name": "Dr. Farida Chowdhury",
+    "email": "farida.chowdhury@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/211/dr_farida_chowdhury",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G09, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FDC"
+  },
+  {
+    "id": 34,
+    "name": "Dr. Farig Yousuf Sadeque",
+    "email": "farig.sadeque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/194/dr_farig_yousuf_sadeque",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G29, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FYS"
+  },
+  {
+    "id": 35,
+    "name": "Dr. Md Sadek Ferdous",
+    "email": "sadek.ferdous@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Research interests: Self-sovereign Identity (SSI); Blockchain; Security and Privacy; Identity Management; Trust Management.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Cybersecurity"
+    ],
+    "recentPapers": [
+      {
+        "title": "Self-sovereign Identity (SSI)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Blockchain",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Security and Privacy",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Identity Management",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Trust Management",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/22/dr_md_sadek_ferdous",
+    "websites": [
+      "https://msferdous.info"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G10, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SDF"
+  },
+  {
+    "id": 36,
+    "name": "Dr. Md. Ashraful Alam",
+    "email": "ashraful.alam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Research interests: Computer Vision; Image Processing; Machine Learning and Deep Learning; CUDA Deep Neural Network (cuDNN); Vision-Language Models (VLMs); Medical Image and Data Analytics; 3D Vision; Machine Vision; Advanced Color Vision for Self-driving Cars & Industrial Solutions; Virtual and Augmented Reality.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "recentPapers": [
+      {
+        "title": "Advanced Color Vision Techniques for Normalizing Images in Various Lighting and Adverse Weather Conditions",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "A Vision Transformer-Based Hybrid Neural Architecture for Automated Handwritten Bangla Character Recognition and Braille Conversion: an Ultimate Solution for Touch to Feel for the Visually Impaired",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "3D Glass-free Internet TV System using Integral Imaging",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Efficient Neural Network Architectures for Neurodegenerative Disease Detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "A light-weight Deep Learning Approach for Cervical Cancer Detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "A machine learning approach to detect depression and anxiety using supervised learning",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Early detection of coronary artery blockage using image processing: segmentation, quantification, identification of degree of blockage and risk factors of heart attack",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Exploring the Impact of Display Field-of-view and Display Type on Text Readability and Visual Text Search on Large Displays in Virtual Reality: Impact of Display Field-of-view",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Decentralized federated learning and deep learning leveraging xai-based approach to classify colorectal cancer",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Detection and 3D visualization of brain tumor using deep learning and polynomial interpolation",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "3D brain image segmentation using 3D tiled convolution neural networks",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Real world objects augmentation in virtual 3D environment RealSense SDK, Deep Learning and Game Engine",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Augmented reality education system in developing countries",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "3D visualization of 2D/360 image and navigation in virtual reality through motion processing via smartphone sensors",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/164/dr_md_ashraful_alam",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-ashraful-alam-phd"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G24, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ASA"
+  },
+  {
+    "id": 37,
+    "name": "Dr. Md. Golam Rabiul Alam",
+    "email": "rabiul.alam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Research interests: Data Science & Big-data Analytics; Machine Learning, Deep Learning, and Reinforcement Learning; Health informatics, Edge computing, and Medical Image Processing; Affective Computing, Mental Health, and Well-being.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Computer Vision",
+      "Networking & IoT"
+    ],
+    "recentPapers": [
+      {
+        "title": "Affective Anthropomorphic Intelligent System for Artificial General Intelligence",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Intelligence-assisted learning",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Emotion AI: Emotionomics, Neuromarketing and Mining Mind",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/113/dr_md_golam_rabiul_alam",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-golam-rabiul-alam-phd"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G23, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "GRA"
+  },
+  {
+    "id": 38,
+    "name": "Dr. Md. Khalilur Rahman",
+    "email": "khalilur@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/193/dr_md_khalilur_rahman",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-khalilur-rhaman-phd"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G08, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KHR"
+  },
+  {
+    "id": 39,
+    "name": "Dr. Md. Sakir Hossain",
+    "email": "sakir.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Research interests: Cybersecurity; Wireless Networks (Data-driven transmitter and receiver design); Biomedical Signal Processing (EEG, ECG, Medical image processing); Applied Machine Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Healthcare & Bio",
+      "Computer Vision",
+      "Cybersecurity"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/433/dr_md_sakir_hossain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G17, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MSAH"
+  },
+  {
+    "id": 40,
+    "name": "Dr. Mohammad Kaykobad",
+    "email": "kaykobad@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/177/dr_mohammad_kaykobad",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G11, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KYK"
+  },
+  {
+    "id": 41,
+    "name": "Dr. Muhammad Iqbal Hossain",
+    "email": "iqbal.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Research interests: Mutation Testing of Deep Learning Model; Integrity and authentication in the metaverse; AI-Enhanced Security Analytics; Cryptographic Protocols for Secure Multi-Party Computation.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Deep Learning",
+      "Cybersecurity"
+    ],
+    "recentPapers": [
+      {
+        "title": "Mutation Testing of Deep Learning Model",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Integrity and authentication in the metaverse",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "AI-Enhanced Security Analytics",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Cryptographic Protocols for Secure Multi-Party Computation",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/24/dr_muhammad_iqbal_hossain",
+    "websites": [
+      "https://www.linkedin.com/in/mihmilon/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G22, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MIH"
+  },
+  {
+    "id": 42,
+    "name": "Dr. Muhammad Nur Yanhaona",
+    "email": "nur.yanhaona@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/188/dr_muhammad_nur_yanhaona",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G06, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MNY"
+  },
+  {
+    "id": 43,
+    "name": "Dr. Sadia Hamid Kazi",
+    "email": "skazi@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor & Chairperson",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/180/dr_sadia_hamid_kazi",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G32, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SKZ"
+  },
+  {
+    "id": 44,
+    "name": "Dr. Swakkhar Shatabda",
+    "email": "swakkhar.shatabda@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Research interests: Medical report generation and diagnosis using Multimodal data and LLM; Real-Time Recognition System for Shrimp Characteristics; Nucleic Acid Binding Sites in Proteins; Disease Diagnosis using radiogenomics data; Combat Fake News and Media Content; SnoRNA-disease Associations; Human Robot Interaction; Information retrieval from tables in financial documents; Remote Sensing of the Environment for Agriculture; Artificial intelligence agents for biology.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [
+      {
+        "title": "Medical report generation and diagnosis using Multimodal data and LLM",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Real-Time Recognition System for Shrimp Characteristics",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Nucleic Acid Binding Sites in Proteins",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Disease Diagnosis using radiogenomics data",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Combat Fake News and Media Content",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "SnoRNA-disease Associations",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Human Robot Interaction",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Information retrieval from tables in financial documents",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Remote Sensing of the Environment for Agriculture",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Artificial intelligence agents for biology",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/333/dr_swakkhar_shatabda",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G28, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SWK"
+  },
+  {
+    "id": 45,
+    "name": "Dr. Taiabul Haque",
+    "email": "taiabul.haque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/204/dr_taiabul_haque",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G01, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TLQ"
+  },
+  {
+    "id": 46,
+    "name": "Ehtashamul Haque",
+    "email": "ehtashamul.haque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: AI on biomedical signals and images; Explainable AI.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Healthcare & Bio",
+      "Explainable AI"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/266/ehtashamul_haque",
+    "websites": [
+      "https://ehtashamul.github.io"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N168, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "EHQ"
+  },
+  {
+    "id": 47,
+    "name": "Eshtiak Alam Shihab",
+    "email": "ext.eshtiak.shihab@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/501/eshtiak_alam_shihab",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CEAS"
+  },
+  {
+    "id": 48,
+    "name": "Fairuz Tassnim Prapty",
+    "email": "ext.fairuz.prapty@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/451/fairuz_tassnim_prapty",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CFTP"
+  },
+  {
+    "id": 49,
+    "name": "Farah Binta Haque",
+    "email": "ext.farah.haque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Research interests: Machine Learning; Deep Learning; Signal Processing; Natural Language processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "NLP"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/467/farah_binta_haque",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CFBH"
+  },
+  {
+    "id": 50,
+    "name": "Fardeen Bin Ibrahim",
+    "email": "ext.fardeen.ibrahim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/470/fardeen_bin_ibrahim",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CFBB"
+  },
+  {
+    "id": 51,
+    "name": "Farden Ehsan Khan",
+    "email": "farden.khan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/329/farden_ehsan_khan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M117, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "FEK"
+  },
+  {
+    "id": 52,
+    "name": "Fardin Zubair Nafis",
+    "email": "fardin.zubair@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/255/fardin_zubair_nafis",
+    "websites": [
+      "https://github.com/fardinnafis"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N155, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FZN"
+  },
+  {
+    "id": 53,
+    "name": "Farhan Faruk",
+    "email": "farhan.faruk@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/368/farhan_faruk",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M100, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FFU"
+  },
+  {
+    "id": 54,
+    "name": "Faria Binta Awal",
+    "email": "faria.awal@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Bioinformatics; Computational Biology; Computer Vision; Machine Learning; Spatial Transcriptomics.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Healthcare & Bio",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/485/faria_binta_awal",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K84, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FBAW"
+  },
+  {
+    "id": 55,
+    "name": "Fatiha Ishrar Chowdhury",
+    "email": "fatiha.ishrar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/301/fatiha_ishrar_chowdhury",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K81, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FIC"
+  },
+  {
+    "id": 56,
+    "name": "Ihzaz Abrar Sadik",
+    "email": "ihzaz.sadik@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/365/ihzaz_abrar_sadik",
+    "websites": [
+      "https://www.linkedin.com/in/ihzaz-abrar-sadik/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N160, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ZAZ"
+  },
+  {
+    "id": 57,
+    "name": "Imran Zahid",
+    "email": "imran.zahid@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Data Mining; Data Science; Machine Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/332/imran_zahid",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M127, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RHD"
+  },
+  {
+    "id": 58,
+    "name": "Ipshita Bonhi Upoma",
+    "email": "ipshita.upoma@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference.; Quantum-Aware Image Encoding and Adversarial Perturbation.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [
+      {
+        "title": "Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference.",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Quantum-Aware Image Encoding and Adversarial Perturbation",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/259/ipshita_bonhi_upoma",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K78, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "IBU"
+  },
+  {
+    "id": 59,
+    "name": "Ittehad Saleh Chowdhury",
+    "email": "ittehad.chowdhury@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/478/ittehad_saleh_chowdhury",
+    "websites": [
+      "https://www.linkedin.com/in/ittehad-chowdhury/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P196, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ITTS"
+  },
+  {
+    "id": 60,
+    "name": "K. M. Shadman Wadith",
+    "email": "shadman.wadith@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Reinforcement Learning; Multi Modal System; Multi Agent System; Natural Language Processing(NLP); Machine Learning; Artificial Intelligence.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/377/k_m_shadman_wadith",
+    "websites": [
+      "https://www.shadmanwadith.xyz/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M132, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SHDM"
+  },
+  {
+    "id": 61,
+    "name": "Kabbya Kantam Patwary",
+    "email": "kabbya.kantam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/44/kabbya_kantam_patwary",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J57, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "KKP"
+  },
+  {
+    "id": 62,
+    "name": "Kaji Sajjad Hossain",
+    "email": "ext.sajjad.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/363/kaji_sajjad_hossain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KSJ"
+  },
+  {
+    "id": 63,
+    "name": "Kaniz Fatema Supti",
+    "email": "kaniz.supti@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/172/kaniz_fatema_supti",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N169, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "KFP"
+  },
+  {
+    "id": 64,
+    "name": "Kazi Kamruzzaman Rabbi",
+    "email": "kazi.kamruzzaman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/407/kazi_kamruzzaman_rabbi",
+    "websites": [
+      "https://kazi-kr.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N135, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KZMN"
+  },
+  {
+    "id": 65,
+    "name": "Kushol Roy Pritom",
+    "email": "ext.kushol.pritom@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/395/kushol_roy_pritom",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # , Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "KRP"
+  },
+  {
+    "id": 66,
+    "name": "Labib Hasan Khan",
+    "email": "labib.hasan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning & Deep Learning; HCI; Natural Language Processing (NLP); Bias in AI / ML; Computational Social Science or Social Computing; Computer Vision.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "HCI & Accessibility"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/221/labib_hasan_khan",
+    "websites": [
+      "https://www.linkedin.com/in/labib-hasan-khan/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N136, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "LBBH"
+  },
+  {
+    "id": 67,
+    "name": "Lara Khanom",
+    "email": "lara.khanom@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/466/lara_khanom",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K74, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "LRK"
+  },
+  {
+    "id": 68,
+    "name": "M. Shafiul Alam",
+    "email": "ext.shafiul.alam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/285/m_shafiul_alam",
+    "websites": [
+      "https://www.shafiullm.com"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "FUL"
+  },
+  {
+    "id": 69,
+    "name": "Mahadi Ibne Bakar",
+    "email": "ext.mahadi.ibnebakar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/497/mahadi_ibne_bakar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CMIB"
+  },
+  {
+    "id": 70,
+    "name": "Mahbubul Alam Majumdar, PhD",
+    "email": "majumdar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/182/mahbubul_alam_majumdar,_phd",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # UB80706, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MAM"
+  },
+  {
+    "id": 71,
+    "name": "Mahrin Tasfe",
+    "email": "mahrin.tasfe@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/405/mahrin_tasfe",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G30, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MAHR"
+  },
+  {
+    "id": 72,
+    "name": "Majisha Jahan Disha",
+    "email": "majisha.jahan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/454/majisha_jahan_disha",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K71, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MAJI"
+  },
+  {
+    "id": 73,
+    "name": "Marshia Nujhat",
+    "email": "marshia.nujhat@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/173/marshia_nujhat",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K85, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MAU"
+  },
+  {
+    "id": 74,
+    "name": "Masuk Ridwan Saumo",
+    "email": "ext.masuk.saumo@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/474/masuk_ridwan_saumo",
+    "websites": [
+      "https://www.linkedin.com/in/masuk-ridwan-saumo-98468a117/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MRSO"
+  },
+  {
+    "id": 75,
+    "name": "Matin Saad Abdullah, PhD",
+    "email": "mabdullah@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/176/matin_saad_abdullah,_phd",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G04, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MSA"
+  },
+  {
+    "id": 76,
+    "name": "Md Abu Ibrahim ( Iqra )",
+    "email": "abu.ibrahim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Deep Learning; Image Processing; Computer Vision; XAI; Signal Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Deep Learning",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/105/md_abu_ibrahim_%28_iqra_%29",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J59, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AIB"
+  },
+  {
+    "id": 77,
+    "name": "MD Ajmain Mahtab",
+    "email": "ext.ajmain.mahtab@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/459/md_ajmain_mahtab",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CAJM"
+  },
+  {
+    "id": 78,
+    "name": "Md Nafiu Rahman",
+    "email": "nafiu.rahman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Software Engineering; AI Application in Software Engineering; AI4SE; LLM4SE; Empirical Software Engineering; Large Language Models.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Software Engineering"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/434/md_nafiu_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N138, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NAFR"
+  },
+  {
+    "id": 79,
+    "name": "MD Rifat Alam Pomil",
+    "email": "ext.rifat.pomil@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/138/md_rifat_alam_pomil",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "PML"
+  },
+  {
+    "id": 80,
+    "name": "Md Sabbir Hossain",
+    "email": "sabbir.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/202/md_sabbir_hossain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J54, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SBHN"
+  },
+  {
+    "id": 81,
+    "name": "Md. Ahasanul Alam",
+    "email": "ahasanul.alam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/82/md_ahasanul_alam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M133, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AHU"
+  },
+  {
+    "id": 82,
+    "name": "Md. Akhtaruzaman Adnan",
+    "email": "akhtaruzzaman.adnan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/408/md_akhtaruzaman_adnan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G16, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "AKTD"
+  },
+  {
+    "id": 83,
+    "name": "Md. Anonto Shuvo",
+    "email": "ext.anonto.shuvo@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/356/md_anonto_shuvo",
+    "websites": [
+      "https://md-anonto-shuvo-portfolio.netlify.app/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ANV"
+  },
+  {
+    "id": 84,
+    "name": "Md. Asif Haider",
+    "email": "asif.haider@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Software Engineering and Security; Large Language Models; Human Factors in Computing; Natural Language Processing; AI for Healthcare and Social Good.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Healthcare & Bio",
+      "NLP",
+      "Cybersecurity",
+      "Software Engineering"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/342/md_asif_haider",
+    "websites": [
+      "https://asifhaider.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M123, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AHF"
+  },
+  {
+    "id": 85,
+    "name": "Md. Fakhruddin Gazzali",
+    "email": "fakhruddin.gazzali@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Large Language Model (LLM) Based Software Engineering Development; Qualitative Analysis of AI-assisted Code Generation Tools; Empirical Software Engineering; Automated Code Analysis and Error Detection Tools.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Software Engineering"
+    ],
+    "recentPapers": [
+      {
+        "title": "AI-Assisted Code Generation Tools: A New Frontier in Software Development",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Large Language Model (LLM)-Based Software Engineering: Enhancing Development Efficiency and Innovation",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/46/md_fakhruddin_gazzali",
+    "websites": [
+      "https://github.com/fahim9778"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M103, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FGZ"
+  },
+  {
+    "id": 86,
+    "name": "Md. Fatin Ishraq Faruqui",
+    "email": "md.fatin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/227/md_fatin_ishraq_faruqui",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N169, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "FFR"
+  },
+  {
+    "id": 87,
+    "name": "Md. Imran Bin Azad",
+    "email": "imran.azad@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/78/md_imran_bin_azad",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G02, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "IBA"
+  },
+  {
+    "id": 88,
+    "name": "Md. Imtiaj Hossain",
+    "email": "ext.imtiaj.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/382/md_imtiaj_hossain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MTJ"
+  },
+  {
+    "id": 89,
+    "name": "Md. Khaliduzzaman Khan Samrat",
+    "email": "md.khaliduzzaman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Data Science.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/231/md_khaliduzzaman_khan_samrat",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M122, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KKS"
+  },
+  {
+    "id": 90,
+    "name": "Md. Mahadi Hasan",
+    "email": "ext.md.mahadi@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/234/md_mahadi_hasan",
+    "websites": [
+      "https://scholar.google.com/citations?user=6nofvzcAAAAJ&hl=en"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "HAS"
+  },
+  {
+    "id": 91,
+    "name": "Md. Moynul Asik Moni",
+    "email": "moynul.moni@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/121/md_moynul_asik_moni",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N158, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MOM"
+  },
+  {
+    "id": 92,
+    "name": "Md. Muhtasim Mahmud",
+    "email": "muhtasim.mahmud@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/353/md_muhtasim_mahmud",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M99, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MTSM"
+  },
+  {
+    "id": 93,
+    "name": "Md. Rasel Mia",
+    "email": "rasel.mia@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/388/md_rasel_mia",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N149, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "RAS"
+  },
+  {
+    "id": 94,
+    "name": "Md. Rifat Rahman",
+    "email": "rifat.rahman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/458/md_rifat_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N164, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "RFR"
+  },
+  {
+    "id": 95,
+    "name": "Md. Sabbir Ahmed",
+    "email": "sabbir.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: An Explainable Machine Learning System for Accurate and Reliable Detection of Crop Pests and Diseases; Enhancing Real-time Video Classification Accuracy using Deep Learning and Improved Preprocessing Techniques; Exploring the Application of Generative Adversarial Networks (GANs) in Medical Imaging: Enhancing Medical Diagnosis Accuracy through Deep Learning; Human-Centric Explainable AI Framework for Enhanced Diagnostic Accuracy in Healthcare; Utilizing Computer Vision for Detecting Human Behavior, Emotions, and Cognitive Responses: An Application in Enhancing Student Engagement; Augmented Reality Navigation for the Visually Impaired; Preserving Digital Integrity: Advancements in DeepFake Detection.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Healthcare & Bio",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "recentPapers": [
+      {
+        "title": "An Explainable Machine Learning System for Accurate and Reliable Detection of Crop Pests and Diseases",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Enhancing Real-time Video Classification Accuracy using Deep Learning and Improved Preprocessing Techniques",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Exploring the Application of Generative Adversarial Networks (GANs) in Medical Imaging: Enhancing Medical Diagnosis Accuracy through Deep Learning",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Human-Centric Explainable AI Framework for Enhanced Diagnostic Accuracy in Healthcare",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Utilizing Computer Vision for Detecting Human Behavior, Emotions, and Cognitive Responses: An Application in Enhancing Student Engagement",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Augmented Reality Navigation for the Visually Impaired",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Preserving Digital Integrity: Advancements in DeepFake Detection",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/54/md_sabbir_ahmed",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-sabbir-ahmed"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M107, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SBB"
+  },
+  {
+    "id": 96,
+    "name": "Md. Saiful Bari Siddiqui",
+    "email": "saiful.bari@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: 3D MRI Segmentation for Brain Tumor Detection; Pancreas Segmentation in CT Images for Cancer Detection; Breast Cancer Detection from Mammography, Histopathology, & Ultrasound Images; Epilepsy/Seizure Detection from EEG Signals; Predicting Antibiotic Resistance in Bacterial Strains from Genomic Data; Probiotic Discovery and Functional Prediction from Bacterial Genomes; Predicting Viral Host Range from Genomic Sequences; Disease Classification and Progression Prediction Using Multi-Omics Data Integration with Deep Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Networking & IoT"
+    ],
+    "recentPapers": [
+      {
+        "title": "3D MRI Segmentation for Brain Tumor Detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Pancreas Segmentation in CT Images for Cancer Detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Breast Cancer Detection from Mammography, Histopathology, & Ultrasound Images",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Epilepsy/Seizure Detection from EEG Signals",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Predicting Antibiotic Resistance in Bacterial Strains from Genomic Data",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Probiotic Discovery and Functional Prediction from Bacterial Genomes",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Predicting Viral Host Range from Genomic Sequences",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Disease Classification and Progression Prediction Using Multi-Omics Data Integration with Deep Learning",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/184/md_saiful_bari_siddiqui",
+    "websites": [
+      "https://saiful-bari.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N152, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SDQ"
+  },
+  {
+    "id": 97,
+    "name": "Md. Saiful Islam",
+    "email": "md.saiful.islam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/122/md_saiful_islam",
+    "websites": [
+      "https://www.youtube.com/@saifulcreates"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G12, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MSI"
+  },
+  {
+    "id": 98,
+    "name": "Md. Shafiul Alam",
+    "email": "ext.shafiul.shuvo@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Professor",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/504/md_shafiul_alam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G15, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SAS"
+  },
+  {
+    "id": 99,
+    "name": "Md. Sultanul Arifin",
+    "email": "sultanul.arifin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/341/md_sultanul_arifin",
+    "websites": [
+      "https://arifinnasif.github.io"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M114, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SULT"
+  },
+  {
+    "id": 100,
+    "name": "Md. Tawhid Anwar",
+    "email": "tawhid.anwar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Artificial Intelligence; Financial Market Analysis; Machine Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/28/md_tawhid_anwar",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-tawhid-anwar"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G03, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TAW"
+  },
+  {
+    "id": 101,
+    "name": "Md. Zulkar Naim",
+    "email": "zulkar.naim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/461/md_zulkar_naim",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M111, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ZLNM"
+  },
+  {
+    "id": 102,
+    "name": "Mehedi Hasan Emo",
+    "email": "mehedi.emo@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/260/mehedi_hasan_emo",
+    "websites": [
+      "https://emo778866.github.io/my-portfolio/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M134, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MHDE"
+  },
+  {
+    "id": 103,
+    "name": "Mir Hamidul Hussain",
+    "email": "hamidul.hussain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/340/mir_hamidul_hussain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N167, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "HMH"
+  },
+  {
+    "id": 104,
+    "name": "Mirza Abdullah Al Noman",
+    "email": "mirza.abdullah@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Natural Language Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/216/mirza_abdullah_al_noman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N162, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MAO"
+  },
+  {
+    "id": 105,
+    "name": "Mohammad Badrul Hossain",
+    "email": "badrul.hossain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Blockchain; Cryptography; Distributed Systems; Distributed Operating Systems; File Systems.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Cybersecurity",
+      "Networking & IoT"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/312/mohammad_badrul_hossain",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J67, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "BDH"
+  },
+  {
+    "id": 106,
+    "name": "Mohammad Fahim",
+    "email": "mohammad.fahim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/47/mohammad_fahim",
+    "websites": [
+      "https://scholar.google.com/citations?user=vMmMalAAAAAJ"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4J52, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MDF"
+  },
+  {
+    "id": 107,
+    "name": "Mohammad Nuwaisir Rahman",
+    "email": "nuwaisir.rahman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/297/mohammad_nuwaisir_rahman",
+    "websites": [
+      "https://scholar.google.com/citations?user=0cwhndIAAAAJ&hl=en"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M122, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MNW"
+  },
+  {
+    "id": 108,
+    "name": "Mohammad Rakibul Hasan Mahin",
+    "email": "mohammad.rakibul@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/291/mohammad_rakibul_hasan_mahin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L92, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RKBM"
+  },
+  {
+    "id": 109,
+    "name": "Mohammad Sayeem Sadat Hossain",
+    "email": "ext.mohammad.sayeem@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Research interests: Machine Learning, Deep Learning, and Reinforcement Learning; Blockchain based security systems, IoT; Point Cloud classification.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Cybersecurity",
+      "Networking & IoT"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/253/mohammad_sayeem_sadat_hossain",
+    "websites": [
+      "https://www.linkedin.com/in/mohammad-sayeem-sadat-hossain-943a69148/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MSDH"
+  },
+  {
+    "id": 110,
+    "name": "Mohammad Tahsin Alam",
+    "email": "tahsin.alam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/386/mohammad_tahsin_alam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N166, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "THL"
+  },
+  {
+    "id": 111,
+    "name": "Mohammed Ashfaqul Haque",
+    "email": "ashfaqul.haque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Deep Learning; Artificial Intelligence.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/304/mohammed_ashfaqul_haque",
+    "websites": [
+      "https://www.linkedin.com/in/mah383/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N137, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AFQ"
+  },
+  {
+    "id": 112,
+    "name": "Moinul Haque",
+    "email": "ext.moinul.haque@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/437/moinul_haque",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CMHQ"
+  },
+  {
+    "id": 113,
+    "name": "Mondrita Biswas",
+    "email": "ext.mondrita.biswas@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/469/mondrita_biswas",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CMNB"
+  },
+  {
+    "id": 114,
+    "name": "Mr. Abdullah Al Nakib",
+    "email": "abdullah.alnakib@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Efficient deep learning model for skin disease classification; Cybersecurity vulnerability detection using LLM; Leveraging LLMs for Automated Document Classification and Information Extraction; An Explainable AI Approach with Lightweight CNNs for Synthetic Image Detection; Efficient deep learning model for waste classification and segmentation; Financial document analysis and data extraction using LLM.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Deep Learning",
+      "Cybersecurity",
+      "Explainable AI"
+    ],
+    "recentPapers": [
+      {
+        "title": "Efficient deep learning model for skin disease classification",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Cybersecurity vulnerability detection using LLM",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Leveraging LLMs for Automated Document Classification and Information Extraction",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "An Explainable AI Approach with Lightweight CNNs for Synthetic Image Detection",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Efficient deep learning model for waste classification and segmentation",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Financial document analysis and data extraction using LLM",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/104/mr_abdullah_al_nakib",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J58, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ANK"
+  },
+  {
+    "id": 115,
+    "name": "Mr. Abid Jahan Apon",
+    "email": "abid.jahan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/100/mr_abid_jahan_apon",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M116, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AJA"
+  },
+  {
+    "id": 116,
+    "name": "Mr. Annajiat Alim Rasel",
+    "email": "annajiat@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Applications of Natural Language Processing (NLP); Applications of Data Science (DS) and Pattern Recognition (PR); Applications of Parallel, Distributed, and High-Performance Computing (HPC); Applications of Computer Modeling & Simulation (M&S); Cybersecurity and Ethical Hacking; Vision (Computer Vision and Machine Vision); eLearning, ICT for Development (ICT4D), Education (ICT4ED); Software Testing, Engineering and Architecture; Natural Language Driven User Experience (NLUX) and HCI; AI for Health and Life Science; AI based accessibility for people with disabilities, specially blindness.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP",
+      "Computer Vision",
+      "Cybersecurity",
+      "HCI & Accessibility"
+    ],
+    "recentPapers": [
+      {
+        "title": "Applications of Natural Language Processing (NLP)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Applications of Data Science (DS) and Pattern Recognition (PR)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Applications of Parallel, Distributed, and High-Performance Computing (HPC)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Applications of Computer Modeling & Simulation (M&S)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Cybersecurity and Ethical Hacking",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Vision (Computer Vision and Machine Vision)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "eLearning, ICT for Development (ICT4D), Education (ICT4ED)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Software Testing, Engineering and Architecture",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Natural Language Driven User Experience (NLUX) and HCI",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "AI for Health and Life Science",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "AI based accessibility for people with disabilities, specially blindness",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/145/mr_annajiat_alim_rasel",
+    "websites": [
+      "http://annajiat.googlepages.com"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4G20, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AAR"
+  },
+  {
+    "id": 117,
+    "name": "Mr. Dibyo Fabian Dofadar",
+    "email": "fabian.dofadar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Artificial Intelligence; Machine Learning; Deep Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/89/mr_dibyo_fabian_dofadar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M106, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "DFD"
+  },
+  {
+    "id": 118,
+    "name": "Mr. Md. Aquib Azmain",
+    "email": "aquib.azmain@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Automated Repair of Asymmetric Web Pages during Resolution of Mobile Friendly Problems; Impact of label noise and efficacy of noise filters in software defect prediction; On the Evolutionary Properties of Fix Inducing Changes; A machine learning-based inference and analysis of crop production based on climate parameters in Bangladesh.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science"
+    ],
+    "recentPapers": [
+      {
+        "title": "Automated Repair of Asymmetric Web Pages during Resolution of Mobile Friendly Problems",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Impact of label noise and efficacy of noise filters in software defect prediction",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "On the Evolutionary Properties of Fix Inducing Changes",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "A machine learning-based inference and analysis of crop production based on climate parameters in Bangladesh",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/93/mr_md_aquib_azmain",
+    "websites": [
+      "https://aquibazmain.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M104, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "AQU"
+  },
+  {
+    "id": 119,
+    "name": "Mr. Md. Shamim Mia",
+    "email": "shamim.mia@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/215/mr_md_shamim_mia",
+    "websites": [
+      "https://www.linkedin.com/in/shamimmsas7/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M110, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MSMA"
+  },
+  {
+    "id": 120,
+    "name": "Mr. Md. Shazid Bin Mahbub",
+    "email": "shazid.mahbub@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/126/mr_md_shazid_bin_mahbub",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J65, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SZD"
+  },
+  {
+    "id": 121,
+    "name": "Mr. Md. Tanvir Arafat",
+    "email": "tanvir.arafat@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/179/mr_md_tanvir_arafat",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M134, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MTT"
+  },
+  {
+    "id": 122,
+    "name": "Mr. Md. Tanzim Reza",
+    "email": "tanzim.reza@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/43/mr_md_tanzim_reza",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G05, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TRZ"
+  },
+  {
+    "id": 123,
+    "name": "Mr. Mirza Md. Tanjim Shorif Mugdho",
+    "email": "mirza.mugdho@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/127/mr_mirza_md_tanjim_shorif_mugdho",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J66, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "TSM"
+  },
+  {
+    "id": 124,
+    "name": "Mr. Moin Mostakim",
+    "email": "mostakim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Research interests: Develop a large language model capable of generating Bangla Government papers; Investigate the use of transformers in generating Dockers or Docker-compose yaml which could be used in CI/CD; Building automated testing tools for inspecting the vulnerabilities of a website using a neural network.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [
+      {
+        "title": "Develop a large language model capable of generating Bangla Government papers",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Investigate the use of transformers in generating Dockers or Docker-compose yaml which could be used in CI/CD",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Building automated testing tools for inspecting the vulnerabilities of a website using a neural network",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/191/mr_moin_mostakim",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G02, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MMM"
+  },
+  {
+    "id": 125,
+    "name": "Mr. Monzur Murshed Muhammad",
+    "email": "ext.monzur.murshed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/378/mr_monzur_murshed_muhammad",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MOZR"
+  },
+  {
+    "id": 126,
+    "name": "Mr. Purbayan Das",
+    "email": "purbayan.das@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Nanophotonics; Plasmonics; Flat Optics; Matematerials and Non-linear Optics; Integrated Photonics.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/88/mr_purbayan_das",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N140, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "PDS"
+  },
+  {
+    "id": 127,
+    "name": "Mr. Rafeed Rahman",
+    "email": "rahman.rafeed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/62/mr_rafeed_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J64, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RRH"
+  },
+  {
+    "id": 128,
+    "name": "Mr. Rakin Bin Rabbani",
+    "email": "rakin.rabbani@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Internet of Things; Image Processing; Federated Learning; Knowledge Distillation.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Computer Vision",
+      "Networking & IoT"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/203/mr_rakin_bin_rabbani",
+    "websites": [
+      "https://rakin7.github.io/rakinwho/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4J60, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RBR"
+  },
+  {
+    "id": 129,
+    "name": "Mr. Rubayat Ahmed Khan",
+    "email": "rubayat.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/112/mr_rubayat_ahmed_khan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G12, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RAK"
+  },
+  {
+    "id": 130,
+    "name": "Mr. Sarwar Jahan Shajib",
+    "email": "sarwar.jahan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Department Coordination Officer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/140/mr_sarwar_jahan_shajib",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # UB80802, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "DCO"
+  },
+  {
+    "id": 131,
+    "name": "Mr. Shadman Shahriar",
+    "email": "shadman.shahriar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/146/mr_shadman_shahriar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N143, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SDS"
+  },
+  {
+    "id": 132,
+    "name": "Mr. Shahriar Rahman Rana",
+    "email": "shahriar.rahman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Deep Learning; Human-Centered Computing; AI in Medical or Health Sector; AI4SE.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Software Engineering"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/115/mr_shahriar_rahman_rana",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/md-shahriar-rahman"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M105, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SHRR"
+  },
+  {
+    "id": 133,
+    "name": "Mr. Shakir Rouf",
+    "email": "shakir.rouf@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/201/mr_shakir_rouf",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J53, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SRU"
+  },
+  {
+    "id": 134,
+    "name": "Mr. Sheikh Araf Noshin",
+    "email": "araf.noshin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/95/mr_sheikh_araf_noshin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N144, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "HFN"
+  },
+  {
+    "id": 135,
+    "name": "Mr. Sifat Tanvir",
+    "email": "ext.sifat.tanvir@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/198/mr_sifat_tanvir",
+    "websites": [
+      "https://LinkedIn: https://www.linkedin.com/in/sifat-tanvir-91a7801a0/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "STV"
+  },
+  {
+    "id": 136,
+    "name": "Mr. Syed Zamil Hasan Shoumo",
+    "email": "shoumo.hasan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/55/mr_syed_zamil_hasan_shoumo",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J68, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ZHS"
+  },
+  {
+    "id": 137,
+    "name": "Mr. Tamkin Mahmud Tan",
+    "email": "tamkin.mahmud@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/64/mr_tamkin_mahmud_tan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J62, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TMD"
+  },
+  {
+    "id": 138,
+    "name": "Mr. Zaber Mohammad",
+    "email": "zaber.mohammad@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/86/mr_zaber_mohammad",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J61, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ZMD"
+  },
+  {
+    "id": 139,
+    "name": "Ms. Khondoker Nazia Iqbal",
+    "email": "nazia.iqbal@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/23/ms_khondoker_nazia_iqbal",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/khondoker-nazia-iqbal"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4K86, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "KNI"
+  },
+  {
+    "id": 140,
+    "name": "Ms. Mehnaz Seraj",
+    "email": "seraj.mehnaz@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/149/ms_mehnaz_seraj",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G21, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SRJ"
+  },
+  {
+    "id": 141,
+    "name": "Ms. Narzu Tarannum",
+    "email": "narzu.tarannum@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/190/ms_narzu_tarannum",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G21, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NTR"
+  },
+  {
+    "id": 142,
+    "name": "Ms. Tasnim Ferdous",
+    "email": "tasnim.ferdous@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/26/ms_tasnim_ferdous",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K73, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TNMF"
+  },
+  {
+    "id": 143,
+    "name": "Muhammad Ehsanul Kader",
+    "email": "ehsanul.kader@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/350/muhammad_ehsanul_kader",
+    "websites": [
+      "https://ehsanulkader.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M113, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "EHD"
+  },
+  {
+    "id": 144,
+    "name": "Mushfique Nasir Probor",
+    "email": "mushfique.nasir@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/236/mushfique_nasir_probor",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L90, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "MNP"
+  },
+  {
+    "id": 145,
+    "name": "Nafis Chowdhury",
+    "email": "ext.nafis.chowdhury@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/452/nafis_chowdhury",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CNFH"
+  },
+  {
+    "id": 146,
+    "name": "Nafis Karim",
+    "email": "nafis.karim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/347/nafis_karim",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M120, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NFK"
+  },
+  {
+    "id": 147,
+    "name": "Nafisa Khan Youkee",
+    "email": "ext.nafisa.youkee@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/491/nafisa_khan_youkee",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CNKY"
+  },
+  {
+    "id": 148,
+    "name": "Nafiz Imtiaz Rafin",
+    "email": "ext.nafiz.rafin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/422/nafiz_imtiaz_rafin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NFF"
+  },
+  {
+    "id": 149,
+    "name": "Najeefa Nikhat Choudhury",
+    "email": "najeefa.chy@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/153/najeefa_nikhat_choudhury",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4G30, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NNC"
+  },
+  {
+    "id": 150,
+    "name": "Namirul Islam",
+    "email": "namirul.islam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/421/namirul_islam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N163, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NLAM"
+  },
+  {
+    "id": 151,
+    "name": "Nazmul Islam",
+    "email": "nazmul.islam1@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/303/nazmul_islam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M121, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NZU"
+  },
+  {
+    "id": 152,
+    "name": "Nazmus Sakib Touhid",
+    "email": "nazmus.touhid@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Natural Language processing; Reinforcement learning; Machine Learning; Deep learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "NLP"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/450/nazmus_sakib_touhid",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P195, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NAST"
+  },
+  {
+    "id": 153,
+    "name": "Niaz Ashraf Khan",
+    "email": "niaz.ashraf@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/409/niaz_ashraf_khan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M125, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NZRF"
+  },
+  {
+    "id": 154,
+    "name": "Niloy Farhan",
+    "email": "niloy.farhan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Natural Language Processing; Computer Vision; Machine Learning; Deep Learning.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/278/niloy_farhan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M123, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NLH"
+  },
+  {
+    "id": 155,
+    "name": "NIRJHOR DATTA",
+    "email": "nirjhor.datta@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/315/nirjhor_datta",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M132, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "NDT"
+  },
+  {
+    "id": 156,
+    "name": "Noshin Nawal",
+    "email": "noshin.nawal@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/406/noshin_nawal",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K84, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NNL"
+  },
+  {
+    "id": 157,
+    "name": "Noshin Tabassum",
+    "email": "ext.noshin.tabassum@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/277/noshin_tabassum",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NTB"
+  },
+  {
+    "id": 158,
+    "name": "Partha Bhoumik",
+    "email": "partha.bhoumik@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/36/partha_bhoumik",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M108, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "PBK"
+  },
+  {
+    "id": 159,
+    "name": "Pollock Nag",
+    "email": "pollock.nag@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/292/pollock_nag",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M101, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "PLN"
+  },
+  {
+    "id": 160,
+    "name": "Prithu Mahmud",
+    "email": "prithu.mahmud@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/96/prithu_mahmud",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N160, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "PMD"
+  },
+  {
+    "id": 161,
+    "name": "Prothito Shovon Majumder",
+    "email": "prothito.shovon@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/372/prothito_shovon_majumder",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M115, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "PSMD"
+  },
+  {
+    "id": 162,
+    "name": "Quazi Ashikur Rahman",
+    "email": "quazi.ashikur@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Artificial Intelligence; Machine Learning; Image Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/32/quazi_ashikur_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M120, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "QUZA"
+  },
+  {
+    "id": 163,
+    "name": "Rafiad Sadat Shahir",
+    "email": "rafiad.shahir@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Spiking Neural Network (SNN); Quantum Neural Network (QNN).",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [
+      {
+        "title": "Spiking Neural Network (SNN)",
+        "year": null,
+        "url": ""
+      },
+      {
+        "title": "Quantum Neural Network (QNN)",
+        "year": null,
+        "url": ""
+      }
+    ],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/281/rafiad_sadat_shahir",
+    "websites": [
+      "https://rafiadsadat.netlify.app/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N154, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RSS"
+  },
+  {
+    "id": 164,
+    "name": "Rafid Ahnaf",
+    "email": "rafid.ahnaf@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/320/rafid_ahnaf",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M133, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RFF"
+  },
+  {
+    "id": 165,
+    "name": "Raisul Kabir News",
+    "email": "raisul.kabir@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/233/raisul_kabir_news",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L94, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "RKN"
+  },
+  {
+    "id": 166,
+    "name": "Redowanul Akbar",
+    "email": "redowanul.akbar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/293/redowanul_akbar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J56, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RDW"
+  },
+  {
+    "id": 167,
+    "name": "Rifa Tasfiya",
+    "email": "rifa.tasfiya@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/390/rifa_tasfiya",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K69, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "RFTS"
+  },
+  {
+    "id": 168,
+    "name": "Saadat Rafid Ahmed",
+    "email": "saadat.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Computational Linguistics; Natural Language Processing (NLP); Large Language Model (LLM); Low-resource Language (Bangla); Machine Learning; Artificial Intelligence; Computational Social Science; Retrieval-augmented generation (RAG).",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "NLP"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/311/saadat_rafid_ahmed",
+    "websites": [
+      "https://saadat-r-ahmed.notion.site/faculty"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4J51, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SADF"
+  },
+  {
+    "id": 169,
+    "name": "Sabiha Hasan Mim",
+    "email": "sabiha.mim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/401/sabiha_hasan_mim",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N137, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MBM"
+  },
+  {
+    "id": 170,
+    "name": "Sabrina Zaman Ishita",
+    "email": "sz.ishita@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/480/sabrina_zaman_ishita",
+    "websites": [
+      "https://people.cs.umass.edu/~sishita/"
+    ],
+    "address": "CSE Department 4th floor, Room No # , Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SZI"
+  },
+  {
+    "id": 171,
+    "name": "Sadif Ahmed",
+    "email": "sadif.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/448/sadif_ahmed",
+    "websites": [
+      "https://sadif-ahmed.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P197, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SADA"
+  },
+  {
+    "id": 172,
+    "name": "Sadman Sharif",
+    "email": "ext.sadman.sharif@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/457/sadman_sharif",
+    "websites": [
+      "https://www.linkedin.com/in/sadmansharif619"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "CSDM"
+  },
+  {
+    "id": 173,
+    "name": "Sahib Kowsar",
+    "email": "sahib.kowsar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/224/sahib_kowsar",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L91, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SHBK"
+  },
+  {
+    "id": 174,
+    "name": "Samiur Rahman",
+    "email": "rahman.samiur@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/489/samiur_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J55, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SMUR"
+  },
+  {
+    "id": 175,
+    "name": "Sanjida Tasnim",
+    "email": "sanjida.tasnim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/381/sanjida_tasnim",
+    "websites": [
+      "https://www.linkedin.com/in/sanjidatasnim"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4K70, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "STNM"
+  },
+  {
+    "id": 176,
+    "name": "Sara Jerin Prithila",
+    "email": "ext.sara.prithila@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/446/sara_jerin_prithila",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CSJP"
+  },
+  {
+    "id": 177,
+    "name": "Sazzadul Islam",
+    "email": "sazzadul.islam@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/396/sazzadul_islam",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N165, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SZZ"
+  },
+  {
+    "id": 178,
+    "name": "Shadmin Sultana",
+    "email": "shadmin.sultana@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/360/shadmin_sultana",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N157, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SDL"
+  },
+  {
+    "id": 179,
+    "name": "Shafin Islam Ohin",
+    "email": "ext.shafin.ohin@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/432/shafin_islam_ohin",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CSFO"
+  },
+  {
+    "id": 180,
+    "name": "Shahriar Hasan Mickey",
+    "email": "ext.shahriar.mickey@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/374/shahriar_hasan_mickey",
+    "websites": [
+      "https://shahriar-hasan-mickey.github.io/shmickey-personal/"
+    ],
+    "address": "CSE Department 4th floor, Room No # TA/RA Room, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "MKY"
+  },
+  {
+    "id": 181,
+    "name": "Shoaib Ahmed Dipu",
+    "email": "shoaib.ahmed@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/34/shoaib_ahmed_dipu",
+    "websites": [
+      "https://www.bracu.ac.bd/about/people/shoaib-ahmed-dipu"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4J63, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "DPU"
+  },
+  {
+    "id": 182,
+    "name": "Shomen Kundu",
+    "email": "shomen.kundu@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/357/shomen_kundu",
+    "websites": [
+      "https://www.shomenkundu.com/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N148, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SDU"
+  },
+  {
+    "id": 183,
+    "name": "Showvik Biswas",
+    "email": "showvik.biswas@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/343/showvik_biswas",
+    "websites": [
+      "https://showvikbiswas.github.io"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M128, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SWV"
+  },
+  {
+    "id": 184,
+    "name": "Sk. Atik Tajwar Sihan",
+    "email": "ext.atik.tajwar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/134/sk_atik_tajwar_sihan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "TJW"
+  },
+  {
+    "id": 185,
+    "name": "Sk. Sabit Bin Mosaddek",
+    "email": "sabit.mosaddek@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/344/sk_sabit_bin_mosaddek",
+    "websites": [
+      "https://sa011.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M126, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SBDK"
+  },
+  {
+    "id": 186,
+    "name": "Soumya Swagata Biswas",
+    "email": "soumya.swagata@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/443/soumya_swagata_biswas",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P198, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SOSB"
+  },
+  {
+    "id": 187,
+    "name": "Souvik Ghosh",
+    "email": "souvik.ghosh@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/475/souvik_ghosh",
+    "websites": [
+      "https://souvikghosh.netlify.app/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4M131, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SVKG"
+  },
+  {
+    "id": 188,
+    "name": "Sowmitra Das",
+    "email": "sowmitra.das@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Senior Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/307/sowmitra_das",
+    "websites": [
+      "https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N142, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SDAS"
+  },
+  {
+    "id": 189,
+    "name": "Sukarna Sarker",
+    "email": "sukarna.sarkar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/242/sukarna_sarker",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SUE"
+  },
+  {
+    "id": 190,
+    "name": "Sumaiya",
+    "email": "sumaiya@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/294/sumaiya",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K76, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "SMYA"
+  },
+  {
+    "id": 191,
+    "name": "Sumonta Nandy Amit",
+    "email": "sumonta.amit@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/345/sumonta_nandy_amit",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4J55, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "NAN"
+  },
+  {
+    "id": 192,
+    "name": "Swattic Ghose",
+    "email": "swattic.ghose@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/117/swattic_ghose",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M109, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "SWG"
+  },
+  {
+    "id": 193,
+    "name": "Tanhiat Fatema Afnan",
+    "email": "tanhiat.fatema@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/496/tanhiat_fatema_afnan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K75, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TNF"
+  },
+  {
+    "id": 194,
+    "name": "Tanveer Rahman",
+    "email": "tanveer.rahman@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/477/tanveer_rahman",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M112, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "TVRR"
+  },
+  {
+    "id": 195,
+    "name": "Tanvir Muntakim Tonoy",
+    "email": "tanvir.muntakim@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/243/tanvir_muntakim_tonoy",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N167, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TMY"
+  },
+  {
+    "id": 196,
+    "name": "Tarvir Anjum Aditto",
+    "email": "tarvir.anjum@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Applications of ML/DL in healthcare; Biomedical Signal Processing; Medical Imaging; Computer Vision; Applications of ML/DL in electronics.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "Healthcare & Bio",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/494/tarvir_anjum_aditto",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N159, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TAV"
+  },
+  {
+    "id": 197,
+    "name": "Tasneem Mazhar",
+    "email": "tasneem.mazhar@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/327/tasneem_mazhar",
+    "websites": [
+      "https://tasneem-mazhar.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N151, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "TSE"
+  },
+  {
+    "id": 198,
+    "name": "Tasnia Juha",
+    "email": "ext.tasnia.juha@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/404/tasnia_juha",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TJH"
+  },
+  {
+    "id": 199,
+    "name": "Tasnim Ahsan Prome",
+    "email": "tasnim.ahsan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Machine Learning; Deep Learning; Image Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/50/tasnim_ahsan_prome",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K83, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TAP"
+  },
+  {
+    "id": 200,
+    "name": "Tasnim Sobhan Upoma",
+    "email": "tasnim.upoma@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/384/tasnim_sobhan_upoma",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N141, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "UPM"
+  },
+  {
+    "id": 201,
+    "name": "Tawhidur Rahman Khan",
+    "email": "ext.tawhidur.khan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/455/tawhidur_rahman_khan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CTRK"
+  },
+  {
+    "id": 202,
+    "name": "Towshik Anam Taj",
+    "email": "towshik.taj@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/290/towshik_anam_taj",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4M119, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "TWK"
+  },
+  {
+    "id": 203,
+    "name": "Umaiya Ahmed Maisha",
+    "email": "ext.umaiya.maisha@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/358/umaiya_ahmed_maisha",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "UMS"
+  },
+  {
+    "id": 204,
+    "name": "Umme Jannat Taposhi",
+    "email": "jannat.taposhi@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/295/umme_jannat_taposhi",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4K80, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "UJT"
+  },
+  {
+    "id": 205,
+    "name": "Utsab Saha",
+    "email": "utsab.saha@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Research interests: Biomedical signal processing; Differential privacy; Computer Vision; Machine learning, and deep learning in healthcare; Image Processing.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [
+      "ML & Data Science",
+      "Deep Learning",
+      "Healthcare & Bio",
+      "Computer Vision",
+      "Cybersecurity"
+    ],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/251/utsab_saha",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4N170, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "UTS"
+  },
+  {
+    "id": 206,
+    "name": "Utsha Kumar Roy",
+    "email": "utsha.roy@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/441/utsha_kumar_roy",
+    "websites": [
+      "https://uk-roy.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4P199, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "UTKR"
+  },
+  {
+    "id": 207,
+    "name": "Yasmin Nadia",
+    "email": "yasmin.nadia@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/250/yasmin_nadia",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4L89, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "YND"
+  },
+  {
+    "id": 208,
+    "name": "Zabir Ramiz",
+    "email": "ext.zabir.ramiz@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/473/zabir_ramiz",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CZRZ"
+  },
+  {
+    "id": 209,
+    "name": "Zayed Humayun",
+    "email": "zayed.humayun@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 1,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/314/zayed_humayun",
+    "websites": [
+      "https://abystoma.github.io/"
+    ],
+    "address": "CSE Department 4th floor, Room No # 4N156, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "Accepting",
+    "initials": "ZYH"
+  },
+  {
+    "id": 210,
+    "name": "Zobayer Hasan",
+    "email": "ext.zobayer.hasan@bracu.ac.bd",
+    "department": "CSE",
+    "designation": "Adjunct Lecturer",
+    "bio": "Biography not available.",
+    "availableSlots": 0,
+    "degreeTypes": [
+      "MSc",
+      "PhD"
+    ],
+    "researchAreas": [],
+    "recentPapers": [],
+    "coSupervisors": [],
+    "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/481/zobayer_hasan",
+    "websites": [],
+    "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
+    "thesisStatus": "",
+    "initials": "CZBH"
+  }
+]
