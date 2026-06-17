@@ -4,43 +4,65 @@
  */
 
 export const fields = [
-  { id: "ml_ds",      label: "ML & Data Science",      fullName: "Machine Learning (General/Applied) & Data Science", count: 12 },
-  { id: "healthcare", label: "Healthcare & Bio",      fullName: "Healthcare, Bioinformatics, & Biomedical Applications", count: 7  },
-  { id: "dl",          label: "Deep Learning",         fullName: "Deep Learning & Neural Networks", count: 6  },
-  { id: "nlp",         label: "NLP",                  fullName: "Natural Language Processing (NLP)", count: 6  },
-  { id: "cv",          label: "Computer Vision",      fullName: "Computer Vision & Image Processing", count: 4  },
-  { id: "cyber",       label: "Cybersecurity",        fullName: "Cybersecurity, Privacy, Blockchain, & Trust", count: 4  },
-  { id: "se",          label: "Software Engineering",  fullName: "Software Engineering, AI4SE, & Automated Tools", count: 3  },
-  { id: "hci",         label: "HCI & Accessibility",  fullName: "Human-Computer Interaction (HCI), ICT4D, & Accessibility", count: 2  },
-  { id: "xai",         label: "Explainable AI",       fullName: "Explainable AI (XAI), Fairness, & Trustworthy AI", count: 2  },
-  { id: "emerging",    label: "Emerging Areas",       fullName: "Emerging & Specialized Areas", count: 2  },
-  { id: "iot",         label: "Networking & IoT",      fullName: "Networking, IoT, Edge, SDN, & Distributed Systems", count: 1  },
+  { id: "ml_ds",      label: "ML & Data Science",      fullName: "Machine Learning (General/Applied) & Data Science",  keywords: ["ML & Data Science", "machine learning", "data science", "applied machine learning"] },
+  { id: "cv",          label: "Computer Vision",      fullName: "Computer Vision & Image Processing",                   keywords: ["Computer Vision", "computer vision", "image processing", "image recognition"] },
+  { id: "dl",          label: "Deep Learning",         fullName: "Deep Learning & Neural Networks",                     keywords: ["Deep Learning", "deep learning", "neural network"] },
+  { id: "nlp",         label: "NLP",                  fullName: "Natural Language Processing (NLP)",                    keywords: ["NLP", "natural language processing", "large language model", "text processing"] },
+  { id: "healthcare", label: "Healthcare & Bio",      fullName: "Healthcare, Bioinformatics, & Biomedical Applications", keywords: ["Healthcare & Bio", "healthcare", "bioinformatics", "biomedical", "medical image"] },
+  { id: "cyber",       label: "Cybersecurity",        fullName: "Cybersecurity, Privacy, Blockchain, & Trust",          keywords: ["Cybersecurity", "cybersecurity", "cyber security", "blockchain", "cryptography", "information security"] },
+  { id: "hci",         label: "HCI & Accessibility",  fullName: "Human-Computer Interaction (HCI), ICT4D, & Accessibility", keywords: ["HCI & Accessibility", "human-computer interaction", "human computer interaction", "hci", "accessibility", "ict4d", "usability"] },
+  { id: "se",          label: "Software Engineering",  fullName: "Software Engineering, AI4SE, & Automated Tools",      keywords: ["Software Engineering", "software engineering"] },
+  { id: "iot",         label: "Networking & IoT",      fullName: "Networking, IoT, Edge, SDN, & Distributed Systems",  keywords: ["Networking & IoT", "internet of things", "networking", "wireless", "edge computing"] },
+  { id: "xai",         label: "Explainable AI",       fullName: "Explainable AI (XAI), Fairness, & Trustworthy AI",   keywords: ["Explainable AI", "explainable ai", "xai", "explainability", "trustworthy ai"] },
+  { id: "emerging",    label: "Emerging Areas",       fullName: "Emerging & Specialized Areas",                        keywords: ["Emerging Areas", "robotics", "reinforcement learning", "quantum", "multi-agent"] },
 ];
 
 export const edges = [
   // ── Strong Lines (Strength: 3) ──
-  { from: "ml_ds",      to: "dl",       strength: 3 },
-  { from: "ml_ds",      to: "nlp",      strength: 3 },
-  { from: "ml_ds",      to: "cv",       strength: 3 },
-  { from: "ml_ds",      to: "healthcare", strength: 3 },
-  { from: "ml_ds",      to: "xai",      strength: 3 },
-  { from: "cyber",       to: "iot",      strength: 3 },
+  { from: "ai_ml",    to: "dl",       strength: 3 },
+  { from: "ai_ml",    to: "cv",       strength: 3 },
+  { from: "ai_ml",    to: "nlp",      strength: 3 },
+  { from: "dl",       to: "cv",       strength: 3 },
+  { from: "llm",      to: "nlp",      strength: 3 },
+  { from: "security", to: "systems",  strength: 3 },
 
   // ── Medium Lines (Strength: 2) ──
-  { from: "healthcare", to: "cv",       strength: 2 },
-  { from: "healthcare", to: "nlp",      strength: 2 },
-  { from: "cv",          to: "dl",       strength: 2 },
-  { from: "se",          to: "ml_ds",    strength: 2 },
-  { from: "cyber",       to: "xai",      strength: 2 },
+  { from: "ai_ml",    to: "data_sci", strength: 2 },
+  { from: "ai_ml",    to: "xai",      strength: 2 },
+  { from: "ai_ml",    to: "bio",      strength: 2 },
+  { from: "dl",       to: "nlp",      strength: 2 },
+  { from: "llm",      to: "se",       strength: 2 },
+  { from: "llm",      to: "security", strength: 2 },
+  { from: "bio",      to: "cv",       strength: 2 },
+  { from: "theory",   to: "ai_ml",    strength: 2 },
 
   // ── Weak Lines (Strength: 1) ──
-  { from: "hci",         to: "nlp",      strength: 1 },
-  { from: "hci",         to: "healthcare", strength: 1 },
-  { from: "emerging",    to: "se",       strength: 1 },
-  { from: "emerging",    to: "iot",      strength: 1 },
-  { from: "cyber",       to: "ml_ds",    strength: 1 },
+  { from: "hci",      to: "se",       strength: 1 },
+  { from: "hci",      to: "xai",      strength: 1 },
+  { from: "quantum",  to: "ai_ml",    strength: 1 },
+  { from: "robotics", to: "systems",  strength: 1 },
+  { from: "hardware", to: "systems",  strength: 1 },
+  { from: "se",       to: "security", strength: 1 },
 ];
 
-// Update this when faculty data changes; ideally fetch from /api/faculty/stats
-export const FACULTY_COUNT = 49;
+export const FACULTY_COUNT = 210;
 export const totalFaculty = FACULTY_COUNT;
+
+export const categories = [
+  { id: "ai_ml",       label: "AI & Machine Learning" },
+  { id: "dl",          label: "Deep Learning" },
+  { id: "cv",          label: "Computer Vision" },
+  { id: "nlp",         label: "NLP" },
+  { id: "llm",         label: "Large Language Models" },
+  { id: "data_sci",    label: "Data Science" },
+  { id: "security",    label: "Security & Privacy" },
+  { id: "bio",         label: "Bioinformatics & Healthcare" },
+  { id: "hci",         label: "HCI & UX" },
+  { id: "systems",     label: "Systems & Networking" },
+  { id: "se",          label: "Software Engineering" },
+  { id: "theory",      label: "Theory & Algorithms" },
+  { id: "hardware",    label: "Hardware & Electronics" },
+  { id: "robotics",    label: "Robotics & Automation" },
+  { id: "quantum",     label: "Quantum Computing" },
+  { id: "xai",         label: "Explainability & Ethics" },
+];

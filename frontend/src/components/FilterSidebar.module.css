@@ -110,24 +110,29 @@
 
 .pillGroup {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+  flex-direction: column;
+  gap: 6px;
 }
 
 .pillToggle,
 .pillToggleActive {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 44px;
+  width: 100%;
+  min-height: 36px;
   padding: 7px 14px;
   font-size: 0.8rem;
   font-weight: 600;
-  border-radius: 999px;
+  border-radius: 10px;
   border: 1px solid rgba(15, 23, 42, 0.08);
   background: rgba(255, 255, 255, 0.55);
   color: #334155;
-  transition: background var(--duration-fast) ease, border-color var(--duration-fast) ease, color var(--duration-fast) ease, transform var(--duration-fast) ease;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: background var(--duration-fast) ease, border-color var(--duration-fast) ease, color var(--duration-fast) ease;
 }
 
 .pillToggle:hover {

@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { fields, edges, totalFaculty } from '../data/graphData';
+import { categories, edges } from '../data/graphData';
 import faculty from '../data/faculty';
 import styles from './NeuralGraph.module.css';
 
@@ -15,67 +15,87 @@ import styles from './NeuralGraph.module.css';
  * Click: navigates to /database?area=[fieldname].
  */
 
-/* ── Semantic color mapping — each field gets a unique vibrant color ── */
+/* ── Semantic color mapping — each category gets a unique vibrant color ── */
 const FIELD_COLORS = {
-  ml_ds:      '#2563EB',
-  dl:          '#4338CA',
-  nlp:         '#D4A95A',
-  cv:          '#475569',
-  healthcare: '#14B8A6',
-  cyber:       '#DC2626',
-  se:          '#6366F1',
-  iot:         '#0F766E',
-  hci:         '#F59E0B',
-  xai:         '#CA8A04',
-  emerging:    '#7C3AED',
+  ai_ml:    '#2563EB',
+  dl:       '#4338CA',
+  cv:       '#475569',
+  nlp:      '#D4A95A',
+  llm:      '#7C3AED',
+  data_sci: '#0891B2',
+  security: '#DC2626',
+  bio:      '#14B8A6',
+  hci:      '#F59E0B',
+  systems:  '#0F766E',
+  se:       '#6366F1',
+  theory:   '#64748B',
+  hardware: '#92400E',
+  robotics: '#059669',
+  quantum:  '#8B5CF6',
+  xai:      '#CA8A04',
 };
 
 function getNodeColor(id) {
   return FIELD_COLORS[id] || '#4F46E5';
 }
 
-/* ── Radius from count ── */
-function getRadius(count, w) {
-  if (w < 760) {
-    return 15 + (count / 12) * 45; // More distinct sizes on mobile
-  }
-  return 24 + (count / 12) * 48; 
+/* ── Count faculty per category using researchCategories ── */
+function countFacultyInCategory(categoryLabel) {
+  return faculty.filter(fac =>
+    (fac.researchCategories || []).includes(categoryLabel)
+  ).length;
 }
 
-/* ── Compute available slots from faculty data ── */
-function getAvailable(fieldLabel) {
-  return faculty.filter(
-    f => f.researchAreas.includes(fieldLabel) && f.availableSlots > 0
-  ).length;
+const FIELD_COUNTS = Object.fromEntries(
+  categories.map(c => [c.id, countFacultyInCategory(c.label)])
+);
+
+/* ── Radius from count ── */
+const MAX_FIELD_COUNT = Math.max(...Object.values(FIELD_COUNTS), 1);
+function getRadius(count, w) {
+  if (w < 760) {
+    return 15 + (count / MAX_FIELD_COUNT) * 45;
+  }
+  return 24 + (count / MAX_FIELD_COUNT) * 48;
 }
 
 /* ── Layout positions — organic, hand-placed feel ── */
 const layoutPositions = {
-  ml_ds:      { rx: 0.40, ry: 0.35 },
-  healthcare: { rx: 0.25, ry: 0.55 },
-  dl:          { rx: 0.60, ry: 0.25 },
-  nlp:         { rx: 0.20, ry: 0.32 },
-  cv:          { rx: 0.75, ry: 0.35 },
-  cyber:       { rx: 0.82, ry: 0.55 },
-  se:          { rx: 0.55, ry: 0.70 },
-  hci:         { rx: 0.15, ry: 0.72 },
-  xai:         { rx: 0.45, ry: 0.52 },
-  emerging:    { rx: 0.70, ry: 0.75 },
-  iot:         { rx: 0.88, ry: 0.30 },
+  ai_ml:    { rx: 0.40, ry: 0.32 },
+  dl:       { rx: 0.60, ry: 0.22 },
+  cv:       { rx: 0.76, ry: 0.33 },
+  nlp:      { rx: 0.20, ry: 0.28 },
+  llm:      { rx: 0.50, ry: 0.16 },
+  data_sci: { rx: 0.22, ry: 0.50 },
+  security: { rx: 0.84, ry: 0.54 },
+  bio:      { rx: 0.24, ry: 0.68 },
+  hci:      { rx: 0.13, ry: 0.80 },
+  systems:  { rx: 0.80, ry: 0.72 },
+  se:       { rx: 0.55, ry: 0.72 },
+  theory:   { rx: 0.38, ry: 0.55 },
+  hardware: { rx: 0.68, ry: 0.82 },
+  robotics: { rx: 0.65, ry: 0.58 },
+  quantum:  { rx: 0.74, ry: 0.44 },
+  xai:      { rx: 0.46, ry: 0.46 },
 };
 
 const layoutPositionsMobile = {
-  ml_ds:      { rx: 0.50, ry: 0.30 },
-  healthcare: { rx: 0.25, ry: 0.48 },
-  dl:         { rx: 0.75, ry: 0.18 },
-  nlp:        { rx: 0.22, ry: 0.22 },
-  cv:         { rx: 0.80, ry: 0.36 },
-  cyber:      { rx: 0.75, ry: 0.58 },
-  se:         { rx: 0.50, ry: 0.68 },
-  hci:        { rx: 0.25, ry: 0.65 },
-  xai:        { rx: 0.50, ry: 0.46 },
-  emerging:   { rx: 0.72, ry: 0.80 },
-  iot:        { rx: 0.28, ry: 0.82 },
+  ai_ml:    { rx: 0.50, ry: 0.28 },
+  dl:       { rx: 0.75, ry: 0.18 },
+  cv:       { rx: 0.82, ry: 0.36 },
+  nlp:      { rx: 0.22, ry: 0.20 },
+  llm:      { rx: 0.52, ry: 0.12 },
+  data_sci: { rx: 0.20, ry: 0.44 },
+  security: { rx: 0.78, ry: 0.56 },
+  bio:      { rx: 0.22, ry: 0.62 },
+  hci:      { rx: 0.18, ry: 0.78 },
+  systems:  { rx: 0.78, ry: 0.74 },
+  se:       { rx: 0.52, ry: 0.68 },
+  theory:   { rx: 0.40, ry: 0.50 },
+  hardware: { rx: 0.68, ry: 0.84 },
+  robotics: { rx: 0.65, ry: 0.58 },
+  quantum:  { rx: 0.72, ry: 0.42 },
+  xai:      { rx: 0.46, ry: 0.42 },
 };
 
 export default function NeuralGraph({ onHoverField }) {
@@ -99,7 +119,7 @@ export default function NeuralGraph({ onHoverField }) {
     const isMobile = w < 760;
     const positions = isMobile ? layoutPositionsMobile : layoutPositions;
 
-    return fields.map(f => {
+    return categories.map(f => {
       const lp = positions[f.id] || { rx: 0.5, ry: 0.5 };
       return {
         ...f,
@@ -107,9 +127,9 @@ export default function NeuralGraph({ onHoverField }) {
         y: lp.ry * h,
         baseX: lp.rx * w,
         baseY: lp.ry * h,
-        r: getRadius(f.count, w),
+        r: getRadius(FIELD_COUNTS[f.id], w),
         color: getNodeColor(f.id),
-        available: getAvailable(f.label),
+        count: FIELD_COUNTS[f.id],
         bobOffset: Math.random() * Math.PI * 2,
         bobSpeed: 0.15 + Math.random() * 0.15,   // much slower for 6s float
         bobAmp: 3 + Math.random() * 5,
@@ -303,18 +323,14 @@ export default function NeuralGraph({ onHoverField }) {
         ctx.stroke();
 
         // Label
-        ctx.fillStyle = `rgba(255, 255, 255, ${opacity})`;
         ctx.shadowColor = 'rgba(0,0,0,0.12)';
         ctx.shadowOffsetY = 1;
         ctx.shadowBlur = 2;
-        
-        // 10px small, 24px big
+
         const fontSize = Math.max(10, r * 0.42);
-        const fontWeight = 700;
-        ctx.font = `${fontWeight} ${fontSize}px 'Space Grotesk', sans-serif`;
+        ctx.font = `700 ${fontSize}px 'Space Grotesk', sans-serif`;
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
-        
         ctx.fillStyle = '#0F172A';
         ctx.fillText(n.label, n.x, drawY);
 
@@ -356,7 +372,6 @@ export default function NeuralGraph({ onHoverField }) {
       setTooltip({
         label: found.fullName || found.label,
         count: found.count,
-        available: found.available,
         x: found.x,
         y: found.y - found.r - 16,
       });
@@ -408,7 +423,6 @@ export default function NeuralGraph({ onHoverField }) {
             setTooltip({
               label: node.fullName || node.label,
               count: node.count,
-              available: node.available,
               x: node.x,
               y: node.y - node.r - 16,
             });
@@ -451,7 +465,7 @@ export default function NeuralGraph({ onHoverField }) {
 
       {/* Bottom stat */}
       <div className={styles.bottomStat}>
-        {totalFaculty} faculty · click any field to explore
+        {faculty.length} faculty · click any field to explore
       </div>
     </div>
   );

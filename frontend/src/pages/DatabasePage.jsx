@@ -71,13 +71,13 @@ export default function DatabasePage() {
       // 1. Search Query
       if (filters.search) {
         const q = filters.search.toLowerCase();
-        const searchable = `${f.name} ${f.designation} ${f.department} ${f.bio} ${f.researchAreas.join(' ')} ${f.degreeTypes.join(' ')}`.toLowerCase();
+        const searchable = `${f.name} ${f.initials} ${f.designation} ${f.department} ${f.bio} ${f.researchAreas.join(' ')} ${(f.researchCategories || []).join(' ')} ${f.degreeTypes.join(' ')}`.toLowerCase();
         if (!searchable.includes(q)) return false;
       }
 
-      // 2. Research Area Filter
+      // 2. Research Category Filter
       if (filters.areas.length > 0) {
-        if (!filters.areas.some((a) => f.researchAreas.includes(a))) return false;
+        if (!filters.areas.some((a) => (f.researchCategories || []).includes(a))) return false;
       }
 
       // 3. Availability Filter

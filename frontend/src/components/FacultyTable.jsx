@@ -6,13 +6,14 @@ import styles from './FacultyTable.module.css';
 const sortLabels = {
   name: 'Faculty',
   initials: 'Initial',
-  research: 'Research Areas',
+  research: 'Research Categories',
   availability: 'Availability',
   contact: 'Contact',
 };
 
 export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSortChange, density = 'comfortable' }) {
   const [copied, setCopied] = useState(false);
+  const [photoErrors, setPhotoErrors] = useState(new Set());
   const isCompact = density === 'compact';
 
   const copyEmail = useCallback((e, email) => {
@@ -50,22 +51,24 @@ export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSort
           </tr>
         </thead>
         <tbody>
-          {data.map((faculty) => (
+          {data.map((faculty) => {
+            const showPhoto = faculty.photoUrl && !photoErrors.has(faculty.id);
+            return (
             <tr key={faculty.id} onClick={() => onSelectFaculty(faculty)} id={`faculty-row-${faculty.id}`}>
               <td className={styles.facultyColumn}>
                 <div className={styles.nameCell}>
                   <div
                     className={styles.avatar}
-                    style={faculty.photoUrl ? {} : { background: getAvatarColor(faculty.name) }}
+                    style={showPhoto ? {} : { background: getAvatarColor(faculty.name) }}
                   >
-                    {faculty.photoUrl ? (
+                    {showPhoto ? (
                       <img
                         src={faculty.photoUrl}
                         alt={faculty.name}
                         className={styles.avatarPhoto}
                         loading="lazy"
                         decoding="async"
-                        onError={(e) => { e.target.style.display = 'none'; e.target.parentNode.setAttribute('data-initials', faculty.initials); }}
+                        onError={() => setPhotoErrors(prev => new Set([...prev, faculty.id]))}
                       />
                     ) : (
                       faculty.initials
@@ -85,10 +88,10 @@ export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSort
               </td>
 
               <td className={styles.researchColumn}>
-                {faculty.researchAreas.length > 0 ? (
+                {(faculty.researchCategories?.length > 0) ? (
                   <div className={styles.researchChips}>
-                    {faculty.researchAreas.map(area => (
-                      <TagPill key={area} label={area} small />
+                    {faculty.researchCategories.map(cat => (
+                      <TagPill key={cat} label={cat} small />
                     ))}
                   </div>
                 ) : (
@@ -114,7 +117,7 @@ export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSort
                 </button>
               </td>
             </tr>
-          ))}
+          );})}
         </tbody>
       </table>
 

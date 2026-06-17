@@ -1,20 +1,25 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { fields } from '../data/graphData';
+import { categories } from '../data/graphData';
 import styles from './DotNav.module.css';
 
 const FIELD_COLORS = {
-  ml_ds:      '#2563EB',
-  dl:          '#4338CA',
-  nlp:         '#D4A95A',
-  cv:          '#475569',
-  healthcare: '#14B8A6',
-  cyber:       '#DC2626',
-  se:          '#6366F1',
-  iot:         '#0F766E',
-  hci:         '#F59E0B',
-  xai:         '#CA8A04',
-  emerging:    '#7C3AED',
+  ai_ml:    '#2563EB',
+  dl:       '#4338CA',
+  cv:       '#475569',
+  nlp:      '#D4A95A',
+  llm:      '#7C3AED',
+  data_sci: '#0891B2',
+  security: '#DC2626',
+  bio:      '#14B8A6',
+  hci:      '#F59E0B',
+  systems:  '#0F766E',
+  se:       '#6366F1',
+  theory:   '#64748B',
+  hardware: '#92400E',
+  robotics: '#059669',
+  quantum:  '#8B5CF6',
+  xai:      '#CA8A04',
 };
 
 export default function DotNav({ activeField, onHover }) {
@@ -22,15 +27,15 @@ export default function DotNav({ activeField, onHover }) {
 
   return (
     <div className={styles.wrapper} id="dot-nav">
-      {fields.map(f => {
+      {categories.map(f => {
         const isActive = activeField === f.id;
         const color = FIELD_COLORS[f.id] || 'var(--primary)';
-        
+
         return (
           <div
             key={f.id}
             className={`${styles.dot} ${isActive ? styles.dotActive : ''}`}
-            style={{ 
+            style={{
               '--dot-color': color,
               borderColor: isActive ? color : 'var(--text-faint)',
               background: isActive ? color : 'var(--surface)'

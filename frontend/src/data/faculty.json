@@ -25,7 +25,11 @@
     "address": "CSE Department 4th floor, Room No # 4L95, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MUNR",
-    "photoUrl": "/faculty_photos/A B M Muntasir Rahman (MUNR).jpg"
+    "photoUrl": "/faculty_photos/A_B_M_Muntasir_Rahman_(MUNR).jpg",
+    "researchCategories": [
+      "Computer Vision",
+      "NLP"
+    ]
   },
   {
     "id": 2,
@@ -71,7 +75,11 @@
     "address": "CSE Department 4th floor, Room No # 4N146, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ANWE",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 3,
@@ -93,7 +101,8 @@
     "address": "CSE Department 4th floor, Room No # 4G26, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "AMK",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Abu_Mohammad_Khan_(AMK).jpg",
+    "researchCategories": []
   },
   {
     "id": 4,
@@ -115,7 +124,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CADM",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 5,
@@ -137,7 +147,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CABT",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 6,
@@ -164,7 +175,12 @@
     "address": "CSE Department 4th floor, Room No # 4K79, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AFA",
-    "photoUrl": "/faculty_photos/Afroza Akther (AFA).jpeg"
+    "photoUrl": "/faculty_photos/Afroza_Akther_(AFA).jpeg",
+    "researchCategories": [
+      "Data Science",
+      "AI & Machine Learning",
+      "HCI & UX"
+    ]
   },
   {
     "id": 7,
@@ -190,7 +206,10 @@
     "address": "CSE Department 4th floor, Room No # 4N145, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FARS",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ahmad_Farhan_Shahriar_Chowdhury_(FARS).jpg",
+    "researchCategories": [
+      "Systems & Networking"
+    ]
   },
   {
     "id": 8,
@@ -224,7 +243,14 @@
     "address": "CSE Department 4th floor, Room No # 4L93, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ADU",
-    "photoUrl": "/faculty_photos/Ahmed Mahir Ruhan (ADU).jpeg"
+    "photoUrl": "/faculty_photos/Ahmed_Mahir_Ruhan_(ADU).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "HCI & UX"
+    ]
   },
   {
     "id": 9,
@@ -253,7 +279,13 @@
     "address": "CSE Department 4th floor, Room No # 4L87, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MZG",
-    "photoUrl": "/faculty_photos/Ahmed Mayeesha Reza Agomoni (MZG).jpg"
+    "photoUrl": "/faculty_photos/Ahmed_Mayeesha_Reza_Agomoni_(MZG).jpg",
+    "researchCategories": [
+      "Explainability & Ethics",
+      "Security & Privacy",
+      "Deep Learning",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 10,
@@ -275,7 +307,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CAHT",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 11,
@@ -297,7 +330,8 @@
     "address": "CSE Department 4th floor, Room No # 4N161, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "AKJ",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 12,
@@ -312,7 +346,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Keen interest to supervise with Machine Learning, Deep Learning, Artificial Intelligence. Topic needs to be related and useful to real life."
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -321,7 +357,11 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AAF",
-    "photoUrl": "/faculty_photos/Anika Afrin (AAF).jpeg"
+    "photoUrl": "/faculty_photos/Anika_Afrin_(AAF).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning"
+    ]
   },
   {
     "id": 13,
@@ -345,7 +385,10 @@
     "address": "CSE Department 4th floor, Room No # 4K72, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ANKH",
-    "photoUrl": "/faculty_photos/Anika Ahmed (ANKH).jpeg"
+    "photoUrl": "/faculty_photos/Anika_Ahmed_(ANKH).jpeg",
+    "researchCategories": [
+      "NLP"
+    ]
   },
   {
     "id": 14,
@@ -385,7 +428,10 @@
     "address": "CSE Department 4th floor, Room No # 4K81, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "APM",
-    "photoUrl": "/faculty_photos/Anika Priodorshinee Mrittika (APM).jpeg"
+    "photoUrl": "/faculty_photos/Anika_Priodorshinee_Mrittika_(APM).jpeg",
+    "researchCategories": [
+      "HCI & UX"
+    ]
   },
   {
     "id": 15,
@@ -415,7 +461,14 @@
     "address": "CSE Department 4th floor, Room No # 4L88, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ALB",
-    "photoUrl": "/faculty_photos/Anindita Labonno (ALB).jpg"
+    "photoUrl": "/faculty_photos/Anindita_Labonno_(ALB).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision",
+      "NLP",
+      "Security & Privacy",
+      "HCI & UX"
+    ]
   },
   {
     "id": 16,
@@ -437,7 +490,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CAIJ",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 17,
@@ -452,7 +506,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Sensor-based health monitoring; Bio-related signal processing; Biomedical imaging and analytics;"
+      "Sensor-based Health Monitoring",
+      "Bio-related Signal Processing",
+      "Biomedical Imaging and Analytics"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -461,7 +517,10 @@
     "address": "CSE Department 4th floor, Room No # 4N150, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AQT",
-    "photoUrl": "/faculty_photos/Aniqa Tabassum (AQT).jpg"
+    "photoUrl": "/faculty_photos/Aniqa_Tabassum_(AQT).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 18,
@@ -518,7 +577,8 @@
     "address": "CSE Department 4th floor, Room No # 4G03, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ARF",
-    "photoUrl": "/faculty_photos/Arif Shakil (ARF).jpg"
+    "photoUrl": "/faculty_photos/Arif_Shakil_(ARF).jpg",
+    "researchCategories": []
   },
   {
     "id": 19,
@@ -547,7 +607,13 @@
     "address": "CSE Department 4th floor, Room No # 4N153, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AYO",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ariyan_Hossain_(AYO).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP",
+      "Security & Privacy",
+      "Explainability & Ethics"
+    ]
   },
   {
     "id": 20,
@@ -569,7 +635,8 @@
     "address": "CSE Department 4th floor, Room No # 4M102, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "ASAK",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 21,
@@ -583,7 +650,18 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Computer and Network Security",
+      "AI in Security",
+      "Security for AI",
+      "Natural Language Processing",
+      "Machine Learning for NLP",
+      "NLP Applications",
+      "Large Language Models",
+      "Trustworthy LLMs",
+      "Retrieval Augmented Generation",
+      "Secure & Interpretable LLMs for Communication Protocols (5G and beyond)"
+    ],
     "recentPapers": [
       {
         "title": "IEEE Transactions on Information Forensics and Security",
@@ -607,7 +685,12 @@
     "address": "CSE Department 4th floor, Room No # 4M124, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SHAH",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Asif_Shahriar_(SHAH).jpg",
+    "researchCategories": [
+      "Security & Privacy",
+      "NLP",
+      "Large Language Models"
+    ]
   },
   {
     "id": 22,
@@ -622,7 +705,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Software Engineering, Machine Learning, Image Processing, Robotics"
+      "Software Engineering",
+      "Machine Learning",
+      "Image Processing",
+      "Robotics"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -631,7 +717,13 @@
     "address": "CSE Department 4th floor, Room No # 4M126, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ART",
-    "photoUrl": "/faculty_photos/Atanu Roy (ART).jpg"
+    "photoUrl": "/faculty_photos/Atanu_Roy_(ART).jpg",
+    "researchCategories": [
+      "Software Engineering",
+      "AI & Machine Learning",
+      "Computer Vision",
+      "Robotics & Automation"
+    ]
   },
   {
     "id": 23,
@@ -656,7 +748,10 @@
     "address": "CSE Department 4th floor, Room No # 4K77, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ATY",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ateya_Ahmed_Subarna_(ATY).jpeg",
+    "researchCategories": [
+      "NLP"
+    ]
   },
   {
     "id": 24,
@@ -684,7 +779,12 @@
     "address": "CSE Department 4th floor, Room No # 4M118, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AVB",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Avinandan_Banerjee_(AVB).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 25,
@@ -708,7 +808,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "ADD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ayesha_Siddika_(ADD).jpg",
+    "researchCategories": []
   },
   {
     "id": 26,
@@ -732,7 +833,8 @@
     "address": "CSE Department 4th floor, Room No # 4M129, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ARD",
-    "photoUrl": "/faculty_photos/Ayman Rasheed (ARD).jpg"
+    "photoUrl": "/faculty_photos/Ayman_Rasheed_(ARD).jpg",
+    "researchCategories": []
   },
   {
     "id": 27,
@@ -758,7 +860,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CAYR",
-    "photoUrl": "/faculty_photos/Ayon Roy (CAYR).jpg"
+    "photoUrl": "/faculty_photos/Ayon_Roy_(CAYR).jpg",
+    "researchCategories": [
+      "Large Language Models"
+    ]
   },
   {
     "id": 28,
@@ -828,7 +933,13 @@
     "address": "CSE Department 4th floor, Room No # 4M130, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "BIJS",
-    "photoUrl": "/faculty_photos/Bijoy Ahmed Saiem (BIJS).png"
+    "photoUrl": "/faculty_photos/Bijoy_Ahmed_Saiem_(BIJS).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP",
+      "Security & Privacy",
+      "HCI & UX"
+    ]
   },
   {
     "id": 29,
@@ -1091,7 +1202,11 @@
     "address": "CSE Department 4th floor, Room No # 4G05, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "DZK",
-    "photoUrl": "/faculty_photos/Dewan Ziaul Karim (DZK).jpg"
+    "photoUrl": "/faculty_photos/Dewan_Ziaul_Karim_(DZK).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 30,
@@ -1106,8 +1221,12 @@
       "PhD"
     ],
     "researchAreas": [
-      "I'm interested in working in the Internet of Things, Machine Learning, Deep Learning, Computer Vision, LLM models, and Networking. Some of my recent published works have predominantly revolved around leveraging deep learning techniques in various domains such as medical imaging, agriculture, and more. Students who want to collaborate with me can get involved in some of the existing ongoing research projects or propose their ideas on the domains mentioned above for independent, undergraduate, or postgraduate research.",
-      "Some of the recent publications from my team:"
+      "Internet of Things",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Large Language Models",
+      "Networking"
     ],
     "recentPapers": [
       {
@@ -1679,7 +1798,14 @@
     "address": "CSE Department 4th floor, Room No # 4G25, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ACH",
-    "photoUrl": "/faculty_photos/Amitabha Chakrabarty (ACH).jpg"
+    "photoUrl": "/faculty_photos/Dr._Amitabha_Chakrabarty_(ACH).jpg",
+    "researchCategories": [
+      "Systems & Networking",
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Large Language Models"
+    ]
   },
   {
     "id": 31,
@@ -1703,7 +1829,10 @@
     "address": "CSE Department 4th floor, Room No # 4G16, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AQZ",
-    "photoUrl": "/faculty_photos/Aniqua Nusrat Zereen (AQZ).jpeg"
+    "photoUrl": "/faculty_photos/Dr._Aniqua_Nusrat_Zereen_(AQZ).jpeg",
+    "researchCategories": [
+      "Data Science"
+    ]
   },
   {
     "id": 32,
@@ -1718,7 +1847,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning, Data mining, AI. Some slots are available for spring 2026."
+      "Machine Learning",
+      "Data Mining",
+      "Artificial Intelligence"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -1727,7 +1858,11 @@
     "address": "CSE Department 4th floor, Room No # 4G18, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CMR",
-    "photoUrl": "/faculty_photos/Chowdhury Mofizur Rahman (CMR).JPG"
+    "photoUrl": "/faculty_photos/Dr._Chowdhury_Mofizur_Rahman_(CMR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Data Science"
+    ]
   },
   {
     "id": 33,
@@ -1742,7 +1877,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "My currents research interests are security usability, privacy usability and HCI (Human Computer Interaction)."
+      "Security Usability",
+      "Privacy Usability",
+      "HCI (Human Computer Interaction)"
     ],
     "recentPapers": [
       {
@@ -1897,7 +2034,11 @@
     "address": "CSE Department 4th floor, Room No # 4G09, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FDC",
-    "photoUrl": "/faculty_photos/Farida Chowdhury (FDC).jpeg"
+    "photoUrl": "/faculty_photos/Dr._Farida_Chowdhury_(FDC).jpeg",
+    "researchCategories": [
+      "Security & Privacy",
+      "HCI & UX"
+    ]
   },
   {
     "id": 34,
@@ -1912,7 +2053,13 @@
       "PhD"
     ],
     "researchAreas": [
-      "Applied Natural Language Processing (NLP), Low-resource Language, NLP for Education, Machine Learning (Applications and Ethics), Artificial Intelligence and Green AI, Computational Social Science, Information Retrieval"
+      "Applied Natural Language Processing (NLP)",
+      "Low-resource Language",
+      "NLP for Education",
+      "Machine Learning (Applications and Ethics)",
+      "Artificial Intelligence and Green AI",
+      "Computational Social Science",
+      "Information Retrieval"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -1921,7 +2068,11 @@
     "address": "CSE Department 4th floor, Room No # 4G29, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FYS",
-    "photoUrl": "/faculty_photos/Farig Yousuf Sadeque (FYS).jpeg"
+    "photoUrl": "/faculty_photos/Dr._Farig_Yousuf_Sadeque_(FYS).jpeg",
+    "researchCategories": [
+      "NLP",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 35,
@@ -1936,7 +2087,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "My current research interests lie in the intersection of Self-sovereign Identity (SSI), Blockchain, Trust, Security and Privacy."
+      "Self-sovereign Identity (SSI)",
+      "Blockchain",
+      "Trust",
+      "Security and Privacy"
     ],
     "recentPapers": [
       {
@@ -1953,7 +2107,10 @@
     "address": "CSE Department 4th floor, Room No # 4G10, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SDF",
-    "photoUrl": "/faculty_photos/Md Sadek Ferdous (SDF).jpeg"
+    "photoUrl": "/faculty_photos/Dr._Md_Sadek_Ferdous_(SDF).jpeg",
+    "researchCategories": [
+      "Security & Privacy"
+    ]
   },
   {
     "id": 36,
@@ -2472,7 +2629,12 @@
     "address": "CSE Department 4th floor, Room No # 4G24, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ASA",
-    "photoUrl": "/faculty_photos/Md. Ashraful Alam (ASA).jpg"
+    "photoUrl": "/faculty_photos/Dr._Md._Ashraful_Alam_(ASA).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 37,
@@ -2507,7 +2669,13 @@
     "address": "CSE Department 4th floor, Room No # 4G23, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "GRA",
-    "photoUrl": "/faculty_photos/Md. Golam Rabiul Alam (GRA).jpg"
+    "photoUrl": "/faculty_photos/Dr._Md._Golam_Rabiul_Alam_(GRA).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 38,
@@ -2522,7 +2690,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Robotics, Vision based AI, Multi-Modal AI, Vision based Automation"
+      "Robotics",
+      "Vision-based AI",
+      "Multi-Modal AI",
+      "Vision-based Automation"
     ],
     "recentPapers": [
       {
@@ -2709,7 +2880,12 @@
     "address": "CSE Department 4th floor, Room No # 4G08, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KHR",
-    "photoUrl": "/faculty_photos/Md. Khalilur Rahman (KHR).jpg"
+    "photoUrl": "/faculty_photos/Dr._Md._Khalilur_Rahman_(KHR).jpg",
+    "researchCategories": [
+      "Robotics & Automation",
+      "Computer Vision",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 39,
@@ -2927,7 +3103,13 @@
     "address": "CSE Department 4th floor, Room No # 4G17, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MSAH",
-    "photoUrl": "/faculty_photos/Md. Sakir Hossain (MSAH).png"
+    "photoUrl": "/faculty_photos/Dr._Md._Sakir_Hossain_(MSAH).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare",
+      "Computer Vision",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 40,
@@ -2942,7 +3124,12 @@
       "PhD"
     ],
     "researchAreas": [
-      "Graph Theory, Systems of Linear Equations, Computational Geometry, General Algorithms,  Ranking algorithms, Linear programming"
+      "Graph Theory",
+      "Systems of Linear Equations",
+      "Computational Geometry",
+      "General Algorithms",
+      "Ranking Algorithms",
+      "Linear Programming"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -2951,7 +3138,10 @@
     "address": "CSE Department 4th floor, Room No # 4G11, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KYK",
-    "photoUrl": "/faculty_photos/Mohammad Kaykobad (KYK).png"
+    "photoUrl": "/faculty_photos/Dr._Mohammad_Kaykobad_(KYK).png",
+    "researchCategories": [
+      "Theory & Algorithms"
+    ]
   },
   {
     "id": 41,
@@ -2966,8 +3156,14 @@
       "PhD"
     ],
     "researchAreas": [
-      "Information security (Cryptography, Access control, Cloud Security, IoT security, etc)Artificial Intelligence and Machine learningModel-based Software Engineering, Software Testing and Verification., Automation, etc.",
-      "Slot booked till Spring 2026 (Undergraduate)."
+      "Information Security",
+      "Cryptography",
+      "Cloud Security",
+      "IoT Security",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software Engineering",
+      "Software Testing and Verification"
     ],
     "recentPapers": [
       {
@@ -2999,7 +3195,12 @@
     "address": "CSE Department 4th floor, Room No # 4G22, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MIH",
-    "photoUrl": "/faculty_photos/Muhammad Iqbal Hossain (MIH).png"
+    "photoUrl": "/faculty_photos/Dr._Muhammad_Iqbal_Hossain_(MIH).png",
+    "researchCategories": [
+      "Security & Privacy",
+      "AI & Machine Learning",
+      "Software Engineering"
+    ]
   },
   {
     "id": 42,
@@ -3014,9 +3215,12 @@
       "PhD"
     ],
     "researchAreas": [
-      "Policy for Thesis Advising:",
-      "My core interest is in theory, protocol, and algorithmic problems, let it be about parallel computing, graph theory, distributed systems, security, or even information retrieval. I occasionally work on application problems but that happens only when I am deeply interested in a particular problem – not in its application area of computer science in general. I have the conviction that any computer science research should advance computer science some way. A work that solely solves a problem in some other domain using existing computer science tools/techniques is a research in that other domain, which may be of great importance and worthy of publication in the topmost international venue. Regardless, it does not count as computer science research.",
-      "Students intending to work with me should know that I expect them to work very hard and meet me regularly. I only give students problems that I believe to be difficult and know to require extensive literature study. At a time, I can advise only two/three undergraduate research groups and one or two masters students as advising students requires significant time investment on brainstorming, meetings, and literature review on my part.I believe good research work should be published in good conferences/journals. However, I am not a publication-focused person and do not want to pursue problems that are low hanging fruits regarding potential publications. My expectation from undergraduate thesis groups is that they should learn how to conduct research by working on interesting, unsolved problems. The focus should be on learning – not on publications – at that knowledge level. Master students should solve at least one important problem of international interest and have some good conference/journal publications.Fields of Interest:"
+      "Theory and Algorithms",
+      "Parallel Computing",
+      "Graph Theory",
+      "Distributed Systems",
+      "Security",
+      "Information Retrieval"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -3025,7 +3229,13 @@
     "address": "CSE Department 4th floor, Room No # 4G06, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MNY",
-    "photoUrl": "/faculty_photos/Muhammad Nur Yanhaona (MNY).jpg"
+    "photoUrl": "/faculty_photos/Dr._Muhammad_Nur_Yanhaona_(MNY).jpg",
+    "researchCategories": [
+      "Theory & Algorithms",
+      "Systems & Networking",
+      "Security & Privacy",
+      "NLP"
+    ]
   },
   {
     "id": 43,
@@ -3049,7 +3259,10 @@
     "address": "CSE Department 4th floor, Room No # 4G32, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SKZ",
-    "photoUrl": "/faculty_photos/Sadia Hamid Kazi (SKZ).jpeg"
+    "photoUrl": "/faculty_photos/Dr._Sadia_Hamid_Kazi_(SKZ).jpeg",
+    "researchCategories": [
+      "Systems & Networking"
+    ]
   },
   {
     "id": 44,
@@ -3082,7 +3295,11 @@
     "address": "CSE Department 4th floor, Room No # 4G28, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SWK",
-    "photoUrl": "/faculty_photos/Swakkhar Shatabda (SWK).jpg"
+    "photoUrl": "/faculty_photos/Dr._Swakkhar_Shatabda_(SWK).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 45,
@@ -3106,7 +3323,10 @@
     "address": "CSE Department 4th floor, Room No # 4G01, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TLQ",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Dr._Taiabul_Haque_(TLQ).jpg",
+    "researchCategories": [
+      "HCI & UX"
+    ]
   },
   {
     "id": 46,
@@ -3133,7 +3353,11 @@
     "address": "CSE Department 4th floor, Room No # 4N168, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "EHQ",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ehtashamul_Haque_(EHQ).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "Explainability & Ethics"
+    ]
   },
   {
     "id": 47,
@@ -3155,7 +3379,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CEAS",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Eshtiak_Alam_Shihab_(CEAS).jpg",
+    "researchCategories": []
   },
   {
     "id": 48,
@@ -3177,7 +3402,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CFTP",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Fairuz_Tassnim_Prapty_(CFTP).jpg",
+    "researchCategories": []
   },
   {
     "id": 49,
@@ -3203,7 +3429,12 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CFBH",
-    "photoUrl": "/faculty_photos/Farah Binta Haque (CFBH).jpg"
+    "photoUrl": "/faculty_photos/Farah_Binta_Haque_(CFBH).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP"
+    ]
   },
   {
     "id": 50,
@@ -3227,7 +3458,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CFBB",
-    "photoUrl": "/faculty_photos/Fardeen Bin Ibrahim (CFBB).jpg"
+    "photoUrl": "/faculty_photos/Fardeen_Bin_Ibrahim_(CFBB).jpg",
+    "researchCategories": [
+      "Computer Vision"
+    ]
   },
   {
     "id": 51,
@@ -3249,7 +3483,8 @@
     "address": "CSE Department 4th floor, Room No # 4M117, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "FEK",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 52,
@@ -3264,7 +3499,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "ML,Deep Learning, Image vision, internship.Interested group meet/ mail me for details discussion. For Spring-26 and onwards."
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -3275,7 +3512,12 @@
     "address": "CSE Department 4th floor, Room No # 4N155, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FZN",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Fardin_Zubair_Nafis_(FZN).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 53,
@@ -3290,7 +3532,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine learning, image segmentation, applications in healthcare."
+      "Machine Learning",
+      "Image Segmentation",
+      "Healthcare Applications"
     ],
     "recentPapers": [
       {
@@ -3310,7 +3554,12 @@
     "address": "CSE Department 4th floor, Room No # 4M100, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FFU",
-    "photoUrl": "/faculty_photos/Farhan Faruk (FFU).jpg"
+    "photoUrl": "/faculty_photos/Farhan_Faruk_(FFU).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 54,
@@ -3347,7 +3596,12 @@
     "address": "CSE Department 4th floor, Room No # 4K84, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FBAW",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Faria_Binta_Awal_(FBAW).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare",
+      "Computer Vision"
+    ]
   },
   {
     "id": 55,
@@ -3371,7 +3625,10 @@
     "address": "CSE Department 4th floor, Room No # 4K81, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FIC",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Fatiha_Ishrar_Chowdhury_(FIC).jpeg",
+    "researchCategories": [
+      "Security & Privacy"
+    ]
   },
   {
     "id": 56,
@@ -3397,7 +3654,10 @@
     "address": "CSE Department 4th floor, Room No # 4N160, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ZAZ",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ihzaz_Abrar_Sadik_(ZAZ).jpg",
+    "researchCategories": [
+      "Hardware & Electronics"
+    ]
   },
   {
     "id": 57,
@@ -3421,7 +3681,10 @@
     "address": "CSE Department 4th floor, Room No # 4M127, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RHD",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 58,
@@ -3452,7 +3715,10 @@
     "address": "CSE Department 4th floor, Room No # 4K78, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "IBU",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Ipshita_Bonhi_Upoma_(IBU).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 59,
@@ -3467,7 +3733,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "My primary area is Distributed Machine Learning, with a focus on Federated Learning for mobile/edge systems and networking—making computation and deep learning models run efficiently on edge devices. I have professional experience collaborating with frontier AI labs on training large models—covering RLHF, agentic workflows, and benchmarking."
+      "Distributed Machine Learning",
+      "Federated Learning",
+      "Mobile/Edge Computing",
+      "Deep Learning",
+      "RLHF and Agentic Workflows"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -3478,7 +3748,12 @@
     "address": "CSE Department 4th floor, Room No # 4P196, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ITTS",
-    "photoUrl": "/faculty_photos/Ittehad Saleh Chowdhury (ITTS).jpg"
+    "photoUrl": "/faculty_photos/Ittehad_Saleh_Chowdhury_(ITTS).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Systems & Networking",
+      "Deep Learning"
+    ]
   },
   {
     "id": 60,
@@ -3526,7 +3801,11 @@
     "address": "CSE Department 4th floor, Room No # 4M132, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SHDM",
-    "photoUrl": "/faculty_photos/K. M. Shadman Wadith (SHDM).jpg"
+    "photoUrl": "/faculty_photos/K._M._Shadman_Wadith_(SHDM).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP"
+    ]
   },
   {
     "id": 61,
@@ -3548,7 +3827,8 @@
     "address": "CSE Department 4th floor, Room No # 4J57, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "KKP",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Kabbya_Kantam_Patwary_(KKP).jpg",
+    "researchCategories": []
   },
   {
     "id": 62,
@@ -3572,7 +3852,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KSJ",
-    "photoUrl": "/faculty_photos/Kaji Sajjad Hossain (KSJ).jpg"
+    "photoUrl": "/faculty_photos/Kaji_Sajjad_Hossain_(KSJ).jpg",
+    "researchCategories": [
+      "Security & Privacy"
+    ]
   },
   {
     "id": 63,
@@ -3594,7 +3877,8 @@
     "address": "CSE Department 4th floor, Room No # 4N169, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "KFP",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Kaniz_Fatema_Supti_(KFP).jpg",
+    "researchCategories": []
   },
   {
     "id": 64,
@@ -3623,7 +3907,11 @@
     "address": "CSE Department 4th floor, Room No # 4N135, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KZMN",
-    "photoUrl": "/faculty_photos/Kazi Kamruzzaman Rabbi (KZMN).jpeg"
+    "photoUrl": "/faculty_photos/Kazi_Kamruzzaman_Rabbi_(KZMN).jpeg",
+    "researchCategories": [
+      "Computer Vision",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 65,
@@ -3631,7 +3919,7 @@
     "email": "ext.kushol.pritom@bracu.ac.bd",
     "department": "CSE",
     "designation": "Adjunct Lecturer",
-    "bio": "Biography not available.",
+    "bio": "Pritom, K.R., Karim, M.E. and Choudhury, S.M., 2023, December. A Polarization Insensitive Achromatic Metalens Operating at Two Wavelengths in Visible Regime. In 2023 IEEE International Conference on Telecommunications and Photonics (ICTP) (pp. 01-05). IEEE. CSE 250: Circuits and Electronics CSE 250L: Circuits and Electronics Laboratory CSE251L: Electronic Circuits and Devices Laboratory CSE350L: Digital Electronics and Pulse Techniques Laboratory B.Sc. (Electrical and Electronic Engineering): Bangladesh University of Engineering and Technology (July 2024) HSC: Sylhet Cadet College (2018) SSC: Sylhet Cadet College (2016)",
     "availableSlots": 0,
     "degreeTypes": [
       "MSc",
@@ -3645,7 +3933,8 @@
     "address": "CSE Department 4th floor, Room No # , Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "KRP",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Kushol_Roy_Pritom_(KRP).jpg",
+    "researchCategories": []
   },
   {
     "id": 66,
@@ -3681,7 +3970,14 @@
     "address": "CSE Department 4th floor, Room No # 4N136, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "LBBH",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "HCI & UX"
+    ]
   },
   {
     "id": 67,
@@ -3703,7 +3999,8 @@
     "address": "CSE Department 4th floor, Room No # 4K74, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "LRK",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Lara_Khanom_(LRK).jpeg",
+    "researchCategories": []
   },
   {
     "id": 68,
@@ -3727,7 +4024,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "FUL",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/M._Shafiul_Alam_(FUL).jpg",
+    "researchCategories": []
   },
   {
     "id": 69,
@@ -3749,7 +4047,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CMIB",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 70,
@@ -3771,7 +4070,8 @@
     "address": "CSE Department 4th floor, Room No # UB80706, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MAM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mahbubul_Alam_Majumdar_PhD_(MAM).jpg",
+    "researchCategories": []
   },
   {
     "id": 71,
@@ -3786,7 +4086,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "My research interest lies in the intersection between machine learning, deep learning, image processing, and computer vision."
+      "Machine Learning",
+      "Deep Learning",
+      "Image Processing",
+      "Computer Vision"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -3795,7 +4098,12 @@
     "address": "CSE Department 4th floor, Room No # 4G30, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MAHR",
-    "photoUrl": "/faculty_photos/Mahrin Tasfe (MAHR).jpg"
+    "photoUrl": "/faculty_photos/Mahrin_Tasfe_(MAHR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 72,
@@ -3810,10 +4118,7 @@
       "PhD"
     ],
     "researchAreas": [
-      "HCI related to healthcare and females.",
-      "Task Scheduling in Cloud Computing Systems,",
-      "Hybrid Metaheuristic Algorithms,",
-      "ML in Healthcare."
+      "Task Scheduling in Cloud Computing"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -3822,7 +4127,10 @@
     "address": "CSE Department 4th floor, Room No # 4K71, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MAJI",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Majisha_Jahan_Disha_(MAJI).jpg",
+    "researchCategories": [
+      "Systems & Networking"
+    ]
   },
   {
     "id": 73,
@@ -3849,7 +4157,12 @@
     "address": "CSE Department 4th floor, Room No # 4K85, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MAU",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "HCI & UX",
+      "Data Science",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 74,
@@ -3883,7 +4196,11 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MRSO",
-    "photoUrl": "/faculty_photos/Masuk Ridwan Saumo (MRSO).jpg"
+    "photoUrl": "/faculty_photos/Masuk_Ridwan_Saumo_(MRSO).jpg",
+    "researchCategories": [
+      "Data Science",
+      "Quantum Computing"
+    ]
   },
   {
     "id": 75,
@@ -3905,7 +4222,8 @@
     "address": "CSE Department 4th floor, Room No # 4G04, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MSA",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Matin_Saad_Abdullah_PhD_(MSA).jpg",
+    "researchCategories": []
   },
   {
     "id": 76,
@@ -3931,7 +4249,12 @@
     "address": "CSE Department 4th floor, Room No # 4J59, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AIB",
-    "photoUrl": "/faculty_photos/Md Abu Ibrahim ( Iqra ) (AIB).png"
+    "photoUrl": "/faculty_photos/Md_Abu_Ibrahim_Iqra_(AIB).png",
+    "researchCategories": [
+      "Deep Learning",
+      "Computer Vision",
+      "Explainability & Ethics"
+    ]
   },
   {
     "id": 77,
@@ -3945,7 +4268,11 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Computer Vision and Image Analysis",
+      "Natural Language Processing (NLP)",
+      "Histopathological Image Classification"
+    ],
     "recentPapers": [],
     "coSupervisors": [],
     "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/459/md_ajmain_mahtab",
@@ -3953,7 +4280,11 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CAJM",
-    "photoUrl": "/faculty_photos/MD Ajmain Mahtab (CAJM).jpg"
+    "photoUrl": "/faculty_photos/MD_Ajmain_Mahtab_(CAJM).jpg",
+    "researchCategories": [
+      "Computer Vision",
+      "NLP"
+    ]
   },
   {
     "id": 78,
@@ -3977,7 +4308,10 @@
     "address": "CSE Department 4th floor, Room No # 4N138, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NAFR",
-    "photoUrl": "/faculty_photos/Md Nafiu Rahman (NAFR).jpg"
+    "photoUrl": "/faculty_photos/Md_Nafiu_Rahman_(NAFR).jpg",
+    "researchCategories": [
+      "Software Engineering"
+    ]
   },
   {
     "id": 79,
@@ -3999,7 +4333,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "PML",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/MD_Rifat_Alam_Pomil_(PML).jpg",
+    "researchCategories": []
   },
   {
     "id": 80,
@@ -4023,7 +4358,10 @@
     "address": "CSE Department 4th floor, Room No # 4J54, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SBHN",
-    "photoUrl": "/faculty_photos/Md Sabbir Hossain (SBHN).jpg"
+    "photoUrl": "/faculty_photos/Md_Sabbir_Hossain_(SBHN).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 81,
@@ -4038,9 +4376,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Multi Agent Path FindingThe Multi-Agent Pathfinding (MAPF) problem is the fundamental problem of planning paths for multiple agents, where the key constraint is that the agents will be able to follow these paths concurrently without colliding with each other. Research on MAPF has been flourishing in the past couple of years. Although a MAPF problem needs to be solved for many real-world deployments, solving such a problem optimally is NP-hard. Consequently, the main focus is to find sub-optimal algorithms to improve scalability and solution runtime.",
-      "Course Related: Data Structure and Algorithms, Discrete Mathematics, Numerical Methods, Artificial IntelligenceNatural Language Processing",
-      "Natural language processing (NLP) is an interdisciplinary subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. Although several works have been done in recent years on English and other languages, scope for improvement in Bangla NLP is still very wide. Efficient techniques would help computers to communicate with humans in their own language and scales other language-related tasks.Course Related:Algorithms, Numerical Methods, Artificial Intelligence, Neural Networks, Machine Learning, Linear Algebra, Probability and Statistics"
+      "Multi-Agent Path Finding (MAPF)",
+      "Natural Language Processing"
     ],
     "recentPapers": [
       {
@@ -4055,7 +4392,11 @@
     "address": "CSE Department 4th floor, Room No # 4M133, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AHU",
-    "photoUrl": "/faculty_photos/Md. Ahasanul Alam (AHU).png"
+    "photoUrl": "/faculty_photos/Md._Ahasanul_Alam_(AHU).png",
+    "researchCategories": [
+      "Theory & Algorithms",
+      "NLP"
+    ]
   },
   {
     "id": 82,
@@ -4077,7 +4418,8 @@
     "address": "CSE Department 4th floor, Room No # 4G16, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "AKTD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Akhtaruzaman_Adnan_(AKTD).jpg",
+    "researchCategories": []
   },
   {
     "id": 83,
@@ -4103,7 +4445,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ANV",
-    "photoUrl": "/faculty_photos/Md. Anonto Shuvo (ANV).jpg"
+    "photoUrl": "/faculty_photos/Md._Anonto_Shuvo_(ANV).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 84,
@@ -4118,8 +4463,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Below are some of the broad research areas that excite me. I am always up for discussing how to solve demanding problems within these domains.",
-      "Software Engineering, Software Security",
+      "Software Engineering",
+      "Software Security",
       "Large Language Models",
       "Human Factors in Computing",
       "Natural Language Processing",
@@ -4155,7 +4500,15 @@
     "address": "CSE Department 4th floor, Room No # 4M123, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AHF",
-    "photoUrl": "/faculty_photos/Md. Asif Haider (AHF).png"
+    "photoUrl": "/faculty_photos/Md._Asif_Haider_(AHF).png",
+    "researchCategories": [
+      "Software Engineering",
+      "Security & Privacy",
+      "Large Language Models",
+      "HCI & UX",
+      "NLP",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 85,
@@ -4187,7 +4540,10 @@
     "address": "CSE Department 4th floor, Room No # 4M103, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FGZ",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Fakhruddin_Gazzali_(FGZ).jpg",
+    "researchCategories": [
+      "Software Engineering"
+    ]
   },
   {
     "id": 86,
@@ -4202,7 +4558,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning in Power Systems, Artificial Intelligence"
+      "Machine Learning in Power Systems",
+      "Artificial Intelligence"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -4211,7 +4568,10 @@
     "address": "CSE Department 4th floor, Room No # 4N169, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "FFR",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Fatin_Ishraq_Faruqui_(FFR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 87,
@@ -4236,7 +4596,8 @@
     "address": "CSE Department 4th floor, Room No # 4G02, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "IBA",
-    "photoUrl": "/faculty_photos/Md. Imran Bin Azad (IBA).jpg"
+    "photoUrl": "/faculty_photos/Md._Imran_Bin_Azad_(IBA).jpg",
+    "researchCategories": []
   },
   {
     "id": 88,
@@ -4258,7 +4619,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MTJ",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Imtiaj_Hossain_(MTJ).jpg",
+    "researchCategories": []
   },
   {
     "id": 89,
@@ -4282,7 +4644,10 @@
     "address": "CSE Department 4th floor, Room No # 4M122, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KKS",
-    "photoUrl": "/faculty_photos/Md. Khaliduzzaman Khan Samrat (KKS).png"
+    "photoUrl": "/faculty_photos/Md._Khaliduzzaman_Khan_Samrat_(KKS).png",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 90,
@@ -4306,7 +4671,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "HAS",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Mahadi_Hasan_(HAS).jpg",
+    "researchCategories": []
   },
   {
     "id": 91,
@@ -4321,8 +4687,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning, Deep Learning, Computer Vision, Natural Language Processing",
-      "Robotics."
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing"
     ],
     "recentPapers": [
       {
@@ -4352,7 +4720,13 @@
     "address": "CSE Department 4th floor, Room No # 4N158, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MOM",
-    "photoUrl": "/faculty_photos/Md. Moynul Asik Moni (MOM).jpg"
+    "photoUrl": "/faculty_photos/Md._Moynul_Asik_Moni_(MOM).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "NLP"
+    ]
   },
   {
     "id": 92,
@@ -4367,7 +4741,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning, Deep Learning, Computer Vision, Imagine processing, 3D Image processing"
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Image Processing",
+      "3D Image Processing"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -4376,7 +4754,12 @@
     "address": "CSE Department 4th floor, Room No # 4M99, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MTSM",
-    "photoUrl": "/faculty_photos/Md. Muhtasim Mahmud (MTSM).jpg"
+    "photoUrl": "/faculty_photos/Md._Muhtasim_Mahmud_(MTSM).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 93,
@@ -4398,7 +4781,8 @@
     "address": "CSE Department 4th floor, Room No # 4N149, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "RAS",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Rasel_Mia_(RAS).jpg",
+    "researchCategories": []
   },
   {
     "id": 94,
@@ -4420,7 +4804,8 @@
     "address": "CSE Department 4th floor, Room No # 4N164, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "RFR",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 95,
@@ -4456,7 +4841,14 @@
     "address": "CSE Department 4th floor, Room No # 4M107, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SBB",
-    "photoUrl": "/faculty_photos/Md. Sabbir Ahmed (SBB).png"
+    "photoUrl": "/faculty_photos/Md._Sabbir_Ahmed_(SBB).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Bioinformatics & Healthcare",
+      "Computer Vision",
+      "Explainability & Ethics"
+    ]
   },
   {
     "id": 96,
@@ -4505,7 +4897,12 @@
     "address": "CSE Department 4th floor, Room No # 4N152, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SDQ",
-    "photoUrl": "/faculty_photos/Md. Saiful Bari Siddiqui (SDQ).jpg"
+    "photoUrl": "/faculty_photos/Md._Saiful_Bari_Siddiqui_(SDQ).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 97,
@@ -4520,7 +4917,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning,Deep Learning andComputer Vision."
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
     ],
     "recentPapers": [
       {
@@ -4612,7 +5011,12 @@
     "address": "CSE Department 4th floor, Room No # 4G12, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MSI",
-    "photoUrl": "/faculty_photos/Md. Saiful Islam (MSI).jpeg"
+    "photoUrl": "/faculty_photos/Md._Saiful_Islam_(MSI).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 98,
@@ -4634,7 +5038,8 @@
     "address": "CSE Department 4th floor, Room No # 4G15, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SAS",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 99,
@@ -4658,7 +5063,8 @@
     "address": "CSE Department 4th floor, Room No # 4M114, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SULT",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Sultanul_Arifin_(SULT).jpg",
+    "researchCategories": []
   },
   {
     "id": 100,
@@ -4684,7 +5090,10 @@
     "address": "CSE Department 4th floor, Room No # 4G03, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TAW",
-    "photoUrl": "/faculty_photos/Md. Tawhid Anwar (TAW).jpg"
+    "photoUrl": "/faculty_photos/Md._Tawhid_Anwar_(TAW).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 101,
@@ -4699,7 +5108,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine learning, Computer Vision, LLMs, Image generation using Machine learning"
+      "Machine Learning",
+      "Computer Vision",
+      "Large Language Models",
+      "Image Generation"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -4708,7 +5120,12 @@
     "address": "CSE Department 4th floor, Room No # 4M111, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ZLNM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Md._Zulkar_Naim_(ZLNM).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision",
+      "Large Language Models"
+    ]
   },
   {
     "id": 102,
@@ -4742,7 +5159,12 @@
     "address": "CSE Department 4th floor, Room No # 4M134, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MHDE",
-    "photoUrl": "/faculty_photos/Mehedi Hasan Emo (MHDE).jpg"
+    "photoUrl": "/faculty_photos/Mehedi_Hasan_Emo_(MHDE).jpg",
+    "researchCategories": [
+      "Software Engineering",
+      "Large Language Models",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 103,
@@ -4764,7 +5186,8 @@
     "address": "CSE Department 4th floor, Room No # 4N167, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "HMH",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mir_Hamidul_Hussain_(HMH).jpeg",
+    "researchCategories": []
   },
   {
     "id": 104,
@@ -4789,7 +5212,11 @@
     "address": "CSE Department 4th floor, Room No # 4N162, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MAO",
-    "photoUrl": "/faculty_photos/Mirza Abdullah Al Noman (MAO).jpg"
+    "photoUrl": "/faculty_photos/Mirza_Abdullah_Al_Noman_(MAO).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP"
+    ]
   },
   {
     "id": 105,
@@ -4815,7 +5242,12 @@
     "address": "CSE Department 4th floor, Room No # 4J67, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "BDH",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Security & Privacy",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 106,
@@ -4841,7 +5273,8 @@
     "address": "CSE Department 4th floor, Room No # 4J52, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MDF",
-    "photoUrl": "/faculty_photos/Mohammad Fahim (MDF).jpg"
+    "photoUrl": "/faculty_photos/Mohammad_Fahim_(MDF).jpg",
+    "researchCategories": []
   },
   {
     "id": 107,
@@ -4856,7 +5289,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Bioinformatics, Graph Theory, Machine Learning, Computer Vision"
+      "Bioinformatics",
+      "Graph Theory",
+      "Machine Learning",
+      "Computer Vision"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -4867,7 +5303,13 @@
     "address": "CSE Department 4th floor, Room No # 4M122, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MNW",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mohammad_Nuwaisir_Rahman_(MNW).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "Theory & Algorithms",
+      "AI & Machine Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 108,
@@ -4891,7 +5333,10 @@
     "address": "CSE Department 4th floor, Room No # 4L92, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RKBM",
-    "photoUrl": "/faculty_photos/Mohammad Rakibul Hasan Mahin (RKBM).jpg"
+    "photoUrl": "/faculty_photos/Mohammad_Rakibul_Hasan_Mahin_(RKBM).jpg",
+    "researchCategories": [
+      "Computer Vision"
+    ]
   },
   {
     "id": 109,
@@ -4920,7 +5365,13 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MSDH",
-    "photoUrl": "/faculty_photos/Mohammad Sayeem Sadat Hossain (MSDH).JPG"
+    "photoUrl": "/faculty_photos/Mohammad_Sayeem_Sadat_Hossain_(MSDH).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Security & Privacy",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 110,
@@ -4935,7 +5386,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "My research interest includes Plasmonics & Opto-electronics."
+      "Plasmonics",
+      "Opto-electronics"
     ],
     "recentPapers": [
       {
@@ -4970,7 +5422,10 @@
     "address": "CSE Department 4th floor, Room No # 4N166, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "THL",
-    "photoUrl": "/faculty_photos/Mohammad Tahsin Alam (THL).jpg"
+    "photoUrl": "/faculty_photos/Mohammad_Tahsin_Alam_(THL).jpg",
+    "researchCategories": [
+      "Hardware & Electronics"
+    ]
   },
   {
     "id": 111,
@@ -5003,7 +5458,11 @@
     "address": "CSE Department 4th floor, Room No # 4N137, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AFQ",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning"
+    ]
   },
   {
     "id": 112,
@@ -5018,7 +5477,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Large Language Models, Natural Language Processing"
+      "Large Language Models",
+      "Natural Language Processing"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5027,7 +5487,11 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CMHQ",
-    "photoUrl": "/faculty_photos/Moinul Haque (CMHQ).jpeg"
+    "photoUrl": "/faculty_photos/Moinul_Haque_(CMHQ).jpeg",
+    "researchCategories": [
+      "Large Language Models",
+      "NLP"
+    ]
   },
   {
     "id": 113,
@@ -5049,7 +5513,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CMNB",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mondrita_Biswas_(CMNB).jpg",
+    "researchCategories": []
   },
   {
     "id": 114,
@@ -5081,7 +5546,12 @@
     "address": "CSE Department 4th floor, Room No # 4J58, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ANK",
-    "photoUrl": "/faculty_photos/Abdullah Al Nakib (ANK).jpg"
+    "photoUrl": "/faculty_photos/Mr._Abdullah_Al_Nakib_(ANK).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP"
+    ]
   },
   {
     "id": 115,
@@ -5107,7 +5577,12 @@
     "address": "CSE Department 4th floor, Room No # 4M116, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AJA",
-    "photoUrl": "/faculty_photos/Abid Jahan Apon (AJA).JPG"
+    "photoUrl": "/faculty_photos/Mr._Abid_Jahan_Apon_(AJA).jpg",
+    "researchCategories": [
+      "Deep Learning",
+      "NLP",
+      "Computer Vision"
+    ]
   },
   {
     "id": 116,
@@ -5122,12 +5597,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "1.Artificial Intelligence (AI) & Data Driven: Data Science (DS), Natural Language Processing (NLP), Machine Learning (ML), Pattern Recognition (PR), Analytics, Bioinformatics, etc.",
-      "2.Distributed Systems (DCS): High-Performance Computing (HPC), Big Data Processing, Cloud Computing and Federation, Programmable and Software Defined Networking (SDN), Internet of Things (IoT), Distributed Quantum Computing, etc.",
-      "3.Software: Engineering, Transplantation, UX, HCI, Testing, Security, Architecture, e-learning, ICT for Development (ICT4D) & Education (ICT4ED), IT Engineers Exam (ITEE), Skill Standards (ITSS), Routine/Scheduling, etc.",
-      "4.Security: AI for Cybersecurity, Ransomware, Defense, Attack Surface, Vulnerability of IoT, Identity, Risk, Awareness, Architecture, etc.",
-      "5.Simulation and Modeling",
-      "6.More Examples: If you choose from this list, please mention the serial number while emailing."
+      "Artificial Intelligence & Data Science",
+      "Distributed Systems & Cloud Computing",
+      "Software Engineering & HCI",
+      "Security & Cybersecurity",
+      "Simulation and Modeling"
     ],
     "recentPapers": [
       {
@@ -5144,7 +5618,13 @@
     "address": "CSE Department 4th floor, Room No # 4G20, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AAR",
-    "photoUrl": "/faculty_photos/Annajiat Alim Rasel (AAR).jpg"
+    "photoUrl": "/faculty_photos/Mr._Annajiat_Alim_Rasel_(AAR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Systems & Networking",
+      "HCI & UX",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 117,
@@ -5195,7 +5675,11 @@
     "address": "CSE Department 4th floor, Room No # 4M106, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "DFD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Dibyo_Fabian_Dofadar_(DFD).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning"
+    ]
   },
   {
     "id": 118,
@@ -5252,7 +5736,10 @@
     "address": "CSE Department 4th floor, Room No # 4M104, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "AQU",
-    "photoUrl": "/faculty_photos/Md. Aquib Azmain (AQU).jpg"
+    "photoUrl": "/faculty_photos/Mr._Md._Aquib_Azmain_(AQU).jpg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 119,
@@ -5279,7 +5766,11 @@
     "address": "CSE Department 4th floor, Room No # 4M110, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MSMA",
-    "photoUrl": "/faculty_photos/Md. Shamim Mia (MSMA).jpg"
+    "photoUrl": "/faculty_photos/Mr._Md._Shamim_Mia_(MSMA).jpg",
+    "researchCategories": [
+      "Systems & Networking",
+      "Data Science"
+    ]
   },
   {
     "id": 120,
@@ -5301,7 +5792,8 @@
     "address": "CSE Department 4th floor, Room No # 4J65, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SZD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Md._Shazid_Bin_Mahbub_(SZD).jpg",
+    "researchCategories": []
   },
   {
     "id": 121,
@@ -5323,7 +5815,8 @@
     "address": "CSE Department 4th floor, Room No # 4M134, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MTT",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 122,
@@ -5338,7 +5831,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning, Deep Learning, Computer Vision"
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5347,7 +5842,12 @@
     "address": "CSE Department 4th floor, Room No # 4G05, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TRZ",
-    "photoUrl": "/faculty_photos/Md. Tanzim Reza (TRZ).jpg"
+    "photoUrl": "/faculty_photos/Mr._Md._Tanzim_Reza_(TRZ).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 123,
@@ -5369,7 +5869,8 @@
     "address": "CSE Department 4th floor, Room No # 4J66, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "TSM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Mirza_Md._Tanjim_Shorif_Mugdho_(TSM).jpg",
+    "researchCategories": []
   },
   {
     "id": 124,
@@ -5399,7 +5900,8 @@
     "address": "CSE Department 4th floor, Room No # 4G02, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MMM",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 125,
@@ -5421,7 +5923,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MOZR",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 126,
@@ -5436,7 +5939,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "Research Interests:"
+      "Nanophotonics",
+      "Plasmonics",
+      "Flat Optics",
+      "Metamaterials and Non-linear Optics",
+      "Integrated Photonics"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5445,7 +5952,10 @@
     "address": "CSE Department 4th floor, Room No # 4N140, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "PDS",
-    "photoUrl": "/faculty_photos/Purbayan Das (PDS).png"
+    "photoUrl": "/faculty_photos/Mr._Purbayan_Das_(PDS).png",
+    "researchCategories": [
+      "Hardware & Electronics"
+    ]
   },
   {
     "id": 127,
@@ -5470,7 +5980,11 @@
     "address": "CSE Department 4th floor, Room No # 4J64, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RRH",
-    "photoUrl": "/faculty_photos/Rafeed Rahman (RRH).jpeg"
+    "photoUrl": "/faculty_photos/Mr._Rafeed_Rahman_(RRH).jpeg",
+    "researchCategories": [
+      "Computer Vision",
+      "HCI & UX"
+    ]
   },
   {
     "id": 128,
@@ -5504,7 +6018,12 @@
     "address": "CSE Department 4th floor, Room No # 4J60, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RBR",
-    "photoUrl": "/faculty_photos/Rakin Bin Rabbani (RBR).png"
+    "photoUrl": "/faculty_photos/Mr._Rakin_Bin_Rabbani_(RBR).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 129,
@@ -5519,7 +6038,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "I am interested in applying Machine Learning, Machine Vision and Natural Language Processing concepts and algorithms in various domain focusing information extraction, detection and classification. I have worked on fire detection, brain tumor detection, sentiments analysis and recently I have started with ancient texts such as Egyptian hieroglyphics."
+      "Machine Learning",
+      "Machine Vision",
+      "Natural Language Processing"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5528,7 +6049,11 @@
     "address": "CSE Department 4th floor, Room No # 4G12, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RAK",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP"
+    ]
   },
   {
     "id": 130,
@@ -5550,7 +6075,8 @@
     "address": "CSE Department 4th floor, Room No # UB80802, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "DCO",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Sarwar_Jahan_Shajib_(DCO).jpg",
+    "researchCategories": []
   },
   {
     "id": 131,
@@ -5572,7 +6098,8 @@
     "address": "CSE Department 4th floor, Room No # 4N143, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SDS",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 132,
@@ -5600,7 +6127,12 @@
     "address": "CSE Department 4th floor, Room No # 4M105, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SHRR",
-    "photoUrl": "/faculty_photos/Shahriar Rahman Rana (SHRR).jpg"
+    "photoUrl": "/faculty_photos/Mr._Shahriar_Rahman_Rana_(SHRR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Software Engineering"
+    ]
   },
   {
     "id": 133,
@@ -5608,7 +6140,7 @@
     "email": "shakir.rouf@bracu.ac.bd",
     "department": "CSE",
     "designation": "Lecturer",
-    "bio": "Biography not available.",
+    "bio": "With rapid technological progress in the Internet of Things (IoT), it has become imperative to concentrate on its security aspect. This paper represents a model that accounts for the detection of botnets through the use of machine learning algorithms. The model examined anomalies, commonly referred to as botnets, in a cluster of IoT devices attempting to connect to a network. Essentially, this paper exhibited the use of transport layer data (User Datagram Protocol - UDP) generated through IoT devices. An intelligent novel model comprising Random Forest Classifier with Independent Component Analysis (ICA) was proposed for botnet detection in IoT devices. Various machine learning algorithms were also implemented upon the processed data for comparative analysis. The experimental results of the proposed model generated state-of-the-art results for three different datasets, achieving up to 99.99% accuracy effectively with the lowest prediction time of 0.12 seconds without overfitting. The significance of this study lies in detecting botnets in IoT devices effectively and efficiently under all circumstances by utilizing ICA with Random Forest Classifier, which is a simple machine learning algorithm.",
     "availableSlots": 0,
     "degreeTypes": [
       "MSc",
@@ -5622,7 +6154,8 @@
     "address": "CSE Department 4th floor, Room No # 4J53, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SRU",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Shakir_Rouf_(SRU).jpg",
+    "researchCategories": []
   },
   {
     "id": 134,
@@ -5644,7 +6177,8 @@
     "address": "CSE Department 4th floor, Room No # 4N144, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "HFN",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mr._Sheikh_Araf_Noshin_(HFN).jpg",
+    "researchCategories": []
   },
   {
     "id": 135,
@@ -5658,7 +6192,10 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Data Science",
+      "Machine Learning"
+    ],
     "recentPapers": [
       {
         "title": "Thesis paper on “An Analysis of Audio Classification Techniques using Deep Learning Architectures” published in the 6th International Conference on Inventive Computation Technologies (ICICT-2021) and IEEE Xplore. DOI: 10.1109/icict50816.2021.9358774",
@@ -5704,7 +6241,11 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "STV",
-    "photoUrl": "/faculty_photos/Sifat Tanvir (STV).jpg"
+    "photoUrl": "/faculty_photos/Mr._Sifat_Tanvir_(STV).jpg",
+    "researchCategories": [
+      "Data Science",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 136,
@@ -5731,7 +6272,11 @@
     "address": "CSE Department 4th floor, Room No # 4J68, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ZHS",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Explainability & Ethics"
+    ]
   },
   {
     "id": 137,
@@ -5745,7 +6290,13 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Machine Learning",
+      "Medical Image and Data Analytics",
+      "Deep Learning",
+      "Image Processing",
+      "Data Science"
+    ],
     "recentPapers": [],
     "coSupervisors": [],
     "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/64/mr_tamkin_mahmud_tan",
@@ -5753,7 +6304,13 @@
     "address": "CSE Department 4th floor, Room No # 4J62, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TMD",
-    "photoUrl": "/faculty_photos/Tamkin Mahmud Tan (TMD).jpg"
+    "photoUrl": "/faculty_photos/Mr._Tamkin_Mahmud_Tan_(TMD).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision",
+      "Deep Learning",
+      "Data Science"
+    ]
   },
   {
     "id": 138,
@@ -5768,7 +6325,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "• Algorithms• Security Analysis• Natural Language Processing• Software Development"
+      "Algorithms",
+      "Security Analysis",
+      "Natural Language Processing",
+      "Software Development"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5777,7 +6337,13 @@
     "address": "CSE Department 4th floor, Room No # 4J61, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ZMD",
-    "photoUrl": "/faculty_photos/Zaber Mohammad (ZMD).png"
+    "photoUrl": "/faculty_photos/Mr._Zaber_Mohammad_(ZMD).png",
+    "researchCategories": [
+      "Theory & Algorithms",
+      "Security & Privacy",
+      "NLP",
+      "Software Engineering"
+    ]
   },
   {
     "id": 139,
@@ -5805,7 +6371,11 @@
     "address": "CSE Department 4th floor, Room No # 4K86, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "KNI",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 140,
@@ -5829,7 +6399,10 @@
     "address": "CSE Department 4th floor, Room No # 4G21, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SRJ",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "Security & Privacy"
+    ]
   },
   {
     "id": 141,
@@ -5853,7 +6426,10 @@
     "address": "CSE Department 4th floor, Room No # 4G21, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NTR",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "NLP"
+    ]
   },
   {
     "id": 142,
@@ -5868,9 +6444,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "My research focuses onlearning, memory, and personalized cognitive training. I study how people learn and remember, and how technology can support memory improvement, cognitive performance, and sleep quality.",
-      "My work combinescognitive neuroscience, artificial intelligence, neuroadaptive systems, and brain-computer interface ideas. I am especially interested in developing AI-based and interactive systems for memory training, sleep analysis, and human-centered cognitive technologies.",
-      "Research interests:"
+      "Cognitive Neuroscience",
+      "Memory Enhancement",
+      "Brain-Computer Interfaces (BCI)",
+      "Artificial Intelligence",
+      "Sleep Quality Research"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -5879,7 +6457,11 @@
     "address": "CSE Department 4th floor, Room No # 4K73, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TNMF",
-    "photoUrl": "/faculty_photos/Tasnim Ferdous (TNMF).jpeg"
+    "photoUrl": "/faculty_photos/Ms._Tasnim_Ferdous_(TNMF).jpeg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 143,
@@ -5914,7 +6496,8 @@
     "address": "CSE Department 4th floor, Room No # 4M113, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "EHD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Muhammad_Ehsanul_Kader_(EHD).jpg",
+    "researchCategories": []
   },
   {
     "id": 144,
@@ -5938,7 +6521,10 @@
     "address": "CSE Department 4th floor, Room No # 4L90, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "MNP",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Mushfique_Nasir_Probor_(MNP).png",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 145,
@@ -5962,7 +6548,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CNFH",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "NLP"
+    ]
   },
   {
     "id": 146,
@@ -5977,10 +6566,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Below are some of the broad research areas that interest me.",
-      "Cyber security",
-      "Large Language Models for security",
-      "Machine learning for security",
+      "Cyber Security",
+      "Large Language Models for Security",
+      "Machine Learning for Security",
       "Natural Language Processing"
     ],
     "recentPapers": [],
@@ -5990,7 +6578,12 @@
     "address": "CSE Department 4th floor, Room No # 4M120, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NFK",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Nafis_Karim_(NFK).png",
+    "researchCategories": [
+      "Security & Privacy",
+      "Large Language Models",
+      "NLP"
+    ]
   },
   {
     "id": 147,
@@ -6012,7 +6605,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CNKY",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Nafisa_Khan_Youkee_(CNKY).jpg",
+    "researchCategories": []
   },
   {
     "id": 148,
@@ -6034,7 +6628,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NFF",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 149,
@@ -6049,7 +6644,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Natural Language Processing, Education Technology"
+      "Natural Language Processing",
+      "Education Technology"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6058,7 +6654,11 @@
     "address": "CSE Department 4th floor, Room No # 4G30, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NNC",
-    "photoUrl": "/faculty_photos/Najeefa Nikhat Choudhury (NNC).jpg"
+    "photoUrl": "/faculty_photos/Najeefa_Nikhat_Choudhury_(NNC).jpg",
+    "researchCategories": [
+      "NLP",
+      "Data Science"
+    ]
   },
   {
     "id": 150,
@@ -6080,7 +6680,8 @@
     "address": "CSE Department 4th floor, Room No # 4N163, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NLAM",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 151,
@@ -6095,7 +6696,12 @@
       "PhD"
     ],
     "researchAreas": [
-      "Cloud Engineering, Artificial Intelligence, Natural Language Processing, Computer Vision, Deep Learning, Reinforcement Learning"
+      "Cloud Engineering",
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Deep Learning",
+      "Reinforcement Learning"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6104,7 +6710,14 @@
     "address": "CSE Department 4th floor, Room No # 4M121, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NZU",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "Systems & Networking",
+      "AI & Machine Learning",
+      "NLP",
+      "Computer Vision",
+      "Deep Learning"
+    ]
   },
   {
     "id": 152,
@@ -6130,7 +6743,12 @@
     "address": "CSE Department 4th floor, Room No # 4P195, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NAST",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP"
+    ]
   },
   {
     "id": 153,
@@ -6145,7 +6763,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "I work at the intersection of Explainable Artificial Intelligence (XAI) and model optimisation, specially pruning and interpretability in machine learning models for healthcare. My research seeks to create AI systems that are accurate, interpretable, and resource-efficient, making them more viable for real-world clinical use."
+      "Explainable AI (XAI)",
+      "Model Optimization & Pruning",
+      "Machine Learning for Healthcare"
     ],
     "recentPapers": [
       {
@@ -6250,7 +6870,11 @@
     "address": "CSE Department 4th floor, Room No # 4M125, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NZRF",
-    "photoUrl": "/faculty_photos/Niaz Ashraf Khan (NZRF).jpeg"
+    "photoUrl": "/faculty_photos/Niaz_Ashraf_Khan_(NZRF).jpeg",
+    "researchCategories": [
+      "Explainability & Ethics",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 154,
@@ -6277,7 +6901,13 @@
     "address": "CSE Department 4th floor, Room No # 4M123, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NLH",
-    "photoUrl": "/faculty_photos/Niloy Farhan (NLH).jpg"
+    "photoUrl": "/faculty_photos/Niloy_Farhan_(NLH).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision"
+    ]
   },
   {
     "id": 155,
@@ -6292,7 +6922,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Computer Vision, Natural Language Processing, Meta Heuristics, Bioinformatics"
+      "Computer Vision",
+      "Natural Language Processing",
+      "Meta-Heuristics",
+      "Bioinformatics"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6301,7 +6934,13 @@
     "address": "CSE Department 4th floor, Room No # 4M132, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "NDT",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "Computer Vision",
+      "NLP",
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 156,
@@ -6323,7 +6962,8 @@
     "address": "CSE Department 4th floor, Room No # 4K84, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NNL",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 157,
@@ -6345,7 +6985,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NTB",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Noshin_Tabassum_(NTB).jpg",
+    "researchCategories": []
   },
   {
     "id": 158,
@@ -6360,9 +7001,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "I have a keen interest incyber securityandblockchaintechnologies. I find the idea of securing digital systems and protecting sensitive data fascinating. Additionally, the concept of blockchain and its potential to revolutionize various industries captivates me. Moreover, I am particularly intrigued by the field ofThreat Intelligence, as it involves gathering and analyzing information to proactively identify and mitigate cyber security risks.",
-      "I am actively exploring the domain ofimage processing and computer vision, particularly in the context ofsecurity and threat detection. I am interested in how visual data can be analyzed using machine learning and deep learning techniques to support applications such as surveillance analytics, anomaly detection, biometric systems, and digital image forensics.",
-      "In addition to my interests in cybersecurity and blockchain technologies, I am also deeply interested insoftware engineering. I am motivated to create software systems that are secure, reliable and meet the highest standards of quality and performance."
+      "Cyber Security",
+      "Blockchain",
+      "Threat Intelligence",
+      "Image Processing & Computer Vision",
+      "Software Engineering"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6371,7 +7014,12 @@
     "address": "CSE Department 4th floor, Room No # 4M108, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "PBK",
-    "photoUrl": "/faculty_photos/Partha Bhoumik (PBK).jpg"
+    "photoUrl": "/faculty_photos/Partha_Bhoumik_(PBK).jpg",
+    "researchCategories": [
+      "Security & Privacy",
+      "Computer Vision",
+      "Software Engineering"
+    ]
   },
   {
     "id": 159,
@@ -6385,7 +7033,15 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Classical AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Multimodal AI",
+      "Computer Vision",
+      "Transfer Learning",
+      "Knowledge Distillation"
+    ],
     "recentPapers": [],
     "coSupervisors": [],
     "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/292/pollock_nag",
@@ -6393,7 +7049,12 @@
     "address": "CSE Department 4th floor, Room No # 4M101, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "PLN",
-    "photoUrl": "/faculty_photos/Pollock Nag (PLN).jpeg"
+    "photoUrl": "/faculty_photos/Pollock_Nag_(PLN).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 160,
@@ -6415,7 +7076,8 @@
     "address": "CSE Department 4th floor, Room No # 4N160, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "PMD",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Prithu_Mahmud_(PMD).png",
+    "researchCategories": []
   },
   {
     "id": 161,
@@ -6430,7 +7092,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "My research interests lie in several computer vision problems, such as medical image analysis, video/scene understanding, image generation, multimodal learning and vision in the wild."
+      "Medical Image Analysis",
+      "Video/Scene Understanding",
+      "Image Generation",
+      "Multimodal Learning"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6439,7 +7104,11 @@
     "address": "CSE Department 4th floor, Room No # 4M115, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "PSMD",
-    "photoUrl": "/faculty_photos/Prothito Shovon Majumder (PSMD).jpg"
+    "photoUrl": "/faculty_photos/Prothito_Shovon_Majumder_(PSMD).jpg",
+    "researchCategories": [
+      "Computer Vision",
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 162,
@@ -6475,7 +7144,11 @@
     "address": "CSE Department 4th floor, Room No # 4M120, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "QUZA",
-    "photoUrl": "/faculty_photos/Quazi Ashikur Rahman (QUZA).jpeg"
+    "photoUrl": "/faculty_photos/Quazi_Ashikur_Rahman_(QUZA).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 163,
@@ -6514,7 +7187,11 @@
     "address": "CSE Department 4th floor, Room No # 4N154, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RSS",
-    "photoUrl": "/faculty_photos/Rafiad Sadat Shahir (RSS).png"
+    "photoUrl": "/faculty_photos/Rafiad_Sadat_Shahir_(RSS).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Quantum Computing"
+    ]
   },
   {
     "id": 164,
@@ -6529,7 +7206,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Machine Learning, Deep Learning, Image processing - mainly healthcare targeted."
+      "Machine Learning",
+      "Deep Learning",
+      "Image Processing",
+      "Healthcare Applications"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6538,7 +7218,13 @@
     "address": "CSE Department 4th floor, Room No # 4M133, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RFF",
-    "photoUrl": "/faculty_photos/Rafid Ahnaf (RFF).jpg"
+    "photoUrl": "/faculty_photos/Rafid_Ahnaf_(RFF).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 165,
@@ -6560,7 +7246,8 @@
     "address": "CSE Department 4th floor, Room No # 4L94, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "RKN",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Raisul_Kabir_News_(RKN).jpg",
+    "researchCategories": []
   },
   {
     "id": 166,
@@ -6575,7 +7262,14 @@
       "PhD"
     ],
     "researchAreas": [
-      "Reinforcement Learning; Trustworthy Large Language Models; Human-Centered Computing; Blockchain and Distributed Systems; Robotics; Embedded Systems; Machine Learning; Cybersecurity."
+      "Reinforcement Learning",
+      "Trustworthy Large Language Models",
+      "Human-Centered Computing",
+      "Blockchain and Distributed Systems",
+      "Robotics",
+      "Embedded Systems",
+      "Machine Learning",
+      "Cybersecurity"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6584,7 +7278,15 @@
     "address": "CSE Department 4th floor, Room No # 4J56, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RDW",
-    "photoUrl": "/faculty_photos/Redowanul Akbar (RDW).jpg"
+    "photoUrl": "/faculty_photos/Redowanul_Akbar_(RDW).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Large Language Models",
+      "HCI & UX",
+      "Security & Privacy",
+      "Robotics & Automation",
+      "Systems & Networking"
+    ]
   },
   {
     "id": 167,
@@ -6599,7 +7301,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Natural Language Processing (NLP), Artificial Intelligence (AI), Image Processing."
+      "Natural Language Processing (NLP)",
+      "Artificial Intelligence (AI)",
+      "Image Processing"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6608,7 +7312,12 @@
     "address": "CSE Department 4th floor, Room No # 4K69, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "RFTS",
-    "photoUrl": "/faculty_photos/Rifa Tasfiya (RFTS).jpg"
+    "photoUrl": "/faculty_photos/Rifa_Tasfiya_(RFTS).jpg",
+    "researchCategories": [
+      "NLP",
+      "AI & Machine Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 168,
@@ -6635,7 +7344,11 @@
     "address": "CSE Department 4th floor, Room No # 4J51, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SADF",
-    "photoUrl": "/faculty_photos/Saadat Rafid Ahmed (SADF).jpeg"
+    "photoUrl": "/faculty_photos/Saadat_Rafid_Ahmed_(SADF).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP"
+    ]
   },
   {
     "id": 169,
@@ -6657,7 +7370,8 @@
     "address": "CSE Department 4th floor, Room No # 4N137, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MBM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sabiha_Hasan_Mim_(MBM).jpg",
+    "researchCategories": []
   },
   {
     "id": 170,
@@ -6697,7 +7411,8 @@
     "address": "CSE Department 4th floor, Room No # , Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SZI",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sabrina_Zaman_Ishita_(SZI).jpg",
+    "researchCategories": []
   },
   {
     "id": 171,
@@ -6712,7 +7427,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "Software EngineeringAI Application in Software EngineeringAI4SELLM4SEEmpirical Software EngineeringLarge Language Models"
+      "Software Engineering",
+      "AI for Software Engineering (AI4SE)",
+      "LLM for Software Engineering (LLM4SE)",
+      "Empirical Software Engineering",
+      "Large Language Models"
     ],
     "recentPapers": [
       {
@@ -6749,7 +7468,11 @@
     "address": "CSE Department 4th floor, Room No # 4P197, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SADA",
-    "photoUrl": "/faculty_photos/Sadif Ahmed (SADA).png"
+    "photoUrl": "/faculty_photos/Sadif_Ahmed_(SADA).png",
+    "researchCategories": [
+      "Software Engineering",
+      "Large Language Models"
+    ]
   },
   {
     "id": 172,
@@ -6781,7 +7504,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "CSDM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sadman_Sharif_(CSDM).jpg",
+    "researchCategories": [
+      "Large Language Models"
+    ]
   },
   {
     "id": 173,
@@ -6796,7 +7522,11 @@
       "PhD"
     ],
     "researchAreas": [
-      "My research interest lies in the intersection of computer vision and image processing, particularly focusing on developing efficient algorithms for real-time object recognition, scene understanding, and image enhancement. I am particularly fascinated by the potential of deep learning techniques to improve the accuracy and scalability of these systems in complex and dynamic environments. By exploring novel methods in image segmentation, feature extraction, and image restoration, I aim to contribute to advancements in fields like autonomous vehicles, medical imaging, and surveillance."
+      "Computer Vision",
+      "Image Processing",
+      "Object Recognition",
+      "Scene Understanding",
+      "Deep Learning"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6805,7 +7535,11 @@
     "address": "CSE Department 4th floor, Room No # 4L91, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SHBK",
-    "photoUrl": "/faculty_photos/Sahib Kowsar (SHBK).jpg"
+    "photoUrl": "/faculty_photos/Sahib_Kowsar_(SHBK).jpg",
+    "researchCategories": [
+      "Computer Vision",
+      "Deep Learning"
+    ]
   },
   {
     "id": 174,
@@ -6820,7 +7554,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Artificial Intelligence, Deep Learning, Data Science, and Machine Learning"
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Data Science",
+      "Machine Learning"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -6829,7 +7566,12 @@
     "address": "CSE Department 4th floor, Room No # 4J55, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SMUR",
-    "photoUrl": "/faculty_photos/Samiur Rahman (SMUR).jpg"
+    "photoUrl": "/faculty_photos/Samiur_Rahman_(SMUR).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Data Science"
+    ]
   },
   {
     "id": 175,
@@ -6843,7 +7585,12 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Computer Vision and Image Analysis",
+      "Generative Models",
+      "Image Restoration/Image Enhancement",
+      "Histopathological Image Classification"
+    ],
     "recentPapers": [],
     "coSupervisors": [],
     "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/381/sanjida_tasnim",
@@ -6853,7 +7600,10 @@
     "address": "CSE Department 4th floor, Room No # 4K70, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "STNM",
-    "photoUrl": "/faculty_photos/Sanjida Tasnim (STNM).png"
+    "photoUrl": "/faculty_photos/Sanjida_Tasnim_(STNM).png",
+    "researchCategories": [
+      "Computer Vision"
+    ]
   },
   {
     "id": 176,
@@ -6875,7 +7625,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CSJP",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 177,
@@ -6899,7 +7650,10 @@
     "address": "CSE Department 4th floor, Room No # 4N165, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SZZ",
-    "photoUrl": "/faculty_photos/Sazzadul Islam (SZZ).jpg"
+    "photoUrl": "/faculty_photos/Sazzadul_Islam_(SZZ).jpg",
+    "researchCategories": [
+      "Hardware & Electronics"
+    ]
   },
   {
     "id": 178,
@@ -6921,7 +7675,8 @@
     "address": "CSE Department 4th floor, Room No # 4N157, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SDL",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Shadmin_Sultana_(SDL).jpg",
+    "researchCategories": []
   },
   {
     "id": 179,
@@ -6935,7 +7690,11 @@
       "MSc",
       "PhD"
     ],
-    "researchAreas": [],
+    "researchAreas": [
+      "Machine Learning and Deep Learning",
+      "Natural Language Processing (NLP)",
+      "Image Processing and Computer Vision"
+    ],
     "recentPapers": [],
     "coSupervisors": [],
     "profileLink": "https://cse.sds.bracu.ac.bd/faculty_profile/432/shafin_islam_ohin",
@@ -6943,7 +7702,12 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CSFO",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Shafin_Islam_Ohin_(CSFO).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "NLP",
+      "Computer Vision"
+    ]
   },
   {
     "id": 180,
@@ -6967,7 +7731,8 @@
     "address": "CSE Department 4th floor, Room No # TA/RA Room, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "MKY",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Shahriar_Hasan_Mickey_(MKY).jpg",
+    "researchCategories": []
   },
   {
     "id": 181,
@@ -6982,7 +7747,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Computer Vision and Deep LearningNatural Language ProcessingBioinformatics and Computational Biology"
+      "Computer Vision",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Bioinformatics and Computational Biology"
     ],
     "recentPapers": [
       {
@@ -7009,7 +7777,13 @@
     "address": "CSE Department 4th floor, Room No # 4J63, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "DPU",
-    "photoUrl": "/faculty_photos/Shoaib Ahmed Dipu (DPU).png"
+    "photoUrl": "/faculty_photos/Shoaib_Ahmed_Dipu_(DPU).png",
+    "researchCategories": [
+      "Computer Vision",
+      "Deep Learning",
+      "NLP",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 182,
@@ -7024,7 +7798,13 @@
       "PhD"
     ],
     "researchAreas": [
-      "DFT Simulation, 2D materials, Quantum Devices, 2D DG-FETs, Nanoelectronics, Analog Circuit Design, VLSI, Deep Learning"
+      "DFT Simulation",
+      "2D Materials",
+      "Quantum Devices",
+      "Nanoelectronics",
+      "Analog Circuit Design",
+      "VLSI",
+      "Deep Learning"
     ],
     "recentPapers": [
       {
@@ -7046,7 +7826,11 @@
     "address": "CSE Department 4th floor, Room No # 4N148, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SDU",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Shomen_Kundu_(SDU).jpg",
+    "researchCategories": [
+      "Hardware & Electronics",
+      "Deep Learning"
+    ]
   },
   {
     "id": 183,
@@ -7072,7 +7856,10 @@
     "address": "CSE Department 4th floor, Room No # 4M128, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SWV",
-    "photoUrl": "/faculty_photos/Showvik Biswas (SWV).jpg"
+    "photoUrl": "/faculty_photos/Showvik_Biswas_(SWV).jpg",
+    "researchCategories": [
+      "Software Engineering"
+    ]
   },
   {
     "id": 184,
@@ -7094,7 +7881,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "TJW",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sk._Atik_Tajwar_Sihan_(TJW).png",
+    "researchCategories": []
   },
   {
     "id": 185,
@@ -7118,7 +7906,8 @@
     "address": "CSE Department 4th floor, Room No # 4M126, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SBDK",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sk._Sabit_Bin_Mosaddek_(SBDK).jpg",
+    "researchCategories": []
   },
   {
     "id": 186,
@@ -7140,7 +7929,8 @@
     "address": "CSE Department 4th floor, Room No # 4P198, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SOSB",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Soumya_Swagata_Biswas_(SOSB).jpg",
+    "researchCategories": []
   },
   {
     "id": 187,
@@ -7155,7 +7945,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Computational Biology, Deep learning and Computer Vision."
+      "Computational Biology",
+      "Deep Learning",
+      "Computer Vision"
     ],
     "recentPapers": [
       {
@@ -7172,7 +7964,12 @@
     "address": "CSE Department 4th floor, Room No # 4M131, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SVKG",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Souvik_Ghosh_(SVKG).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 188,
@@ -7196,7 +7993,8 @@
     "address": "CSE Department 4th floor, Room No # 4N142, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SDAS",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 189,
@@ -7222,7 +8020,12 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SUE",
-    "photoUrl": "/faculty_photos/Sukarna Sarker (SUE).jpg"
+    "photoUrl": "/faculty_photos/Sukarna_Sarker_(SUE).jpg",
+    "researchCategories": [
+      "Software Engineering",
+      "AI & Machine Learning",
+      "HCI & UX"
+    ]
   },
   {
     "id": 190,
@@ -7244,7 +8047,8 @@
     "address": "CSE Department 4th floor, Room No # 4K76, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "SMYA",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Sumaiya_(SMYA).jpg",
+    "researchCategories": []
   },
   {
     "id": 191,
@@ -7266,7 +8070,8 @@
     "address": "CSE Department 4th floor, Room No # 4J55, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "NAN",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 192,
@@ -7292,7 +8097,12 @@
     "address": "CSE Department 4th floor, Room No # 4M109, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "SWG",
-    "photoUrl": "/faculty_photos/Swattic Ghose (SWG).png"
+    "photoUrl": "/faculty_photos/Swattic_Ghose_(SWG).png",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Data Science",
+      "NLP"
+    ]
   },
   {
     "id": 193,
@@ -7307,7 +8117,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Data mining algorithms, Fault detection and fault tolerance, Security"
+      "Data Mining Algorithms",
+      "Fault Detection and Fault Tolerance",
+      "Security"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -7316,7 +8128,12 @@
     "address": "CSE Department 4th floor, Room No # 4K75, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TNF",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "Data Science",
+      "Software Engineering",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 194,
@@ -7338,7 +8155,8 @@
     "address": "CSE Department 4th floor, Room No # 4M112, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "TVRR",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 195,
@@ -7353,7 +8171,8 @@
       "PhD"
     ],
     "researchAreas": [
-      "Wireless Communications, MIMO Hybrid Beamforming Systems"
+      "Wireless Communications",
+      "MIMO Hybrid Beamforming Systems"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -7362,7 +8181,10 @@
     "address": "CSE Department 4th floor, Room No # 4N167, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TMY",
-    "photoUrl": "/faculty_photos/Tanvir Muntakim Tonoy (TMY).jpg"
+    "photoUrl": "/faculty_photos/Tanvir_Muntakim_Tonoy_(TMY).jpg",
+    "researchCategories": [
+      "Hardware & Electronics"
+    ]
   },
   {
     "id": 196,
@@ -7387,7 +8209,11 @@
     "address": "CSE Department 4th floor, Room No # 4N159, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TAV",
-    "photoUrl": "/faculty_photos/Tarvir Anjum Aditto (TAV).jpg"
+    "photoUrl": "/faculty_photos/Tarvir_Anjum_Aditto_(TAV).jpg",
+    "researchCategories": [
+      "Bioinformatics & Healthcare",
+      "Computer Vision"
+    ]
   },
   {
     "id": 197,
@@ -7411,7 +8237,8 @@
     "address": "CSE Department 4th floor, Room No # 4N151, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "TSE",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Tasneem_Mazhar_(TSE).jpg",
+    "researchCategories": []
   },
   {
     "id": 198,
@@ -7435,7 +8262,10 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TJH",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": [
+      "Large Language Models"
+    ]
   },
   {
     "id": 199,
@@ -7472,7 +8302,12 @@
     "address": "CSE Department 4th floor, Room No # 4K83, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TAP",
-    "photoUrl": "/faculty_photos/Tasnim Ahsan Prome (TAP).jpg"
+    "photoUrl": "/faculty_photos/Tasnim_Ahsan_Prome_(TAP).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ]
   },
   {
     "id": 200,
@@ -7494,7 +8329,8 @@
     "address": "CSE Department 4th floor, Room No # 4N141, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "UPM",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Tasnim_Sobhan_Upoma_(UPM).jpg",
+    "researchCategories": []
   },
   {
     "id": 201,
@@ -7516,7 +8352,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CTRK",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 202,
@@ -7531,7 +8368,10 @@
       "PhD"
     ],
     "researchAreas": [
-      "Artificial Intelligence, Machine Learning, Cyber Security, Cryptography"
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cyber Security",
+      "Cryptography"
     ],
     "recentPapers": [
       {
@@ -7551,7 +8391,11 @@
     "address": "CSE Department 4th floor, Room No # 4M119, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "TWK",
-    "photoUrl": "/faculty_photos/Towshik Anam Taj (TWK).jpg"
+    "photoUrl": "/faculty_photos/Towshik_Anam_Taj_(TWK).jpg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 203,
@@ -7559,7 +8403,7 @@
     "email": "ext.umaiya.maisha@bracu.ac.bd",
     "department": "CSE",
     "designation": "Adjunct Lecturer",
-    "bio": "Biography not available.",
+    "bio": "Fazal, M.A., Zafreen, Z., Sajin, M.H. et al. Laser-based imaging approach for nocturnal vessel detection in rivers. Sci Rep 14 , 31196 (2024). https://doi.org/10.1038/s41598-024-82345-3",
     "availableSlots": 0,
     "degreeTypes": [
       "MSc",
@@ -7573,7 +8417,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "UMS",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 204,
@@ -7588,7 +8433,9 @@
       "PhD"
     ],
     "researchAreas": [
-      "Human Computer Interaction (HCI), Artificial Intelligence (AI) and Bioinformatics."
+      "Human Computer Interaction (HCI)",
+      "Artificial Intelligence (AI)",
+      "Bioinformatics"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -7597,7 +8444,12 @@
     "address": "CSE Department 4th floor, Room No # 4K80, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "UJT",
-    "photoUrl": "/faculty_photos/Umme Jannat Taposhi (UJT).jpeg"
+    "photoUrl": "/faculty_photos/Umme_Jannat_Taposhi_(UJT).jpeg",
+    "researchCategories": [
+      "HCI & UX",
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare"
+    ]
   },
   {
     "id": 205,
@@ -7666,7 +8518,14 @@
     "address": "CSE Department 4th floor, Room No # 4N170, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "UTS",
-    "photoUrl": "/faculty_photos/Utsab Saha (UTS).jpeg"
+    "photoUrl": "/faculty_photos/Utsab_Saha_(UTS).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning",
+      "Deep Learning",
+      "Bioinformatics & Healthcare",
+      "Computer Vision",
+      "Security & Privacy"
+    ]
   },
   {
     "id": 206,
@@ -7690,7 +8549,8 @@
     "address": "CSE Department 4th floor, Room No # 4P199, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "UTKR",
-    "photoUrl": null
+    "photoUrl": "/faculty_photos/Utsha_Kumar_Roy_(UTKR).jpg",
+    "researchCategories": []
   },
   {
     "id": 207,
@@ -7705,9 +8565,12 @@
       "PhD"
     ],
     "researchAreas": [
-      "AI Methods:Deep learning, computer vision, multi-modal learning, and conditional content generation.",
-      "Biomedical Applications:Applying AI to detect and analyse neurological and mental health disorders such as schizophrenia using brain imaging and behavioural data.",
-      "Human-Centered AI:Building ethical, explainable, and assistive AI systems for trustworthy healthcare applications."
+      "Deep Learning",
+      "Computer Vision",
+      "Multi-modal Learning",
+      "Biomedical AI",
+      "Explainable AI",
+      "Human-Centered AI"
     ],
     "recentPapers": [],
     "coSupervisors": [],
@@ -7716,7 +8579,15 @@
     "address": "CSE Department 4th floor, Room No # 4L89, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "YND",
-    "photoUrl": "/faculty_photos/Yasmin Nadia (YND).jpg"
+    "photoUrl": "/faculty_photos/Yasmin_Nadia_(YND).jpg",
+    "researchCategories": [
+      "Deep Learning",
+      "Computer Vision",
+      "AI & Machine Learning",
+      "Bioinformatics & Healthcare",
+      "Explainability & Ethics",
+      "HCI & UX"
+    ]
   },
   {
     "id": 208,
@@ -7738,7 +8609,8 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CZRZ",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   },
   {
     "id": 209,
@@ -7764,7 +8636,10 @@
     "address": "CSE Department 4th floor, Room No # 4N156, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Accepting",
     "initials": "ZYH",
-    "photoUrl": "/faculty_photos/Zayed Humayun (ZYH).jpeg"
+    "photoUrl": "/faculty_photos/Zayed_Humayun_(ZYH).jpeg",
+    "researchCategories": [
+      "AI & Machine Learning"
+    ]
   },
   {
     "id": 210,
@@ -7786,6 +8661,7 @@
     "address": "CSE Department 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh",
     "thesisStatus": "Not Accepting",
     "initials": "CZBH",
-    "photoUrl": null
+    "photoUrl": null,
+    "researchCategories": []
   }
 ]

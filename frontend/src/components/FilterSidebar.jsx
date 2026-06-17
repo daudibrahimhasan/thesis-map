@@ -1,27 +1,17 @@
 import React from 'react';
-import { fields } from '../data/graphData';
+import { categories } from '../data/graphData';
 import styles from './FilterSidebar.module.css';
 
-const degreeOptions = ['Undergraduate', 'MSc', 'PhD'];
-
-export default function FilterSidebar({ filters, onChange, onClear }) {
+export default function FilterSidebar({ filters, onChange }) {
   const {
     search = '',
     areas = [],
-    availableOnly = false,
-    degreeTypes = [],
   } = filters;
 
   const toggleArray = (arr, val) =>
     arr.includes(val) ? arr.filter((v) => v !== val) : [...arr, val];
 
   const update = (patch) => onChange({ ...filters, ...patch });
-
-  const activeFilterCount =
-    (search.length > 0 ? 1 : 0) +
-    (areas.length > 0 ? 1 : 0) +
-    (availableOnly ? 1 : 0) +
-    (degreeTypes.length > 0 ? 1 : 0);
 
   return (
     <aside className={styles.sidebar} id="filter-sidebar">
@@ -49,59 +39,21 @@ export default function FilterSidebar({ filters, onChange, onClear }) {
       </label>
 
       <div className={styles.group}>
-        <div className={styles.groupTitle}>Research Areas</div>
+        <div className={styles.groupTitle}>Research Categories</div>
         <div className={styles.pillGroup}>
-          {fields.map((f) => (
+          {categories.map((c) => (
             <button
-              key={f.id}
-              className={areas.includes(f.label) ? styles.pillToggleActive : styles.pillToggle}
-              onClick={() => update({ areas: toggleArray(areas, f.label) })}
-              id={`filter-area-${f.id}`}
+              key={c.id}
+              className={areas.includes(c.label) ? styles.pillToggleActive : styles.pillToggle}
+              onClick={() => update({ areas: toggleArray(areas, c.label) })}
+              id={`filter-area-${c.id}`}
             >
-              {f.label}
+              {c.label}
             </button>
           ))}
         </div>
       </div>
 
-      <div className={styles.group}>
-        <div className={styles.groupTitle}>Availability</div>
-        <div className={styles.toggleCard}>
-          <div>
-            <div className={styles.toggleTitle}>Taking students only</div>
-            <div className={styles.toggleMeta}>Show only faculty with open supervision capacity.</div>
-          </div>
-          <div
-            className={availableOnly ? styles.toggleOn : styles.toggle}
-            onClick={() => update({ availableOnly: !availableOnly })}
-            role="switch"
-            aria-checked={availableOnly}
-            id="filter-available-toggle"
-          >
-            <div className={styles.toggleKnob} />
-          </div>
-        </div>
-      </div>
-
-      <div className={styles.group}>
-        <div className={styles.groupTitle}>Degree Type</div>
-        <div className={styles.pillGroup}>
-          {degreeOptions.map((d) => (
-            <button
-              key={d}
-              className={degreeTypes.includes(d) ? styles.pillToggleActive : styles.pillToggle}
-              onClick={() => update({ degreeTypes: toggleArray(degreeTypes, d) })}
-              id={`filter-degree-${d.toLowerCase()}`}
-            >
-              {d}
-            </button>
-          ))}
-        </div>
-      </div>
-
-      <button className={styles.clearBtn} onClick={onClear} id="filter-clear">
-        Clear all filters
-      </button>
     </aside>
   );
 }
