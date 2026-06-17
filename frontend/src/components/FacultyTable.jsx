@@ -54,8 +54,22 @@ export default function FacultyTable({ data, onSelectFaculty, sortConfig, onSort
             <tr key={faculty.id} onClick={() => onSelectFaculty(faculty)} id={`faculty-row-${faculty.id}`}>
               <td className={styles.facultyColumn}>
                 <div className={styles.nameCell}>
-                  <div className={styles.avatar} style={{ background: getAvatarColor(faculty.name) }}>
-                    {faculty.initials}
+                  <div
+                    className={styles.avatar}
+                    style={faculty.photoUrl ? {} : { background: getAvatarColor(faculty.name) }}
+                  >
+                    {faculty.photoUrl ? (
+                      <img
+                        src={faculty.photoUrl}
+                        alt={faculty.name}
+                        className={styles.avatarPhoto}
+                        loading="lazy"
+                        decoding="async"
+                        onError={(e) => { e.target.style.display = 'none'; e.target.parentNode.setAttribute('data-initials', faculty.initials); }}
+                      />
+                    ) : (
+                      faculty.initials
+                    )}
                   </div>
                   <div className={styles.nameInfo}>
                     <span className={styles.facultyName}>{faculty.name}</span>

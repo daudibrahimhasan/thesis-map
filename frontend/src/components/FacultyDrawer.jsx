@@ -53,10 +53,23 @@ export default function FacultyDrawer({ faculty, onClose }) {
 
             {/* Header */}
             <div className={styles.header}>
-              <div className={styles.name}>{faculty.name}</div>
-              <div className={styles.designation}>{faculty.designation}</div>
-              <div style={{ marginTop: 10 }}>
-                <AvailabilityBadge slots={faculty.availableSlots} />
+              <div className={styles.headerTop}>
+                {faculty.photoUrl && (
+                  <img
+                    src={faculty.photoUrl}
+                    alt={faculty.name}
+                    className={styles.headerPhoto}
+                    decoding="async"
+                    onError={(e) => { e.target.style.display = 'none'; }}
+                  />
+                )}
+                <div className={styles.headerInfo}>
+                  <div className={styles.name}>{faculty.name}</div>
+                  <div className={styles.designation}>{faculty.designation}</div>
+                  <div style={{ marginTop: 10 }}>
+                    <AvailabilityBadge slots={faculty.availableSlots} />
+                  </div>
+                </div>
               </div>
             </div>
 
@@ -115,6 +128,18 @@ export default function FacultyDrawer({ faculty, onClose }) {
                     {faculty.coSupervisors.map((c, i) => (
                       <div key={i} className={styles.coName}>{c}</div>
                     ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Profile Link */}
+              {faculty.profileLink && (
+                <div className={styles.section}>
+                  <div className={styles.sectionTitle}>Profile Link</div>
+                  <div style={{ fontSize: '0.84rem' }}>
+                    <a href={faculty.profileLink} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--blue-600)', textDecoration: 'none' }}>
+                      {faculty.profileLink}
+                    </a>
                   </div>
                 </div>
               )}

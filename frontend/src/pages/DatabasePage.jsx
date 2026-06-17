@@ -90,12 +90,6 @@ export default function DatabasePage() {
         return false;
       }
 
-      // 5. Default Visibility: Only show faculty with research areas if no search is active
-      // This ensures we see the 49 "active" researchers as requested
-      if (!filters.search && filters.areas.length === 0 && filters.degreeTypes.length === 0 && !filters.availableOnly) {
-        return f.researchAreas.length > 0;
-      }
-
       return true;
     });
   }, [filters]);

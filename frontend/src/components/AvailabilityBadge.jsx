@@ -9,15 +9,12 @@ export default function AvailabilityBadge({ slots, compact = false }) {
   let variant;
   let label;
 
-  if (slots >= 2) {
+  if (slots >= 1) {
     variant = styles.available;
     label = 'Accepting';
-  } else if (slots === 1) {
-    variant = styles.limited;
-    label = 'Limited';
   } else {
     variant = styles.full;
-    label = 'Full';
+    label = 'Not Accepting';
   }
 
   return (
