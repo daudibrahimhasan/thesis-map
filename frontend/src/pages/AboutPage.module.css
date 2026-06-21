@@ -1,0 +1,110 @@
+.page {
+  position: relative;
+  z-index: 1;
+  width: min(var(--content-max), calc(100vw - 48px));
+  margin: 0 auto;
+  min-height: calc(100vh - var(--nav-height));
+  padding: var(--nav-height) 0 48px;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-sans);
+}
+
+.block {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  gap: clamp(32px, 6vw, 88px);
+  align-items: center;
+  width: 100%;
+}
+
+/* ── Text column ── */
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand {
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.role {
+  margin-top: 10px;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+
+.title {
+  margin-top: 18px;
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 5vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  line-height: 1;
+  color: var(--text);
+}
+
+.body {
+  margin-top: 22px;
+  max-width: 30rem;
+  font-size: 0.98rem;
+  line-height: 1.75;
+  color: var(--text-muted);
+}
+
+.readMore {
+  align-self: flex-start;
+  margin-top: 26px;
+  padding-bottom: 3px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  border-bottom: 1.5px solid var(--text);
+  transition: opacity var(--duration-normal) var(--ease-out);
+}
+
+.readMore:hover {
+  opacity: 0.6;
+}
+
+/* ── Image column ── */
+.media {
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: clamp(320px, 52vh, 460px);
+  object-fit: cover;
+}
+
+/* ── Responsive ── */
+@media (max-width: 860px) {
+  .page {
+    width: min(var(--content-max), calc(100vw - 32px));
+    padding-top: calc(var(--nav-height) + 24px);
+  }
+
+  .block {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .media {
+    order: -1;
+  }
+
+  .image {
+    height: clamp(220px, 42vh, 340px);
+  }
+}

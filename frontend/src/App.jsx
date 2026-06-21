@@ -5,7 +5,7 @@ import CloudBackground from './components/CloudBackground';
 import HomePage from './pages/HomePage';
 import DatabasePage from './pages/DatabasePage';
 import ActionWorkspacePage from './pages/ActionWorkspacePage';
-import ReviewCommunityPage from './pages/ReviewCommunityPage';
+import AboutPage from './pages/AboutPage';
 
 /**
  * StudentContext — stores the student's profile data
@@ -71,8 +71,9 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/database" element={<DatabasePage />} />
           <Route path="/action" element={<ActionWorkspacePage />} />
-          <Route path="/review" element={<ReviewCommunityPage />} />
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/match" element={<Navigate to="/action" replace />} />
+          <Route path="/review" element={<Navigate to="/about" replace />} />
         </Routes>
       </Router>
     </StudentContext.Provider>

@@ -1,4 +1,6 @@
 .page {
+  position: relative;
+  z-index: 1;
   width: min(var(--content-max), calc(100vw - 48px));
   margin: 0 auto;
   padding: calc(var(--nav-height) + 32px) 0 40px;

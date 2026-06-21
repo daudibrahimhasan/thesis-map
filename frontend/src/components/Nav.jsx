@@ -124,10 +124,10 @@ export default function Nav() {
             Action
           </NavLink>
           <NavLink
-            to="/review"
+            to="/about"
             className={({ isActive }) => isActive ? styles.linkActive : styles.link}
           >
-            Review
+            About
           </NavLink>
         </div>
 

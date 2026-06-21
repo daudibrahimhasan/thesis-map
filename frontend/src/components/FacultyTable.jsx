@@ -6,7 +6,7 @@ import styles from './FacultyTable.module.css';
 const sortLabels = {
   name: 'Faculty',
   initials: 'Initial',
-  research: 'Research Categories',
+  research: 'Domain',
   availability: 'Availability',
   contact: 'Contact',
 };
