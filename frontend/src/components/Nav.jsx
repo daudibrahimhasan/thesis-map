@@ -1,18 +1,18 @@
 import React, { useState, useContext, useEffect, useMemo } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { StudentContext } from '../App';
+import { useAuth } from '../context/AuthContext';
 import styles from './Nav.module.css';
-
-const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID || '';
 
 export default function Nav() {
   const { student, setStudent } = useContext(StudentContext);
+  const { user, signInWithGoogle, signOut, loading: authLoading } = useAuth();
   const [showProfile, setShowProfile] = useState(false);
   const [authError, setAuthError] = useState('');
   const [isHidden, setIsHidden] = useState(false);
   const navigate = useNavigate();
 
-  const isSignedIn = Boolean(student.email || student.avatarUrl || student.name);
+  const isSignedIn = Boolean(user || student.email || student.avatarUrl || student.name);
 
   useEffect(() => {
     let lastScrollY = window.scrollY;
@@ -30,27 +30,6 @@ export default function Nav() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  useEffect(() => {
-    const handleGoogleReady = () => {
-      if (window.google?.accounts?.id && GOOGLE_CLIENT_ID) {
-        window.google.accounts.id.initialize({
-          client_id: GOOGLE_CLIENT_ID,
-          callback: handleGoogleCredential,
-          auto_select: false,
-          cancel_on_tap_outside: true,
-        });
-      }
-    };
-
-    if (window.google?.accounts?.id && GOOGLE_CLIENT_ID) {
-      handleGoogleReady();
-    } else {
-      const onLoad = () => handleGoogleReady();
-      window.addEventListener('google-loaded', onLoad);
-      return () => window.removeEventListener('google-loaded', onLoad);
-    }
-  }, []);
-
   const initials = useMemo(() => {
     if (!student.name) return 'TM';
     const parts = student.name.trim().split(/\s+/);
@@ -58,38 +37,22 @@ export default function Nav() {
     return `${parts[0][0]}${parts[parts.length - 1][0]}`.toUpperCase();
   }, [student.name]);
 
-  function handleGoogleCredential(response) {
+  const handleGoogleSignIn = async () => {
+    setAuthError('');
     try {
-      const payload = parseJwt(response.credential);
-      setStudent((current) => ({
-        ...current,
-        name: payload.name || current.name,
-        email: payload.email || current.email,
-        avatarUrl: payload.picture || current.avatarUrl,
-      }));
-      setAuthError('');
-      setShowProfile(true);
-    } catch (_error) {
-      setAuthError('Google sign-in could not be completed.');
+      await signInWithGoogle();
+    } catch (err) {
+      setAuthError(err.message || 'Google sign-in failed.');
     }
-  }
-
-  const handleGoogleSignIn = () => {
-    if (!GOOGLE_CLIENT_ID) {
-      setAuthError('Set VITE_GOOGLE_CLIENT_ID to enable Google sign-in.');
-      return;
-    }
-    if (!window.google?.accounts?.id) {
-      setAuthError('Google Sign-In is loading...');
-      return;
-    }
-    window.google.accounts.id.prompt();
   };
 
-  const handleLogout = () => {
-    if (student.email && window.google?.accounts?.id) {
-      window.google.accounts.id.disableAutoSelect();
+  const handleLogout = async () => {
+    try {
+      await signOut();
+    } catch (_err) {
+      // Ignore sign-out errors
     }
+
     setStudent({
       name: '',
       studentId: '',
@@ -192,6 +155,13 @@ export default function Nav() {
                     <span className={styles.googleIcon}>G</span>
                     Sign in with Google
                   </button>
+                  <button
+                    className={styles.googleButton}
+                    onClick={() => { setShowProfile(false); navigate('/login'); }}
+                    style={{ marginTop: 4 }}
+                  >
+                    Sign in with Email
+                  </button>
                   {authError && <p className={styles.authError}>{authError}</p>}
                 </div>
               )}
@@ -201,17 +171,4 @@ export default function Nav() {
       </div>
     </nav>
   );
-}
-
-// Token signature is validated by Google Identity Services SDK before this callback fires; verify server-side via Google tokeninfo endpoint if this payload is ever used for backend authorization.
-function parseJwt(token) {
-  const base64Url = token.split('.')[1];
-  const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
-  const jsonPayload = decodeURIComponent(
-    atob(base64)
-      .split('')
-      .map((char) => `%${(`00${char.charCodeAt(0).toString(16)}`).slice(-2)}`)
-      .join('')
-  );
-  return JSON.parse(jsonPayload);
 }

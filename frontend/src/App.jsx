@@ -1,11 +1,13 @@
 import React, { useEffect, useState, createContext } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { AuthProvider, useAuth } from './context/AuthContext';
 import Nav from './components/Nav';
 import CloudBackground from './components/CloudBackground';
 import HomePage from './pages/HomePage';
 import DatabasePage from './pages/DatabasePage';
 import ActionWorkspacePage from './pages/ActionWorkspacePage';
 import AboutPage from './pages/AboutPage';
+import LoginPage from './pages/LoginPage';
 
 /**
  * StudentContext — stores the student's profile data
@@ -27,7 +29,14 @@ export const StudentContext = createContext({
 
 const STORAGE_KEY = 'thesismap.student-profile';
 
-export default function App() {
+/**
+ * Inner app — has access to AuthContext via useAuth().
+ * Syncs Supabase auth user data → StudentContext automatically
+ * so all existing components (EmailForm, etc.) keep working.
+ */
+function AppShell() {
+  const { user } = useAuth();
+
   const [student, setStudent] = useState(() => {
     try {
       const saved = window.localStorage.getItem(STORAGE_KEY);
@@ -49,6 +58,7 @@ export default function App() {
     };
   });
 
+  // Persist to localStorage
   useEffect(() => {
     try {
       window.localStorage.setItem(STORAGE_KEY, JSON.stringify(student));
@@ -56,6 +66,19 @@ export default function App() {
       // Ignore persistence issues in restricted environments.
     }
   }, [student]);
+
+  // Sync Supabase auth user → StudentContext
+  useEffect(() => {
+    if (!user) return;
+
+    const meta = user.user_metadata || {};
+    setStudent((current) => ({
+      ...current,
+      name: meta.full_name || meta.name || current.name,
+      email: user.email || current.email,
+      avatarUrl: meta.avatar_url || meta.picture || current.avatarUrl,
+    }));
+  }, [user]);
 
   return (
     <StudentContext.Provider value={{ student, setStudent }}>
@@ -72,10 +95,19 @@ export default function App() {
           <Route path="/database" element={<DatabasePage />} />
           <Route path="/action" element={<ActionWorkspacePage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/login" element={<LoginPage />} />
           <Route path="/match" element={<Navigate to="/action" replace />} />
           <Route path="/review" element={<Navigate to="/about" replace />} />
         </Routes>
       </Router>
     </StudentContext.Provider>
+  );
+}
+
+export default function App() {
+  return (
+    <AuthProvider>
+      <AppShell />
+    </AuthProvider>
   );
 }

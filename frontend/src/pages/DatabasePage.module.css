@@ -148,3 +148,170 @@
     padding: 16px;
   }
 }
+
+/* ===== Scroll-gate overlay ===== */
+.scrollGate {
+  position: fixed;
+  inset: 0;
+  z-index: 900;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 12vh;
+  animation: gateIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes gateIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Top-to-bottom gradient that fades the table out */
+.scrollGateGradient {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(234, 248, 255, 0)   0%,
+      rgba(234, 248, 255, 0.4) 15%,
+      rgba(234, 248, 255, 0.78) 35%,
+      rgba(234, 248, 255, 0.94) 55%,
+      rgba(234, 248, 255, 1)   100%
+    );
+  pointer-events: none;
+}
+
+/* Card */
+.scrollGateCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  max-width: 420px;
+  width: 90%;
+  padding: 40px 36px 36px;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(24px) saturate(1.6);
+  -webkit-backdrop-filter: blur(24px) saturate(1.6);
+  box-shadow:
+    0 24px 80px rgba(14, 165, 233, 0.14),
+    0 4px 16px rgba(14, 165, 233, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.72);
+  text-align: center;
+  animation: cardUp 0.55s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes cardUp {
+  from {
+    opacity: 0;
+    transform: translateY(32px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Lock icon */
+.scrollGateLock {
+  width: 56px;
+  height: 56px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(56, 189, 248, 0.15), rgba(37, 99, 235, 0.12));
+  color: #0EA5E9;
+  margin-bottom: 4px;
+}
+
+/* Title */
+.scrollGateTitle {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.45rem;
+  letter-spacing: -0.02em;
+  color: #0F172A;
+  line-height: 1.2;
+}
+
+/* Text */
+.scrollGateText {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: #475569;
+  max-width: 340px;
+}
+
+/* Google sign-in button */
+.scrollGateGoogle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 52px;
+  padding: 14px 24px;
+  margin-top: 4px;
+  border-radius: 14px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #0F172A;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  box-shadow:
+    0 2px 8px rgba(14, 165, 233, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.72);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  cursor: pointer;
+}
+
+.scrollGateGoogle:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 8px 24px rgba(14, 165, 233, 0.16),
+    inset 0 1px 0 rgba(255, 255, 255, 0.72);
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.scrollGateGoogle:active {
+  transform: translateY(0);
+}
+
+/* Google icon wrapper */
+.scrollGateGIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+/* Auth error */
+.scrollGateError {
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: #DC2626;
+  margin-top: 2px;
+}
+
+@media (max-width: 760px) {
+  .scrollGate {
+    padding-bottom: 8vh;
+  }
+
+  .scrollGateCard {
+    padding: 28px 24px 24px;
+    border-radius: 20px;
+    max-width: 360px;
+  }
+
+  .scrollGateTitle {
+    font-size: 1.25rem;
+  }
+}
