@@ -155,13 +155,6 @@ export default function Nav() {
                     <span className={styles.googleIcon}>G</span>
                     Sign in with Google
                   </button>
-                  <button
-                    className={styles.googleButton}
-                    onClick={() => { setShowProfile(false); navigate('/login'); }}
-                    style={{ marginTop: 4 }}
-                  >
-                    Sign in with Email
-                  </button>
                   {authError && <p className={styles.authError}>{authError}</p>}
                 </div>
               )}
